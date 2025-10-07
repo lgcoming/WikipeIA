@@ -4,6 +4,7 @@ import type { Tool } from "@/lib/types";
 import { memo, useEffect, useMemo, useState } from "react";
 import { useFavorites } from "@/hooks/useFavorites";
 import Image from "next/image";
+import ToolImage from "./ToolImage";
 
 function ToolCard({ tool, onSelect }: { tool: Tool; onSelect?: (tool: Tool) => void }) {
   const { isFav, toggle } = useFavorites();
@@ -91,7 +92,7 @@ function ToolCard({ tool, onSelect }: { tool: Tool; onSelect?: (tool: Tool) => v
             href={tool.enlace}
             target="_blank"
             rel="noreferrer noopener"
-            className="inline-flex items-center justify-center rounded-lg px-1.5 py-1 text-[14px] font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/40 hover:ring-1 hover:ring-white/30 border border-white/60 bg-[#007aa3]/80 hover:bg-[#007aa3] text-white flex-1 mx-0.5 mb-0.5"
+            className="inline-flex items-center justify-center rounded-lg px-1.5 py-1 text-[14px] font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 hover:bg-[#00d4ff]/30 hover:text-white border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff] flex-1 mx-0.5 mb-0.5"
             onClick={(e) => e.stopPropagation()}
           >
             Visitar

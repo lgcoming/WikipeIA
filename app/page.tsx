@@ -10,7 +10,7 @@ import toolsData from "@/data/tools.json";
 import { useFavorites } from "@/hooks/useFavorites";
 import { applyTab, filterByCategory, filterByQuery } from "@/lib/filters";
 import ToolModal from "@/components/tool/ToolModal";
-import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
+import { motion } from "framer-motion";
 import { TABS } from "@/lib/constants";
 
 
@@ -46,17 +46,6 @@ export default function Home() {
     setMounted(true);
   }, []);
 
-  // Parallax suave con el cursor para los difuminados del hero
-  const mx = useMotionValue(0);
-  const my = useMotionValue(0);
-  const sx = useSpring(mx, { stiffness: 100, damping: 20, mass: 0.3 });
-  const sy = useSpring(my, { stiffness: 100, damping: 20, mass: 0.3 });
-  // Capas con distintos factores para dar profundidad
-  const xLayer1 = useTransform(sx, (v) => v * 0.8);
-  const yLayer1 = useTransform(sy, (v) => v * 0.8);
-  const xLayer2 = useTransform(sx, (v) => v * -0.6);
-  const yLayer2 = useTransform(sy, (v) => v * -0.4);
-
   return (
     <div className="min-h-screen w-full flex flex-col gap-8">
       <main className="w-full flex flex-col items-center gap-3">
@@ -66,38 +55,46 @@ export default function Home() {
           style={{ width: "100vw", marginLeft: "calc(50% - 50vw)", marginRight: "calc(50% - 50vw)" }}
         >
         <section
-          className="relative w-full overflow-hidden pt-16 sm:pt-24 pb-1 sm:pb-2 border-b border-black/10 dark:border-white/15"
+          className="relative w-full overflow-hidden pt-16 sm:pt-24 pb-1 sm:pb-2 border-b border-black/10 dark:border-white/15 bg-gradient-to-br from-black via-blue-950 to-black dark:from-black dark:via-blue-900 dark:to-black"
           suppressHydrationWarning
-          onMouseMove={(e) => {
-            const cx = window.innerWidth / 2;
-            const cy = window.innerHeight / 2;
-            mx.set((e.clientX - cx) * 0.06);
-            my.set((e.clientY - cy) * 0.08);
-          }}
         >
-          {/* Auroras / blobs animados */}
-          <motion.div className="absolute inset-0" initial={false} animate={{ opacity: 1 }} transition={{ duration: 0.6 }}>
-            <motion.div
-              className="aurora-layer absolute -top-40 -left-40 h-[28rem] w-[28rem] rounded-full blur-2xl"
-              style={{
-                background: "radial-gradient(closest-side, rgba(0,212,255,0.45), transparent)",
-                x: xLayer1,
-                y: yLayer1,
-              }}
-              animate={{ y: [0, -10, 0], x: [0, 8, 0], rotate: [0, 15, 0] }}
-              transition={{ duration: 10, repeat: Infinity, ease: "easeInOut" }}
-            />
-            <motion.div
-              className="aurora-layer absolute -top-24 right-[-120px] h-[28rem] w-[28rem] rounded-full blur-2xl"
-              style={{
-                background: "radial-gradient(closest-side, rgba(79,70,229,0.4), transparent)",
-                x: xLayer2,
-                y: yLayer2,
-              }}
-              animate={{ y: [0, 12, 0], x: [0, -10, 0], rotate: [0, -10, 0] }}
-              transition={{ duration: 12, repeat: Infinity, ease: "easeInOut" }}
-            />
-          </motion.div>
+          {/* Efectos futuristas neon eléctricos AMOLED */}
+          <div className="absolute inset-0 overflow-hidden">
+            {/* Base AMOLED profunda */}
+            <div className="absolute inset-0 bg-gradient-to-br from-black via-blue-950 to-black dark:from-black dark:via-blue-900 dark:to-black" />
+            
+            {/* Capa de cristal oscuro */}
+            <div className="absolute inset-0 bg-black/60 dark:bg-black/70" />
+            
+            {/* Capa de profundidad con neon */}
+            <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
+            
+            {/* Gradientes neon laterales */}
+            <div className="absolute inset-0 bg-gradient-to-r from-[#00d4ff]/15 via-transparent to-[#00d4ff]/15" />
+            <div className="absolute inset-0 bg-gradient-to-r from-transparent via-[#00a8cc]/10 to-transparent" />
+            
+            {/* Efectos de brillo central */}
+            <div className="absolute inset-0 bg-gradient-radial from-transparent via-[#00d4ff]/8 to-transparent" />
+            
+            {/* Partículas neon sutiles */}
+            <div className="absolute inset-0">
+              <div className="absolute top-1/4 left-1/4 w-2 h-2 bg-[#00d4ff]/40 rounded-full blur-sm" />
+              <div className="absolute top-1/3 right-1/3 w-1.5 h-1.5 bg-[#00a8cc]/50 rounded-full blur-sm" />
+              <div className="absolute bottom-1/4 left-1/3 w-1 h-1 bg-[#00d4ff]/60 rounded-full blur-sm" />
+              <div className="absolute bottom-1/3 right-1/4 w-2.5 h-2.5 bg-[#00a8cc]/30 rounded-full blur-sm" />
+            </div>
+            
+            {/* Efecto de grid sutil */}
+            <div className="absolute inset-0 opacity-5">
+              <div className="absolute inset-0" style={{
+                backgroundImage: `
+                  linear-gradient(rgba(0,212,255,0.1) 1px, transparent 1px),
+                  linear-gradient(90deg, rgba(0,212,255,0.1) 1px, transparent 1px)
+                `,
+                backgroundSize: '50px 50px'
+              }} />
+            </div>
+          </div>
 
           {/* Contenido hero: animación de entrada visible (sólo en cliente) */}
           <motion.div
@@ -106,10 +103,10 @@ export default function Home() {
             transition={{ type: "spring", stiffness: 180, damping: 26, mass: 0.9, duration: 0.55 }}
             className="relative z-10 mx-auto max-w-3xl px-4 text-center -translate-y-4 sm:-translate-y-6 md:-translate-y-8"
           >
-            <p className="text-lg sm:text-xl md:text-3xl leading-relaxed text-white/90 neon-text font-display tracking-wide">
+            <p className="text-lg sm:text-xl md:text-3xl leading-relaxed text-white/95 font-display tracking-wide drop-shadow-lg">
             Tu wikipedia de multiples herramientas IA. Filtra por categorías y descubre.
             </p>
-            <div className="mt-12 flex justify-center">
+            <div className="mt-8 flex justify-center">
               <SearchBar value={query} onChange={setQuery} onChangeDebounced={setQuery} />
             </div>
           </motion.div>

@@ -25,15 +25,9 @@ export default function CookieBanner() {
                 
                 {/* Text content */}
                 <div className="flex items-center gap-3 flex-1">
-                  <span className="text-lg">🍪</span>
+                  <span className="text-lg"></span>
                   <p className="text-sm text-white/90">
-                    Utilizamos cookies para mejorar su experiencia.{" "}
-                    <button 
-                      onClick={openSettings}
-                      className="text-blue-400 hover:text-blue-300 underline underline-offset-2 transition"
-                    >
-                      Configurar
-                    </button>
+                    Utilizamos las cookies para ofrecerte la mejor experiencia en nuestra web.{" "}
                   </p>
                 </div>
 
@@ -41,14 +35,14 @@ export default function CookieBanner() {
                 <div className="flex items-center gap-2">
                   <button
                     onClick={denyAll}
-                    className="rounded-lg border border-white/20 bg-transparent px-3 py-1.5 text-xs font-medium text-white/80 transition hover:bg-white/10 hover:text-white focus:outline-none focus:ring-2 focus:ring-white/40"
+                    className="rounded-lg px-3 py-1.5 text-xs font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff]"
                   >
                     Solo Esenciales
                   </button>
                   
                   <button
                     onClick={acceptAll}
-                    className="rounded-lg border border-white/60 bg-[#007aa3]/80 hover:bg-[#007aa3] px-4 py-1.5 text-xs font-medium text-white transition focus:outline-none focus:ring-2 focus:ring-white/40"
+                    className="rounded-lg px-4 py-1.5 text-xs font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff]"
                   >
                     Aceptar
                   </button>

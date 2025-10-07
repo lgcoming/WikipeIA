@@ -74,7 +74,7 @@ export default function SearchBar({
         />
       </div>
       <motion.div
-        className="mt-3 text-sm text-black/50 dark:text-white/60"
+        className="mt-6 text-sm text-black/50 dark:text-white/60"
         initial={false}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.4, ease: "easeOut" }}

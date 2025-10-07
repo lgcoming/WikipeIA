@@ -204,20 +204,20 @@ export default function CookieSettings() {
               <div className="flex gap-3">
                 <button
                   onClick={handleDenyAll}
-                  className="rounded-lg border border-white/30 bg-transparent px-4 py-2 text-sm font-medium text-white/80 transition hover:bg-white/10 hover:text-white focus:outline-none focus:ring-2 focus:ring-white/40"
+                  className="rounded-lg px-4 py-2 text-sm font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff]"
                 >
                   Solo Esenciales
                 </button>
                 <button
                   onClick={handleAcceptAll}
-                  className="rounded-lg border border-white/60 bg-[#007aa3]/80 hover:bg-[#007aa3] px-4 py-2 text-sm font-medium text-white transition focus:outline-none focus:ring-2 focus:ring-white/40"
+                  className="rounded-lg px-4 py-2 text-sm font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff]"
                 >
                   Aceptar Todo
                 </button>
               </div>
               <button
                 onClick={handleSave}
-                className="rounded-lg border border-white/60 bg-[#007aa3]/80 hover:bg-[#007aa3] px-6 py-2 text-sm font-medium text-white shadow-lg transition focus:outline-none focus:ring-2 focus:ring-white/40"
+                className="rounded-lg px-6 py-2 text-sm font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff] shadow-lg"
               >
                 Guardar Preferencias
               </button>

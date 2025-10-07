@@ -59,7 +59,7 @@ export default function ContactButton() {
           setOpen(true);
           setOpenedAt(Date.now());
         }}
-          className="rounded-lg px-4 py-2 text-sm font-medium focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/40 hover:ring-1 hover:ring-white/30 border border-white/60 bg-[#007aa3]/80 hover:bg-[#007aa3] text-white transition cursor-pointer"
+          className="rounded-lg px-4 py-2 text-sm font-medium focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 hover:bg-[#00d4ff]/30 hover:text-white border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff] transition cursor-pointer"
       >
         Contacto
       </button>

@@ -23,13 +23,11 @@ export default function ToolModal({
     if (tool?.imagenes && tool.imagenes.length) {
       arr.push(...tool.imagenes.filter(Boolean));
     }
-    if (tool?.imagen && tool.imagen.trim()) arr.push(tool.imagen);
-    try {
-      if (tool?.enlace) {
-        const u = new URL(tool.enlace);
-        arr.push(`https://www.google.com/s2/favicons?sz=128&domain=${u.hostname}`);
-      }
-    } catch {}
+    // Solo usar imagen principal si no hay imágenes de galería
+    if (arr.length === 0 && tool?.imagen && tool.imagen.trim()) {
+      arr.push(tool.imagen);
+    }
+    // Solo usar favicon como último recurso
     if (arr.length === 0) arr.push("/favicon.ico");
     return Array.from(new Set(arr));
   }, [tool]);
@@ -86,7 +84,7 @@ export default function ToolModal({
 
         {/* Panel */}
         <motion.div
-          className="relative z-10 w-full max-w-3xl max-h-[90vh] overflow-y-auto rounded-2xl border border-white/15 bg-zinc-950 text-white shadow-2xl"
+          className="relative z-10 w-full max-w-6xl max-h-[90vh] overflow-y-auto rounded-2xl border border-white/15 bg-zinc-950 text-white shadow-2xl"
           onClick={(e) => e.stopPropagation()}
           initial={{ opacity: 0, y: 8, scale: 0.98 }}
           animate={{ opacity: 1, y: 0, scale: 1 }}
@@ -115,10 +113,10 @@ export default function ToolModal({
             </button>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-0">
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-0">
             {/* Columna izquierda: Galería */}
-            <div className="relative p-3 bg-white/[0.02] flex items-center justify-center">
-              <div className="relative overflow-hidden rounded-xl aspect-square shadow-xl border border-white/10 w-full h-full">
+            <div className="relative p-3 bg-white/[0.02] flex items-center justify-center lg:col-span-2">
+              <div className="relative overflow-hidden rounded-xl aspect-[18/9] shadow-xl border border-white/10 w-full h-full">
                 <motion.div
                   key={images[index]}
                   initial={{ opacity: 0 }}
@@ -172,7 +170,7 @@ export default function ToolModal({
             </div>
 
             {/* Columna derecha: Información */}
-            <div className="flex flex-col border-t md:border-t-0 md:border-l border-white/10 py-5 px-5 gap-3.5">
+            <div className="flex flex-col border-t lg:border-t-0 lg:border-l border-white/10 py-5 px-5 gap-3.5">
               {/* Descripción breve */}
               <div>
                 <h3 className="text-xs font-semibold text-white/50 uppercase tracking-wide mb-1.5">Descripción</h3>
@@ -225,7 +223,7 @@ export default function ToolModal({
                   href={tool.enlace}
                   target="_blank"
                   rel="noreferrer noopener"
-                  className="inline-flex items-center justify-center rounded-lg px-1.5 py-1 text-[14px] font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/40 hover:ring-1 hover:ring-white/30 border border-white/60 bg-[#007aa3]/80 hover:bg-[#007aa3] text-white flex-1 mx-0.5 mb-0.5"
+                  className="inline-flex items-center justify-center rounded-lg px-1.5 py-1 text-[14px] font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 hover:bg-[#00d4ff]/30 hover:text-white border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff] flex-1 mx-0.5 mb-0.5"
                 >
                   Visitar
                 </a>

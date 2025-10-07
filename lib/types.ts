@@ -9,7 +9,7 @@ export type Tool = {
   etiquetas?: string[];     // ej: ["Destacada","Nueva"]
   enlace: string;
   imagen?: string;
-  imagenes?: string[];      // imágenes adicionales para galería en el modal
+  imagenes?: string[];      // URLs de imágenes desde Vercel Blob para galería
   descripcion: string;
   descripcionDetallada?: string; // descripción extendida para el modal
   pruebaGratis?: boolean;   // indica si ofrece prueba gratis (sólo relevante para pago)

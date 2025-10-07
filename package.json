@@ -10,6 +10,7 @@
     "lint:fix": "eslint . --ext .js,.ts,.tsx --fix"
   },
   "dependencies": {
+    "@vercel/blob": "^2.0.0",
     "framer-motion": "^12.23.12",
     "next": "15.5.3",
     "react": "19.1.0",
@@ -24,6 +25,8 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.5.3",
+    "fast-glob": "^3.3.3",
+    "image-size": "^2.0.2",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

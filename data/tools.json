@@ -7,7 +7,11 @@
     "etiquetas": [],
     "enlace": "https://2short.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/2short.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/2short.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/2short.ai/3.jpg"
+    ],
     "descripcion": "Convierte vídeos largos en shorts (YouTube Shorts, Reels, TikTok) con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Convierte vídeos largos en shorts (YouTube Shorts, Reels, TikTok) con IA. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -20,7 +24,11 @@
     "etiquetas": [],
     "enlace": "https://www.adcreative.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AdCreative.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AdCreative.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AdCreative.ai/3.jpg"
+    ],
     "descripcion": "Genera creatividades y copies de anuncios con IA para Google/Meta/Display.",
     "pruebaGratis": true,
     "descripcionDetallada": "Genera creatividades y copies de anuncios con IA para Google/Meta/Display. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -33,7 +41,11 @@
     "etiquetas": [],
     "enlace": "https://copymatic.ai/?via=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copymatic/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copymatic/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copymatic/3.jpg"
+    ],
     "descripcion": "Redactor de contenidos con IA para blogs, landings y ads.",
     "pruebaGratis": true,
     "descripcionDetallada": "Redactor de contenidos con IA para blogs, landings y ads. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -46,7 +58,11 @@
     "etiquetas": [],
     "enlace": "https://fliki.ai/?via=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Fliki/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Fliki/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Fliki/3.jpg"
+    ],
     "descripcion": "Convierte texto en videos con voces IA realistas; editor online y plantillas.",
     "pruebaGratis": true,
     "descripcionDetallada": "Convierte texto en videos con voces IA realistas; editor online y plantillas. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -59,7 +75,11 @@
     "etiquetas": [],
     "enlace": "https://genovideo.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Genovideo/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Genovideo/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Genovideo/3.jpg"
+    ],
     "descripcion": "Generador de videos con IA en español a partir de texto.",
     "descripcionDetallada": "Generador de videos con IA en español a partir de texto. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -71,7 +91,11 @@
     "etiquetas": [],
     "enlace": "https://www.humata.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Humata_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Humata_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Humata_AI/3.jpg"
+    ],
     "descripcion": "Q&A sobre tus archivos: sube PDFs y pregunta para obtener respuestas citadas.",
     "pruebaGratis": true,
     "descripcionDetallada": "Q&A sobre tus archivos: sube PDFs y pregunta para obtener respuestas citadas. Devuelve respuestas sintetizadas con fuentes citadas. Útil para investigación rápida y verificación de información. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -84,7 +108,11 @@
     "etiquetas": [],
     "enlace": "https://rytr.me/?via=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Rytr/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Rytr/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Rytr/3.jpg"
+    ],
     "descripcion": "Asistente de escritura para blogs/SEO/redes; plantillas y extensión.",
     "pruebaGratis": true,
     "descripcionDetallada": "Asistente de escritura para blogs/SEO/redes; plantillas y extensión. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -97,7 +125,11 @@
     "etiquetas": [],
     "enlace": "https://www.synthesia.io/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Synthesia/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Synthesia/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Synthesia/3.jpg"
+    ],
     "descripcion": "Crea videos a partir de texto con avatares y voces IA en +140 idiomas.",
     "descripcionDetallada": "Crea videos a partir de texto con avatares y voces IA en +140 idiomas. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -109,7 +141,11 @@
     "etiquetas": [],
     "enlace": "https://www.bhuman.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/BHuman/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/BHuman/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/BHuman/3.jpg"
+    ],
     "descripcion": "Videos hiperpersonalizados a escala para ventas, marketing y soporte.",
     "pruebaGratis": true,
     "descripcionDetallada": "Videos hiperpersonalizados a escala para ventas, marketing y soporte. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -122,7 +158,11 @@
     "etiquetas": [],
     "enlace": "https://www.namecheap.com/logo-maker/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Namecheap_Logo_Maker/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Namecheap_Logo_Maker/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Namecheap_Logo_Maker/3.jpg"
+    ],
     "descripcion": "Creador de logotipos gratuito con exportación en PNG/SVG.",
     "descripcionDetallada": "Creador de logotipos gratuito con exportación en PNG/SVG. Crea logotipos y exporta assets en formatos estándar. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -134,7 +174,11 @@
     "etiquetas": [],
     "enlace": "https://smodin.io/pricing?fpr=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Smodin/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Smodin/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Smodin/3.jpg"
+    ],
     "descripcion": "Suite de escritura con IA para reescritura, citación y generación de contenidos.",
     "pruebaGratis": true,
     "descripcionDetallada": "Suite de escritura con IA para reescritura, citación y generación de contenidos. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -147,7 +191,11 @@
     "etiquetas": [],
     "enlace": "https://ai-writer.com?via=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AI-Writer/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AI-Writer/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AI-Writer/3.jpg"
+    ],
     "descripcion": "Genera artículos precisos y citas con IA; optimización SEO.",
     "pruebaGratis": true,
     "descripcionDetallada": "Genera artículos precisos y citas con IA; optimización SEO. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -160,7 +208,11 @@
     "etiquetas": [],
     "enlace": "https://aiseo.ai/?fpr=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AISEO/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AISEO/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AISEO/3.jpg"
+    ],
     "descripcion": "Escritura asistida por IA con herramientas SEO y para redes sociales.",
     "pruebaGratis": true,
     "descripcionDetallada": "Escritura asistida por IA con herramientas SEO y para redes sociales. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -173,7 +225,11 @@
     "etiquetas": [],
     "enlace": "https://anyword.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Anyword/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Anyword/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Anyword/3.jpg"
+    ],
     "descripcion": "Plataforma de copy marketing con predicciones de performance.",
     "pruebaGratis": true,
     "descripcionDetallada": "Plataforma de copy marketing con predicciones de performance. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -186,7 +242,11 @@
     "etiquetas": [],
     "enlace": "https://articlefiesta.com/?af=landlady-curriculum",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Article_Fiesta/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Article_Fiesta/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Article_Fiesta/3.jpg"
+    ],
     "descripcion": "Generador de artículos listos para SEO con imágenes y enlaces.",
     "pruebaGratis": true,
     "descripcionDetallada": "Generador de artículos listos para SEO con imágenes y enlaces. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -199,7 +259,11 @@
     "etiquetas": [],
     "enlace": "https://typeform.cello.so/v4p4VdwIfeU",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ArticleForge/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ArticleForge/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ArticleForge/3.jpg"
+    ],
     "descripcion": "Crea artículos de alta calidad en minutos con IA, orientado a SEO.",
     "pruebaGratis": true,
     "descripcionDetallada": "Crea artículos de alta calidad en minutos con IA, orientado a SEO. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -212,7 +276,11 @@
     "etiquetas": [],
     "enlace": "https://bertha.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Bertha.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Bertha.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Bertha.ai/3.jpg"
+    ],
     "descripcion": "Asistente de copy y generación de imágenes integrado en WordPress/Chrome.",
     "pruebaGratis": true,
     "descripcionDetallada": "Asistente de copy y generación de imágenes integrado en WordPress/Chrome. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -225,7 +293,11 @@
     "etiquetas": [],
     "enlace": "https://botowski.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Botowski/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Botowski/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Botowski/3.jpg"
+    ],
     "descripcion": "Copywriter personal con plantillas para blogs, social y e‑commerce.",
     "pruebaGratis": true,
     "descripcionDetallada": "Copywriter personal con plantillas para blogs, social y e‑commerce. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -238,7 +310,12 @@
     "etiquetas": [],
     "enlace": "https://www.copy.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copy.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copy.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copy.ai/3.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copy.ai/4.jpg"
+    ],
     "descripcion": "Plataforma de contenido para equipos: flujos de trabajo y plantillas.",
     "pruebaGratis": true,
     "descripcionDetallada": "Plataforma de contenido para equipos: flujos de trabajo y plantillas. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -251,7 +328,11 @@
     "etiquetas": [],
     "enlace": "https://www.copymonkey.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CopyMonkey.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CopyMonkey.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CopyMonkey.ai/3.jpg"
+    ],
     "descripcion": "Optimiza listings de Amazon con IA (títulos, bullets, keywords).",
     "pruebaGratis": true,
     "descripcionDetallada": "Optimiza listings de Amazon con IA (títulos, bullets, keywords). Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -264,7 +345,11 @@
     "etiquetas": [],
     "enlace": "https://copysmith.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copysmith_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copysmith_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copysmith_AI/3.jpg"
+    ],
     "descripcion": "Solución de contenido para empresas y e‑commerce con colaboración.",
     "pruebaGratis": true,
     "descripcionDetallada": "Solución de contenido para empresas y e‑commerce con colaboración. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -277,7 +362,9 @@
     "etiquetas": [],
     "enlace": "https://app.crawlq.ai/sign-up?_get=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CrawlQ.ai/1.jpg"
+    ],
     "descripcion": "Plataforma de inteligencia y estrategia para crear contenido que conecte con la audiencia.",
     "pruebaGratis": true,
     "descripcionDetallada": "Plataforma de inteligencia y estrategia para crear contenido que conecte con la audiencia. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -290,7 +377,11 @@
     "etiquetas": [],
     "enlace": "https://www.creaitor.ai/?ref=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Creaitor_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Creaitor_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Creaitor_AI/3.jpg"
+    ],
     "descripcion": "Asistente de escritura y generación de ideas y contenidos con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Asistente de escritura y generación de ideas y contenidos con IA. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -303,7 +394,11 @@
     "etiquetas": [],
     "enlace": "https://easy-peasy.ai/?via=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Easy-Peasy.AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Easy-Peasy.AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Easy-Peasy.AI/3.jpg"
+    ],
     "descripcion": "Suite para crear guiones, posts y assets; incluye voz a texto y utilidades para video.",
     "pruebaGratis": true,
     "descripcionDetallada": "Suite para crear guiones, posts y assets; incluye voz a texto y utilidades para video. Herramientas enfocadas en edición/fotografía rápida para creadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -316,7 +411,11 @@
     "etiquetas": [],
     "enlace": "https://eilla.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Eilla_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Eilla_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Eilla_AI/3.jpg"
+    ],
     "descripcion": "Asistente seguro para generación de contenido, imágenes y tareas especializadas (legal/finanzas).",
     "pruebaGratis": true,
     "descripcionDetallada": "Asistente seguro para generación de contenido, imágenes y tareas especializadas (legal/finanzas). Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -329,7 +428,11 @@
     "etiquetas": [],
     "enlace": "https://gocharlie.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Go_Charlie/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Go_Charlie/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Go_Charlie/3.jpg"
+    ],
     "descripcion": "Herramientas creativas para creadores: copy, diseño y generación de imágenes con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Herramientas creativas para creadores: copy, diseño y generación de imágenes con IA. Herramientas enfocadas en edición/fotografía rápida para creadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -342,7 +445,11 @@
     "etiquetas": [],
     "enlace": "https://www.hoppycopy.co/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/HoppyCopy/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/HoppyCopy/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/HoppyCopy/3.jpg"
+    ],
     "descripcion": "Plataforma para crear y optimizar emails de alto rendimiento con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Plataforma para crear y optimizar emails de alto rendimiento con IA. Genera, personaliza y analiza correos para marketing o atención. Suele integrarse con CRMs o ESPs. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -355,7 +462,11 @@
     "etiquetas": [],
     "enlace": "https://www.hypotenuse.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Hypotenuse_ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Hypotenuse_ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Hypotenuse_ai/3.jpg"
+    ],
     "descripcion": "Generación de contenidos para e‑commerce y marketing con enfoque SEO.",
     "pruebaGratis": true,
     "descripcionDetallada": "Generación de contenidos para e‑commerce y marketing con enfoque SEO. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -368,7 +479,11 @@
     "etiquetas": [],
     "enlace": "https://www.longshot.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/LongShot/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/LongShot/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/LongShot/3.jpg"
+    ],
     "descripcion": "De idea a artículo: redacción larga con investigación, fact-check y SEO.",
     "pruebaGratis": true,
     "descripcionDetallada": "De idea a artículo: redacción larga con investigación, fact-check y SEO. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -381,7 +496,11 @@
     "etiquetas": [],
     "enlace": "https://www.getmunch.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Munch/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Munch/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Munch/3.jpg"
+    ],
     "descripcion": "Recorta y reutiliza contenido largo en clips sociales con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Recorta y reutiliza contenido largo en clips sociales con IA. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -394,7 +513,11 @@
     "etiquetas": [],
     "enlace": "https://neuroflash.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/neuroflash/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/neuroflash/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/neuroflash/3.jpg"
+    ],
     "descripcion": "Contenido de alta calidad con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Plataforma europea de generación de contenido y análisis de marca. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -407,7 +530,11 @@
     "etiquetas": [],
     "enlace": "https://www.ocoya.com/?via=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Ocoya/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Ocoya/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Ocoya/3.jpg"
+    ],
     "descripcion": "Calendario, creación y publicación para redes sociales con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Calendario, creación y publicación para redes sociales con IA. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -420,7 +547,11 @@
     "etiquetas": [],
     "enlace": "https://www.intellimize.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Intellimize/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Intellimize/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Intellimize/3.jpg"
+    ],
     "descripcion": "Optimización de conversión (CRO) programática para sitios.",
     "descripcionDetallada": "Optimización de conversión (CRO) programática para sitios. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -432,7 +563,11 @@
     "etiquetas": [],
     "enlace": "https://www.interflexion.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Interflexion/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Interflexion/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Interflexion/3.jpg"
+    ],
     "descripcion": "Role-play con IA para mejorar habilidades profesionales.",
     "pruebaGratis": true,
     "descripcionDetallada": "Role-play con IA para mejorar habilidades profesionales. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -445,7 +580,11 @@
     "etiquetas": [],
     "enlace": "https://jaqnjil.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jaqnjil/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jaqnjil/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jaqnjil/3.jpg"
+    ],
     "descripcion": "Generación rápida de contenido profesional.",
     "pruebaGratis": true,
     "descripcionDetallada": "Generación rápida de contenido profesional. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -458,7 +597,11 @@
     "etiquetas": [],
     "enlace": "https://jenni.ai/?via=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jenni/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jenni/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jenni/3.jpg"
+    ],
     "descripcion": "Asistente de escritura con IA para ensayos y artículos.",
     "pruebaGratis": true,
     "descripcionDetallada": "Asistente de escritura con IA para ensayos y artículos. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -471,7 +614,11 @@
     "etiquetas": [],
     "enlace": "https://jibewith.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/JibeWith/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/JibeWith/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/JibeWith/3.jpg"
+    ],
     "descripcion": "Plataforma colaborativa de edición y publicación de contenido.",
     "pruebaGratis": true,
     "descripcionDetallada": "Plataforma colaborativa de edición y publicación de contenido. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -484,7 +631,11 @@
     "etiquetas": [],
     "enlace": "https://www.jobscan.co/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jobscan/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jobscan/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jobscan/3.jpg"
+    ],
     "descripcion": "Optimiza el CV para ATS y aumenta entrevistas.",
     "pruebaGratis": true,
     "descripcionDetallada": "Optimiza el CV para ATS y aumenta entrevistas. Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -497,7 +648,11 @@
     "etiquetas": [],
     "enlace": "https://jobtitlesai.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/JobtitlesAI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/JobtitlesAI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/JobtitlesAI/3.jpg"
+    ],
     "descripcion": "Clasificación de títulos de trabajo con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Clasificación de títulos de trabajo con IA. Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -510,7 +665,11 @@
     "etiquetas": [],
     "enlace": "https://www.jounce.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jounce_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jounce_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jounce_AI/3.jpg"
+    ],
     "descripcion": "Copys e imágenes de marketing con IA.",
     "descripcionDetallada": "Copys e imágenes de marketing con IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -534,7 +693,11 @@
     "etiquetas": [],
     "enlace": "https://heyleia.com/refer?id=Wirby25o5N",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Heyleia/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Heyleia/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Heyleia/3.jpg"
+    ],
     "descripcion": "Crea experiencias digitales a medida rápidamente.",
     "descripcionDetallada": "Crea experiencias digitales a medida rápidamente. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -546,7 +709,11 @@
     "etiquetas": [],
     "enlace": "https://hirelake.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/HireLakeAI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/HireLakeAI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/HireLakeAI/3.jpg"
+    ],
     "descripcion": "Extracción y matching de datos de CV a gran escala.",
     "descripcionDetallada": "Extracción y matching de datos de CV a gran escala. Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -558,7 +725,11 @@
     "etiquetas": [],
     "enlace": "https://ideabuddy.com/?via=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Ideabuddy/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Ideabuddy/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Ideabuddy/3.jpg"
+    ],
     "descripcion": "Plan de negocio y validación de ideas con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Plan de negocio y validación de ideas con IA. Estructura ideas de negocio y roadmaps, con plantillas y validación básica. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -571,7 +742,11 @@
     "etiquetas": [],
     "enlace": "https://imagineme.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Imagine_Me/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Imagine_Me/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Imagine_Me/3.jpg"
+    ],
     "descripcion": "Crea arte IA de ti mismo con una línea de texto.",
     "descripcionDetallada": "Crea arte IA de ti mismo con una línea de texto. Genera representaciones o retratos estilizados a partir de imágenes. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -583,7 +758,11 @@
     "etiquetas": [],
     "enlace": "https://www.industrialdatalabs.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Industrial_Data_Labs/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Industrial_Data_Labs/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Industrial_Data_Labs/3.jpg"
+    ],
     "descripcion": "Herramientas de IA para ventas técnicas en industria.",
     "descripcionDetallada": "Herramientas de IA para ventas técnicas en industria. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -595,7 +774,11 @@
     "etiquetas": [],
     "enlace": "https://infomail.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Infomail.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Infomail.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Infomail.ai/3.jpg"
+    ],
     "descripcion": "Genera contenido de email marketing con IA.",
     "descripcionDetallada": "Genera contenido de email marketing con IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -607,7 +790,11 @@
     "etiquetas": [],
     "enlace": "https://finevoice.fineshare.com/?ref=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/FineShare/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/FineShare/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/FineShare/3.jpg"
+    ],
     "descripcion": "Fondos virtuales y herramientas creativas para video y voz.",
     "pruebaGratis": true,
     "descripcionDetallada": "Fondos virtuales y herramientas creativas para video y voz. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -620,7 +807,11 @@
     "etiquetas": [],
     "enlace": "https://freeday.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Freeday.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Freeday.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Freeday.ai/3.jpg"
+    ],
     "descripcion": "Bots de automatización de tareas para equipos.",
     "descripcionDetallada": "Bots de automatización de tareas para equipos. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -632,7 +823,11 @@
     "etiquetas": [],
     "enlace": "https://www.genieai.co/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Genie_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Genie_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Genie_AI/3.jpg"
+    ],
     "descripcion": "Mejora el alcance e impacto de tu contenido.",
     "descripcionDetallada": "Mejora el alcance e impacto de tu contenido. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -644,7 +839,11 @@
     "etiquetas": [],
     "enlace": "https://gerwin.io/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Gerwin/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Gerwin/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Gerwin/3.jpg"
+    ],
     "descripcion": "Herramienta de copy AI todo-en-uno.",
     "pruebaGratis": true,
     "descripcionDetallada": "Herramienta de copy AI todo-en-uno. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -657,7 +856,11 @@
     "etiquetas": [],
     "enlace": "https://www.ghostwrite.rip/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Ghostwrite/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Ghostwrite/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Ghostwrite/3.jpg"
+    ],
     "descripcion": "Extensión de redacción de emails con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Extensión de redacción de emails con IA. Genera, personaliza y analiza correos para marketing o atención. Suele integrarse con CRMs o ESPs. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -682,7 +885,11 @@
     "etiquetas": [],
     "enlace": "https://harpa.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Harpa.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Harpa.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Harpa.ai/3.jpg"
+    ],
     "descripcion": "Asistente de automatización web + ChatGPT para navegador.",
     "descripcionDetallada": "Asistente de automatización web + ChatGPT para navegador. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -694,7 +901,11 @@
     "etiquetas": [],
     "enlace": "https://www.helloscribe.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/HelloScribe/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/HelloScribe/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/HelloScribe/3.jpg"
+    ],
     "descripcion": "Escritura creativa para PR y marketing.",
     "pruebaGratis": true,
     "descripcionDetallada": "Escritura creativa para PR y marketing. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -707,7 +918,11 @@
     "etiquetas": [],
     "enlace": "https://www.dux-soup.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Dux-soup/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Dux-soup/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Dux-soup/3.jpg"
+    ],
     "descripcion": "Automatización de prospección en LinkedIn.",
     "pruebaGratis": true,
     "descripcionDetallada": "Automatización de prospección en LinkedIn. Ayuda con prospección, personalización de mensajes y análisis de cuentas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -720,7 +935,11 @@
     "etiquetas": [],
     "enlace": "https://editby.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Editby/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Editby/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Editby/3.jpg"
+    ],
     "descripcion": "Crecimiento de audiencia en Twitter con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Crecimiento de audiencia en Twitter con IA. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -733,7 +952,11 @@
     "etiquetas": [],
     "enlace": "https://emailmagic.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/EmailMagic_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/EmailMagic_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/EmailMagic_AI/3.jpg"
+    ],
     "descripcion": "Automatiza correos productivos con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Automatiza correos productivos con IA. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -746,7 +969,11 @@
     "etiquetas": [],
     "enlace": "https://www.embolden.co/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Embolden/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Embolden/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Embolden/3.jpg"
+    ],
     "descripcion": "Copywriting para e‑commerce con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Copywriting para e‑commerce con IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -759,7 +986,11 @@
     "etiquetas": [],
     "enlace": "https://embra.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Embra/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Embra/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Embra/3.jpg"
+    ],
     "descripcion": "Asistente AI rápido en tu Mac.",
     "pruebaGratis": true,
     "descripcionDetallada": "Asistente AI rápido en tu Mac. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -772,7 +1003,11 @@
     "etiquetas": [],
     "enlace": "https://escribelo.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Escribelo.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Escribelo.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Escribelo.ai/3.jpg"
+    ],
     "descripcion": "Generador de artículos SEO en español.",
     "descripcionDetallada": "Generador de artículos SEO en español. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -784,7 +1019,11 @@
     "etiquetas": [],
     "enlace": "https://www.feedhive.io/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/FeedHive/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/FeedHive/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/FeedHive/3.jpg"
+    ],
     "descripcion": "Creación y programación de contenido a escala.",
     "pruebaGratis": true,
     "descripcionDetallada": "Creación y programación de contenido a escala. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -797,7 +1036,11 @@
     "etiquetas": [],
     "enlace": "https://finalscout.com/?via=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/FinalScout/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/FinalScout/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/FinalScout/3.jpg"
+    ],
     "descripcion": "Emails de contactos de LinkedIn para outreach.",
     "pruebaGratis": true,
     "descripcionDetallada": "Emails de contactos de LinkedIn para outreach. Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -810,7 +1053,11 @@
     "etiquetas": [],
     "enlace": "https://copyleaks.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copyleaks/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copyleaks/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copyleaks/3.jpg"
+    ],
     "descripcion": "Detector de plagio y contenido IA.",
     "descripcionDetallada": "Detector de plagio y contenido IA. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -822,7 +1069,11 @@
     "etiquetas": [],
     "enlace": "https://coverdoc.ai/?via=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CoverDoc.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CoverDoc.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CoverDoc.ai/3.jpg"
+    ],
     "descripcion": "Cartas de presentación personalizadas.",
     "pruebaGratis": true,
     "descripcionDetallada": "Cartas de presentación personalizadas. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -835,7 +1086,11 @@
     "etiquetas": [],
     "enlace": "https://coverler.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Coverler/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Coverler/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Coverler/3.jpg"
+    ],
     "descripcion": "Generador de cover letters con IA.",
     "descripcionDetallada": "Generador de cover letters con IA. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -847,7 +1102,11 @@
     "etiquetas": [],
     "enlace": "https://coverlettersimple.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CoverLetterSimple.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CoverLetterSimple.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CoverLetterSimple.ai/3.jpg"
+    ],
     "descripcion": "Genera cartas de presentación simples y efectivas.",
     "descripcionDetallada": "Genera cartas de presentación simples y efectivas. Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -859,7 +1118,11 @@
     "etiquetas": [],
     "enlace": "https://cowriter.org/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Cowriter/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Cowriter/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Cowriter/3.jpg"
+    ],
     "descripcion": "Asistente para desbloquear tu mejor escritura.",
     "descripcionDetallada": "Asistente para desbloquear tu mejor escritura. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -871,7 +1134,9 @@
     "etiquetas": [],
     "enlace": "https://crowdview.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CrowdView/1.jpg"
+    ],
     "descripcion": "Búsqueda de tendencias y preguntas de audiencia.",
     "descripcionDetallada": "Búsqueda de tendencias y preguntas de audiencia. Devuelve respuestas sintetizadas con fuentes citadas. Útil para investigación rápida y verificación de información. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -883,7 +1148,11 @@
     "etiquetas": [],
     "enlace": "https://ctrify.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CTRify/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CTRify/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CTRify/3.jpg"
+    ],
     "descripcion": "SEO basado en IA y tráfico/CTR.",
     "pruebaGratis": true,
     "descripcionDetallada": "SEO basado en IA y tráfico/CTR. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -896,7 +1165,11 @@
     "etiquetas": [],
     "enlace": "https://www.daydrm.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Daydrm.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Daydrm.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Daydrm.ai/3.jpg"
+    ],
     "descripcion": "Ideas creativas publicitarias a partir de briefs.",
     "descripcionDetallada": "Ideas creativas publicitarias a partir de briefs. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -908,7 +1181,11 @@
     "etiquetas": [],
     "enlace": "https://digitalfirst.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Digital_First_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Digital_First_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Digital_First_AI/3.jpg"
+    ],
     "descripcion": "Estrategias y planes de marketing impulsados por IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Estrategias y planes de marketing impulsados por IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -921,7 +1198,11 @@
     "etiquetas": [],
     "enlace": "https://dreamhouseai.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Dreamhouse_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Dreamhouse_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Dreamhouse_AI/3.jpg"
+    ],
     "descripcion": "Diseño de interiores virtual con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Diseño de interiores virtual con IA. Transforma fotos de estancias y facilita la presentación de propiedades. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -934,7 +1215,11 @@
     "etiquetas": [],
     "enlace": "https://dreamstaging.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/DreamStaging_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/DreamStaging_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/DreamStaging_AI/3.jpg"
+    ],
     "descripcion": "Virtual staging inmobiliario con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Virtual staging inmobiliario con IA. Transforma fotos de estancias y facilita la presentación de propiedades. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -947,7 +1232,11 @@
     "etiquetas": [],
     "enlace": "https://www.closerscopy.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Closers_Copy/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Closers_Copy/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Closers_Copy/3.jpg"
+    ],
     "descripcion": "Redacción de ventas y blogs optimizados.",
     "descripcionDetallada": "Redacción de ventas y blogs optimizados. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -959,7 +1248,11 @@
     "etiquetas": [],
     "enlace": "https://getmarlee.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Coach_Marlee/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Coach_Marlee/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Coach_Marlee/3.jpg"
+    ],
     "descripcion": "Coaching personal/organizacional con IA.",
     "descripcionDetallada": "Coaching personal/organizacional con IA. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -971,7 +1264,11 @@
     "etiquetas": [],
     "enlace": "https://meetcody.ai?fpr=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Cody/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Cody/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Cody/3.jpg"
+    ],
     "descripcion": "Asistente empresarial conectado a tus datos.",
     "pruebaGratis": true,
     "descripcionDetallada": "Asistente empresarial conectado a tus datos. Agentes o wrappers especializados sobre modelos base para casos de negocio. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -984,7 +1281,11 @@
     "etiquetas": [],
     "enlace": "https://commentsanalyzer.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Comment_analyzer/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Comment_analyzer/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Comment_analyzer/3.jpg"
+    ],
     "descripcion": "Analiza comentarios de YouTube con IA.",
     "descripcionDetallada": "Analiza comentarios de YouTube con IA. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -996,7 +1297,11 @@
     "etiquetas": [],
     "enlace": "https://contentatscale.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Content_At_Scale/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Content_At_Scale/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Content_At_Scale/3.jpg"
+    ],
     "descripcion": "Plataforma de publicación SEO a escala.",
     "descripcionDetallada": "Plataforma de publicación SEO a escala. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -1008,7 +1313,11 @@
     "etiquetas": [],
     "enlace": "https://www.contents.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Contents/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Contents/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Contents/3.jpg"
+    ],
     "descripcion": "Ecosistema de contenido multiplataforma.",
     "pruebaGratis": true,
     "descripcionDetallada": "Ecosistema de contenido multiplataforma. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1021,7 +1330,11 @@
     "etiquetas": [],
     "enlace": "https://blogbooster.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Blog_Booster/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Blog_Booster/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Blog_Booster/3.jpg"
+    ],
     "descripcion": "Autopiloto de contenido para blogs.",
     "descripcionDetallada": "Autopiloto de contenido para blogs. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -1033,7 +1346,11 @@
     "etiquetas": [],
     "enlace": "https://blognlp.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/BlogNLP/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/BlogNLP/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/BlogNLP/3.jpg"
+    ],
     "descripcion": "Herramienta NLP para blog SEO.",
     "descripcionDetallada": "Herramienta NLP para blog SEO. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -1045,7 +1362,11 @@
     "etiquetas": [],
     "enlace": "https://www.brandbastion.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/BrandBastion_Lite/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/BrandBastion_Lite/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/BrandBastion_Lite/3.jpg"
+    ],
     "descripcion": "Gestión de comentarios y comunidad a escala.",
     "pruebaGratis": true,
     "descripcionDetallada": "Gestión de comentarios y comunidad a escala. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1058,7 +1379,11 @@
     "etiquetas": [],
     "enlace": "https://broadn.io/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Broadn/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Broadn/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Broadn/3.jpg"
+    ],
     "descripcion": "Aprendizaje generativo para audiencias de uno.",
     "descripcionDetallada": "Aprendizaje generativo para audiencias de uno. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -1070,7 +1395,11 @@
     "etiquetas": [],
     "enlace": "https://candyicons.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CandyIcons/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CandyIcons/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CandyIcons/3.jpg"
+    ],
     "descripcion": "Paquetes de íconos de apps generados/curados.",
     "descripcionDetallada": "Paquetes de íconos de apps generados/curados. Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -1082,7 +1411,11 @@
     "etiquetas": [],
     "enlace": "https://www.canva.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Canva_Text_to_Image/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Canva_Text_to_Image/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Canva_Text_to_Image/3.jpg"
+    ],
     "descripcion": "Generador de imágenes dentro de Canva.",
     "pruebaGratis": true,
     "descripcionDetallada": "Generador de imágenes dentro de Canva. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1095,7 +1428,11 @@
     "etiquetas": [],
     "enlace": "https://capturelab.gg/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CAPTURELAB/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CAPTURELAB/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CAPTURELAB/3.jpg"
+    ],
     "descripcion": "Clips destacados automatizados para streamers.",
     "pruebaGratis": true,
     "descripcionDetallada": "Clips destacados automatizados para streamers. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1108,7 +1445,11 @@
     "etiquetas": [],
     "enlace": "https://carrotai.app/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Caroot/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Caroot/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Caroot/3.jpg"
+    ],
     "descripcion": "Gestión de tareas y productividad personal.",
     "pruebaGratis": true,
     "descripcionDetallada": "Gestión de tareas y productividad personal. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1121,7 +1462,11 @@
     "etiquetas": [],
     "enlace": "https://www.clickable.so/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Clickable/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Clickable/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Clickable/3.jpg"
+    ],
     "descripcion": "Crea anuncios en segundos con IA.",
     "descripcionDetallada": "Crea anuncios en segundos con IA. Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -1146,7 +1491,11 @@
     "etiquetas": [],
     "enlace": "https://clipsai.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Clips_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Clips_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Clips_AI/3.jpg"
+    ],
     "descripcion": "Repurposing automático de contenido a clips.",
     "pruebaGratis": true,
     "descripcionDetallada": "Repurposing automático de contenido a clips. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1159,7 +1508,10 @@
     "etiquetas": [],
     "enlace": "https://armonai.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Armonai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Armonai/2.jpg"
+    ],
     "descripcion": "Herramientas creativas impulsadas por IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Herramientas creativas impulsadas por IA. Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1172,7 +1524,11 @@
     "etiquetas": [],
     "enlace": "https://artiro.app/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Artiro/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Artiro/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Artiro/3.jpg"
+    ],
     "descripcion": "Generador de contenido y automatizaciones.",
     "pruebaGratis": true,
     "descripcionDetallada": "Generador de contenido y automatizaciones. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1185,7 +1541,11 @@
     "etiquetas": [],
     "enlace": "https://arvin.chat/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Arvin/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Arvin/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Arvin/3.jpg"
+    ],
     "descripcion": "Herramientas de redacción basadas en IA.",
     "descripcionDetallada": "Herramientas de redacción basadas en IA. Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -1209,7 +1569,11 @@
     "etiquetas": [],
     "enlace": "https://www.beautiful.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Beautiful_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Beautiful_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Beautiful_AI/3.jpg"
+    ],
     "descripcion": "Software de presentaciones con diseño inteligente.",
     "descripcionDetallada": "Software de presentaciones con diseño inteligente. Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -1221,7 +1585,11 @@
     "etiquetas": [],
     "enlace": "https://avmapping.co/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/A.V._Mapping/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/A.V._Mapping/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/A.V._Mapping/3.jpg"
+    ],
     "descripcion": "Mapeo y licencias de música/visual para creadores.",
     "pruebaGratis": true,
     "descripcionDetallada": "Mapeo y licencias de música/visual para creadores. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1234,7 +1602,11 @@
     "etiquetas": [],
     "enlace": "https://www.adobe.com/sensei/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Adobe_Sensei/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Adobe_Sensei/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Adobe_Sensei/3.jpg"
+    ],
     "descripcion": "Tecnologías de IA de Adobe para sus productos.",
     "descripcionDetallada": "Tecnologías de IA de Adobe para sus productos. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -1246,7 +1618,11 @@
     "etiquetas": [],
     "enlace": "https://www.affable.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Affable/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Affable/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Affable/3.jpg"
+    ],
     "descripcion": "Plataforma de marketing de influencers end-to-end.",
     "pruebaGratis": true,
     "descripcionDetallada": "Plataforma de marketing de influencers end-to-end. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1259,7 +1635,11 @@
     "etiquetas": [],
     "enlace": "https://aiscreenwriter.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AI_Screenwriter/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AI_Screenwriter/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AI_Screenwriter/3.jpg"
+    ],
     "descripcion": "Asistente para guionistas.",
     "pruebaGratis": true,
     "descripcionDetallada": "Asistente para guionistas. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1272,7 +1652,11 @@
     "etiquetas": [],
     "enlace": "https://www.springworks.in/albus/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Albus/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Albus/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Albus/3.jpg"
+    ],
     "descripcion": "Asistente de conocimiento para equipos.",
     "pruebaGratis": true,
     "descripcionDetallada": "Asistente de conocimiento para equipos. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1285,7 +1669,11 @@
     "etiquetas": [],
     "enlace": "https://analogenie.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Analogenie/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Analogenie/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Analogenie/3.jpg"
+    ],
     "descripcion": "Generador de analogías y explicaciones.",
     "pruebaGratis": true,
     "descripcionDetallada": "Generador de analogías y explicaciones. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1311,7 +1699,11 @@
     "etiquetas": [],
     "enlace": "https://pictory.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pictory/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pictory/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pictory/3.jpg"
+    ],
     "descripcion": "Crea videos desde texto y guiones.",
     "pruebaGratis": true,
     "descripcionDetallada": "Crea videos desde texto y guiones. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1324,7 +1716,11 @@
     "etiquetas": [],
     "enlace": "https://repurpose.io?fpr=512182",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Repurpose_IO/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Repurpose_IO/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Repurpose_IO/3.jpg"
+    ],
     "descripcion": "Automatiza la distribución de contenido.",
     "pruebaGratis": true,
     "descripcionDetallada": "Automatiza la distribución de contenido. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1337,7 +1733,11 @@
     "etiquetas": [],
     "enlace": "https://sheetai.app/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SheetAI.app/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SheetAI.app/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SheetAI.app/3.jpg"
+    ],
     "descripcion": "Funciones de IA directamente en tus hojas de cálculo.",
     "pruebaGratis": true,
     "descripcionDetallada": "Funciones de IA directamente en tus hojas de cálculo. Añade funciones de IA directamente en hojas de cálculo para acelerar análisis. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1350,7 +1750,11 @@
     "etiquetas": [],
     "enlace": "https://vondy.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Vondy/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Vondy/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Vondy/3.jpg"
+    ],
     "descripcion": "Workspace de productividad con IA todo-en-uno.",
     "pruebaGratis": true,
     "descripcionDetallada": "Workspace de productividad con IA todo-en-uno. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1363,7 +1767,11 @@
     "etiquetas": [],
     "enlace": "https://wizishop.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/WiziShop/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/WiziShop/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/WiziShop/3.jpg"
+    ],
     "descripcion": "E-commerce con herramientas de IA integradas.",
     "pruebaGratis": true,
     "descripcionDetallada": "E-commerce con herramientas de IA integradas. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1376,7 +1784,11 @@
     "etiquetas": [],
     "enlace": "https://writeseed.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Writeseed/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Writeseed/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Writeseed/3.jpg"
+    ],
     "descripcion": "Generador de contenido SEO y long-form.",
     "pruebaGratis": true,
     "descripcionDetallada": "Generador de contenido SEO y long-form. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1389,7 +1801,11 @@
     "etiquetas": [],
     "enlace": "https://writesonic.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Writesonic/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Writesonic/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Writesonic/3.jpg"
+    ],
     "descripcion": "Plataforma de escritura y chatGPT propio.",
     "pruebaGratis": true,
     "descripcionDetallada": "Plataforma de escritura y chatGPT propio. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1402,7 +1818,11 @@
     "etiquetas": [],
     "enlace": "https://yaara.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Yaara_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Yaara_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Yaara_AI/3.jpg"
+    ],
     "descripcion": "Herramientas de redacción y reescritura.",
     "pruebaGratis": true,
     "descripcionDetallada": "Herramientas de redacción y reescritura. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1415,7 +1835,11 @@
     "etiquetas": [],
     "enlace": "https://5out.io/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/5_Out/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/5_Out/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/5_Out/3.jpg"
+    ],
     "descripcion": "Analítica e IA para hospitalidad/operaciones.",
     "descripcionDetallada": "Analítica e IA para hospitalidad/operaciones. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -1440,7 +1864,11 @@
     "etiquetas": [],
     "enlace": "https://smartscout.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SmartScout/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SmartScout/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SmartScout/3.jpg"
+    ],
     "descripcion": "Suite para vendedores de Amazon.",
     "pruebaGratis": true,
     "descripcionDetallada": "Suite para vendedores de Amazon. Ayuda con prospección, personalización de mensajes y análisis de cuentas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1466,7 +1894,11 @@
     "etiquetas": [],
     "enlace": "https://socialvar.net/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Social_Var/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Social_Var/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Social_Var/3.jpg"
+    ],
     "descripcion": "Gestión y automatización de marketing en redes.",
     "pruebaGratis": true,
     "descripcionDetallada": "Gestión y automatización de marketing en redes. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1479,7 +1911,11 @@
     "etiquetas": [],
     "enlace": "https://socialbu.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SocialBu/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SocialBu/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SocialBu/3.jpg"
+    ],
     "descripcion": "Publicación, inbox y automatizaciones sociales.",
     "pruebaGratis": true,
     "descripcionDetallada": "Publicación, inbox y automatizaciones sociales. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1492,7 +1928,11 @@
     "etiquetas": [],
     "enlace": "https://solidgrids.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SolidGrids/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SolidGrids/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SolidGrids/3.jpg"
+    ],
     "descripcion": "Imágenes comerciales a gran escala con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Imágenes comerciales a gran escala con IA. Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1505,7 +1945,11 @@
     "etiquetas": [],
     "enlace": "https://spatial.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Spatial/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Spatial/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Spatial/3.jpg"
+    ],
     "descripcion": "Segmentación e insights de audiencias.",
     "pruebaGratis": true,
     "descripcionDetallada": "Segmentación e insights de audiencias. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1518,7 +1962,11 @@
     "etiquetas": [],
     "enlace": "https://speechgen.io",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SpeechGen.io/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SpeechGen.io/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SpeechGen.io/3.jpg"
+    ],
     "descripcion": "Conversor de texto a voz realista.",
     "pruebaGratis": true,
     "descripcionDetallada": "Conversor de texto a voz realista. Convierte texto a voz o mejora grabaciones. Útil para locuciones, podcasts y accesibilidad. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1543,7 +1991,11 @@
     "etiquetas": [],
     "enlace": "https://salesstack.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Sales_Stack/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Sales_Stack/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Sales_Stack/3.jpg"
+    ],
     "descripcion": "Comunicación de marketing impulsada por IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Comunicación de marketing impulsada por IA. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1556,7 +2008,11 @@
     "etiquetas": [],
     "enlace": "https://www.scalenut.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Scalenut/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Scalenut/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Scalenut/3.jpg"
+    ],
     "descripcion": "Investigación y creación de contenido SEO.",
     "pruebaGratis": true,
     "descripcionDetallada": "Investigación y creación de contenido SEO. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1569,7 +2025,11 @@
     "etiquetas": [],
     "enlace": "https://www.seenapse.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Seenapse/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Seenapse/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Seenapse/3.jpg"
+    ],
     "descripcion": "Ideas creativas asistidas por IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Ideas creativas asistidas por IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1582,7 +2042,11 @@
     "etiquetas": [],
     "enlace": "https://seo.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Seo_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Seo_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Seo_AI/3.jpg"
+    ],
     "descripcion": "Contenido optimizado para SEO con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Contenido optimizado para SEO con IA. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1595,7 +2059,11 @@
     "etiquetas": [],
     "enlace": "https://seovendor.co/seo-gpt/?ref=60865",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SEO_GPT/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SEO_GPT/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SEO_GPT/3.jpg"
+    ],
     "descripcion": "Herramienta SEO basada en GPT.",
     "descripcionDetallada": "Herramienta SEO basada en GPT. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -1607,7 +2075,11 @@
     "etiquetas": [],
     "enlace": "https://seomatic.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SEOmatic_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SEOmatic_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SEOmatic_AI/3.jpg"
+    ],
     "descripcion": "Páginas SEO a escala con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Páginas SEO a escala con IA. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1620,7 +2092,11 @@
     "etiquetas": [],
     "enlace": "https://seowriting.ai?fp_ref=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SEOWriting_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SEOWriting_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SEOWriting_AI/3.jpg"
+    ],
     "descripcion": "Redacción SEO automática para blogs.",
     "pruebaGratis": true,
     "descripcionDetallada": "Redacción SEO automática para blogs. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1633,7 +2109,11 @@
     "etiquetas": [],
     "enlace": "https://www.shakespeare.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Shakespeare/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Shakespeare/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Shakespeare/3.jpg"
+    ],
     "descripcion": "Escritura de marketing con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Escritura de marketing con IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1646,7 +2126,11 @@
     "etiquetas": [],
     "enlace": "https://simplified.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Simplified.com/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Simplified.com/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Simplified.com/3.jpg"
+    ],
     "descripcion": "Suite de marketing: copy, diseño, video.",
     "pruebaGratis": true,
     "descripcionDetallada": "Suite de marketing: copy, diseño, video. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1671,7 +2155,11 @@
     "etiquetas": [],
     "enlace": "https://www.quickreply.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Quick_Reply/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Quick_Reply/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Quick_Reply/3.jpg"
+    ],
     "descripcion": "Respuestas con IA para atención y ventas.",
     "descripcionDetallada": "Respuestas con IA para atención y ventas. Genera, personaliza y analiza correos para marketing o atención. Suele integrarse con CRMs o ESPs. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -1696,7 +2184,11 @@
     "etiquetas": [],
     "enlace": "https://quickvid.app/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/QuickVid.AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/QuickVid.AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/QuickVid.AI/3.jpg"
+    ],
     "descripcion": "Crea shorts de YouTube y guiones con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Crea shorts de YouTube y guiones con IA. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1709,7 +2201,11 @@
     "etiquetas": [],
     "enlace": "https://rationale.jina.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Rationale/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Rationale/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Rationale/3.jpg"
+    ],
     "descripcion": "Toma de decisiones con pros/cons, árboles y análisis de IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Toma de decisiones con pros/cons, árboles y análisis de IA. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1722,7 +2218,11 @@
     "etiquetas": [],
     "enlace": "https://www.regie.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Regie/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Regie/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Regie/3.jpg"
+    ],
     "descripcion": "Plataforma de contenido para equipos de ventas/marketing.",
     "pruebaGratis": true,
     "descripcionDetallada": "Plataforma de contenido para equipos de ventas/marketing. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1735,7 +2235,11 @@
     "etiquetas": [],
     "enlace": "https://resumeworded.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Resume_Worded/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Resume_Worded/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Resume_Worded/3.jpg"
+    ],
     "descripcion": "Mejora tu CV y perfil de LinkedIn.",
     "pruebaGratis": true,
     "descripcionDetallada": "Mejora tu CV y perfil de LinkedIn. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1748,7 +2252,11 @@
     "etiquetas": [],
     "enlace": "http://rezi.ai/?via=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Rezi/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Rezi/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Rezi/3.jpg"
+    ],
     "descripcion": "Generador de CV con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Generador de CV con IA. Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1761,7 +2269,11 @@
     "etiquetas": [],
     "enlace": "https://roast.dating",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Roast_Dating/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Roast_Dating/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Roast_Dating/3.jpg"
+    ],
     "descripcion": "Recibe feedback de tu perfil de citas con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Recibe feedback de tu perfil de citas con IA. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1799,7 +2311,11 @@
     "etiquetas": [],
     "enlace": "https://postaga.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Postaga/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Postaga/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Postaga/3.jpg"
+    ],
     "descripcion": "Outreach para backlinks y PR.",
     "pruebaGratis": true,
     "descripcionDetallada": "Outreach para backlinks y PR. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1812,7 +2328,11 @@
     "etiquetas": [],
     "enlace": "https://www.postly.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Postly/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Postly/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Postly/3.jpg"
+    ],
     "descripcion": "Planifica y publica campañas sociales.",
     "pruebaGratis": true,
     "descripcionDetallada": "Planifica y publica campañas sociales. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1825,7 +2345,11 @@
     "etiquetas": [],
     "enlace": "https://postwise.ai?_get=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Postwise/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Postwise/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Postwise/3.jpg"
+    ],
     "descripcion": "Crecimiento en Twitter/X con IA.",
     "descripcionDetallada": "Crecimiento en Twitter/X con IA. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -1849,7 +2373,11 @@
     "etiquetas": [],
     "enlace": "https://predis.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Predis/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Predis/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Predis/3.jpg"
+    ],
     "descripcion": "Crea posts sociales automáticamente.",
     "pruebaGratis": true,
     "descripcionDetallada": "Crea posts sociales automáticamente. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1862,7 +2390,11 @@
     "etiquetas": [],
     "enlace": "https://proposalgenie.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Proposal_Genie/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Proposal_Genie/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Proposal_Genie/3.jpg"
+    ],
     "descripcion": "Genera propuestas freelance en segundos.",
     "pruebaGratis": true,
     "descripcionDetallada": "Genera propuestas freelance en segundos. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1875,7 +2407,11 @@
     "etiquetas": [],
     "enlace": "https://publer.io",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Publer_AI_Assist/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Publer_AI_Assist/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Publer_AI_Assist/3.jpg"
+    ],
     "descripcion": "Asistente GPT-4 integrado en Publer.",
     "pruebaGratis": true,
     "descripcionDetallada": "Asistente GPT-4 integrado en Publer. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1888,7 +2424,11 @@
     "etiquetas": [],
     "enlace": "https://qlip.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/qlip.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/qlip.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/qlip.ai/3.jpg"
+    ],
     "descripcion": "Clips sociales generados con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Clips sociales generados con IA. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1901,7 +2441,11 @@
     "etiquetas": [],
     "enlace": "https://pebblely.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pebblely/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pebblely/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pebblely/3.jpg"
+    ],
     "descripcion": "Crea fotos de producto a partir de una imagen.",
     "pruebaGratis": true,
     "descripcionDetallada": "Crea fotos de producto a partir de una imagen. Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1914,7 +2458,11 @@
     "etiquetas": [],
     "enlace": "https://www.peech-ai.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Peech/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Peech/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Peech/3.jpg"
+    ],
     "descripcion": "Plataforma de video para equipos de contenido.",
     "pruebaGratis": true,
     "descripcionDetallada": "Plataforma de video para equipos de contenido. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1927,7 +2475,11 @@
     "etiquetas": [],
     "enlace": "https://www.trypencil.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pencil/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pencil/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pencil/3.jpg"
+    ],
     "descripcion": "Anuncios ganadores 10x más rápido.",
     "pruebaGratis": true,
     "descripcionDetallada": "Anuncios ganadores 10x más rápido. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1940,7 +2492,11 @@
     "etiquetas": [],
     "enlace": "https://www.peppertype.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Peppertype.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Peppertype.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Peppertype.ai/3.jpg"
+    ],
     "descripcion": "Asistente de contenido virtual.",
     "pruebaGratis": true,
     "descripcionDetallada": "Asistente de contenido virtual. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1953,7 +2509,11 @@
     "etiquetas": [],
     "enlace": "https://perfectessaywriter.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/PerfectEssayWriter.AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/PerfectEssayWriter.AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/PerfectEssayWriter.AI/3.jpg"
+    ],
     "descripcion": "Herramientas de redacción de ensayos.",
     "pruebaGratis": true,
     "descripcionDetallada": "Herramientas de redacción de ensayos. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1966,7 +2526,11 @@
     "etiquetas": [],
     "enlace": "https://www.personal.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Personal_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Personal_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Personal_AI/3.jpg"
+    ],
     "descripcion": "Memoria y chat personal con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Memoria y chat personal con IA. Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -1979,7 +2543,11 @@
     "etiquetas": [],
     "enlace": "https://photor.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Photor_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Photor_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Photor_AI/3.jpg"
+    ],
     "descripcion": "Selección de la mejor foto con IA.",
     "descripcionDetallada": "Selección de la mejor foto con IA. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -2028,7 +2596,11 @@
     "etiquetas": [],
     "enlace": "https://app.neuronwriter.com/ar/28020c99c4a06239521f36246653e5fa",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Neuronwriter/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Neuronwriter/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Neuronwriter/3.jpg"
+    ],
     "descripcion": "Optimiza contenidos para Google.",
     "descripcionDetallada": "Optimiza contenidos para Google. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -2065,7 +2637,11 @@
     "etiquetas": [],
     "enlace": "https://nolej.io",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Nolej/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Nolej/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Nolej/3.jpg"
+    ],
     "descripcion": "Creación de materiales educativos con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Creación de materiales educativos con IA. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2078,7 +2654,11 @@
     "etiquetas": [],
     "enlace": "https://www.octaneai.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Octane_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Octane_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Octane_AI/3.jpg"
+    ],
     "descripcion": "Recomendaciones personalizadas para e‑commerce.",
     "pruebaGratis": true,
     "descripcionDetallada": "Recomendaciones personalizadas para e‑commerce. Ayuda con prospección, personalización de mensajes y análisis de cuentas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2115,7 +2695,11 @@
     "etiquetas": [],
     "enlace": "https://mgrworkbench.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MgrWorkbench.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MgrWorkbench.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MgrWorkbench.ai/3.jpg"
+    ],
     "descripcion": "Escritura para negocio.",
     "pruebaGratis": true,
     "descripcionDetallada": "Escritura para negocio. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2153,7 +2737,11 @@
     "etiquetas": [],
     "enlace": "https://mokker.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Mokker_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Mokker_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Mokker_AI/3.jpg"
+    ],
     "descripcion": "Sustitución de fondos y fotos de producto con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Sustitución de fondos y fotos de producto con IA. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2178,7 +2766,11 @@
     "etiquetas": [],
     "enlace": "https://www.motionit.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Motionit.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Motionit.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Motionit.ai/3.jpg"
+    ],
     "descripcion": "Genera slides y videos en minutos.",
     "pruebaGratis": true,
     "descripcionDetallada": "Genera slides y videos en minutos. Genera diapositivas con diseño consistente a partir de guiones o puntos clave. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2191,7 +2783,11 @@
     "etiquetas": [],
     "enlace": "https://www.moveworks.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Moveworks/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Moveworks/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Moveworks/3.jpg"
+    ],
     "descripcion": "Soporte de empleados con IA conversacional.",
     "descripcionDetallada": "Soporte de empleados con IA conversacional. Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -2203,7 +2799,11 @@
     "etiquetas": [],
     "enlace": "https://www.mutinyhq.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Mutiny/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Mutiny/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Mutiny/3.jpg"
+    ],
     "descripcion": "Personalización web para aumentar conversión.",
     "descripcionDetallada": "Personalización web para aumentar conversión. Incluye asistentes para crear forms, chatbots y pequeñas apps con IA. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -2215,7 +2815,11 @@
     "etiquetas": [],
     "enlace": "https://namelix.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Namelix/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Namelix/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Namelix/3.jpg"
+    ],
     "descripcion": "Generador de nombres de marca.",
     "descripcionDetallada": "Generador de nombres de marca. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -2227,7 +2831,11 @@
     "etiquetas": [],
     "enlace": "https://www.namesnack.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/NameSnack/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/NameSnack/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/NameSnack/3.jpg"
+    ],
     "descripcion": "Ideas de nombre y dominios disponibles.",
     "descripcionDetallada": "Ideas de nombre y dominios disponibles. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -2251,7 +2859,11 @@
     "etiquetas": [],
     "enlace": "https://magicform.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MagicForm/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MagicForm/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MagicForm/3.jpg"
+    ],
     "descripcion": "Forms y chatbots con IA para captar leads.",
     "descripcionDetallada": "Forms y chatbots con IA para captar leads. Incluye asistentes para crear forms, chatbots y pequeñas apps con IA. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -2263,7 +2875,11 @@
     "etiquetas": [],
     "enlace": "https://magickpen.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MagickPen/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MagickPen/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MagickPen/3.jpg"
+    ],
     "descripcion": "Escritura asistida por IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Escritura asistida por IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2288,7 +2904,11 @@
     "etiquetas": [],
     "enlace": "https://marketingblocks.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MarketingBlocks_AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MarketingBlocks_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MarketingBlocks_AI/3.jpg"
+    ],
     "descripcion": "Suite de marketing todo‑en‑uno.",
     "pruebaGratis": true,
     "descripcionDetallada": "Suite de marketing todo‑en‑uno. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2301,7 +2921,11 @@
     "etiquetas": [],
     "enlace": "https://www.marketmuse.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MarketMuse/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MarketMuse/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MarketMuse/3.jpg"
+    ],
     "descripcion": "Planificación y optimización de contenidos.",
     "pruebaGratis": true,
     "descripcionDetallada": "Planificación y optimización de contenidos. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2314,7 +2938,11 @@
     "etiquetas": [],
     "enlace": "https://www.markopolo.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Markopolo/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Markopolo/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Markopolo/3.jpg"
+    ],
     "descripcion": "Marketing en piloto automático para Meta/Google/TikTok.",
     "pruebaGratis": true,
     "descripcionDetallada": "Marketing en piloto automático para Meta/Google/TikTok. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2327,7 +2955,11 @@
     "etiquetas": [],
     "enlace": "https://marmof.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Marmof/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Marmof/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Marmof/3.jpg"
+    ],
     "descripcion": "Copys y diseños para campañas de email.",
     "pruebaGratis": true,
     "descripcionDetallada": "Copys y diseños para campañas de email. Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2340,7 +2972,11 @@
     "etiquetas": [],
     "enlace": "https://www.trymaverick.com/?via=wikipeia",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Maverick/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Maverick/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Maverick/3.jpg"
+    ],
     "descripcion": "Videos personalizados a escala para e‑commerce.",
     "descripcionDetallada": "Videos personalizados a escala para e‑commerce. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -2352,7 +2988,11 @@
     "etiquetas": [],
     "enlace": "https://letterdrop.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Letterdrop/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Letterdrop/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Letterdrop/3.jpg"
+    ],
     "descripcion": "Marketing de contenidos B2B en piloto automático.",
     "descripcionDetallada": "Marketing de contenidos B2B en piloto automático. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -2364,7 +3004,11 @@
     "etiquetas": [],
     "enlace": "https://www.mylexy.co/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lexy/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lexy/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lexy/3.jpg"
+    ],
     "descripcion": "Contenido para LinkedIn en 1 minuto.",
     "pruebaGratis": true,
     "descripcionDetallada": "Contenido para LinkedIn en 1 minuto. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2377,7 +3021,11 @@
     "etiquetas": [],
     "enlace": "https://linguix.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Linguix/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Linguix/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Linguix/3.jpg"
+    ],
     "descripcion": "Corrección y estilo con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Corrección y estilo con IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2390,7 +3038,11 @@
     "etiquetas": [],
     "enlace": "https://logomaster.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Logomaster/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Logomaster/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Logomaster/3.jpg"
+    ],
     "descripcion": "Creador de logotipos online.",
     "descripcionDetallada": "Creador de logotipos online. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -2402,7 +3054,11 @@
     "etiquetas": [],
     "enlace": "https://www.lunchbox.io",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/LunchBox/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/LunchBox/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/LunchBox/3.jpg"
+    ],
     "descripcion": "Generador de comida/fotos con IA.",
     "descripcionDetallada": "Generador de comida/fotos con IA. Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -2414,7 +3070,11 @@
     "etiquetas": [],
     "enlace": "https://machined.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Machined.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Machined.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Machined.ai/3.jpg"
+    ],
     "descripcion": "Clusters de contenido para SEO.",
     "pruebaGratis": true,
     "descripcionDetallada": "Clusters de contenido para SEO. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2427,7 +3087,9 @@
     "etiquetas": [],
     "enlace": "https://maester.app",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Maester.app/1.jpg"
+    ],
     "descripcion": "Plantillas y prompts para educación/estudio.",
     "descripcionDetallada": "Plantillas y prompts para educación/estudio. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -2439,7 +3101,11 @@
     "etiquetas": [],
     "enlace": "https://katteb.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Katteb/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Katteb/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Katteb/3.jpg"
+    ],
     "descripcion": "Redacción factual con verificación.",
     "pruebaGratis": true,
     "descripcionDetallada": "Redacción factual con verificación. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2452,7 +3118,11 @@
     "etiquetas": [],
     "enlace": "https://kenji.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Kenji/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Kenji/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Kenji/3.jpg"
+    ],
     "descripcion": "Bot de Instagram para crecimiento.",
     "pruebaGratis": true,
     "descripcionDetallada": "Bot de Instagram para crecimiento. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2465,7 +3135,11 @@
     "etiquetas": [],
     "enlace": "https://keywordsearch.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/KeywordSearch/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/KeywordSearch/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/KeywordSearch/3.jpg"
+    ],
     "descripcion": "Audiencias y palabras clave para ads.",
     "pruebaGratis": true,
     "descripcionDetallada": "Audiencias y palabras clave para ads. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2478,7 +3152,11 @@
     "etiquetas": [],
     "enlace": "https://keywrds.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Keywrds.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Keywrds.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Keywrds.ai/3.jpg"
+    ],
     "descripcion": "Encuentra preguntas y keywords long‑tail.",
     "pruebaGratis": true,
     "descripcionDetallada": "Encuentra preguntas y keywords long‑tail. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2491,7 +3169,11 @@
     "etiquetas": [],
     "enlace": "https://www.kickresume.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Kickresume/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Kickresume/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Kickresume/3.jpg"
+    ],
     "descripcion": "Plantillas de CV y cartas con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Plantillas de CV y cartas con IA. Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2504,7 +3186,11 @@
     "etiquetas": [],
     "enlace": "https://www.klaviyo.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Klaviyo_Asistente_SMS/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Klaviyo_Asistente_SMS/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Klaviyo_Asistente_SMS/3.jpg"
+    ],
     "descripcion": "Respuestas automáticas por SMS con IA.",
     "descripcionDetallada": "Respuestas automáticas por SMS con IA. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
@@ -2516,7 +3202,11 @@
     "etiquetas": [],
     "enlace": "https://kore.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Kore.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Kore.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Kore.ai/3.jpg"
+    ],
     "descripcion": "Plataforma de bots y automatización conversacional.",
     "pruebaGratis": true,
     "descripcionDetallada": "Plataforma de bots y automatización conversacional. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2529,7 +3219,11 @@
     "etiquetas": [],
     "enlace": "https://www.kraftful.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Kraftful/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Kraftful/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Kraftful/3.jpg"
+    ],
     "descripcion": "Investigación de producto con IA sobre feedback.",
     "pruebaGratis": true,
     "descripcionDetallada": "Investigación de producto con IA sobre feedback. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2542,7 +3236,11 @@
     "etiquetas": [],
     "enlace": "https://languagetool.org",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/LanguageTool/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/LanguageTool/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/LanguageTool/3.jpg"
+    ],
     "descripcion": "Corrector y asistente de estilo multilenguaje.",
     "pruebaGratis": true,
     "descripcionDetallada": "Corrector y asistente de estilo multilenguaje. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2555,7 +3253,11 @@
     "etiquetas": [],
     "enlace": "https://lebesgue.io",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lebesgue/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lebesgue/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lebesgue/3.jpg"
+    ],
     "descripcion": "Analítica de marketing para tiendas online.",
     "pruebaGratis": true,
     "descripcionDetallada": "Analítica de marketing para tiendas online. Optimiza fichas de producto, recomendaciones y operaciones de tienda. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2568,7 +3270,11 @@
     "etiquetas": [],
     "enlace": "https://lek.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lek/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lek/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lek/3.jpg"
+    ],
     "descripcion": "Escritura AI todo‑en‑uno.",
     "pruebaGratis": true,
     "descripcionDetallada": "Escritura AI todo‑en‑uno. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2630,7 +3336,10 @@
     ],
     "enlace": "https://gemini.google.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Gemini/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Gemini/2.jpg"
+    ],
     "descripcion": "Asistente multimodal de Google para texto e imágenes.",
     "fechaAlta": "2025-09-29",
     "descripcionDetallada": "Asistente multimodal de Google para texto e imágenes. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
@@ -2801,7 +3510,11 @@
     "etiquetas": [],
     "enlace": "https://www.descript.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Job_Description_Generator/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Job_Description_Generator/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Job_Description_Generator/3.jpg"
+    ],
     "descripcion": "Edición de audio/video como texto, transcripción con IA.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
