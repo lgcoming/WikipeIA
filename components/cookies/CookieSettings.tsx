@@ -3,16 +3,13 @@
 import { useCookies } from "@/lib/cookieContext";
 import { motion, AnimatePresence } from "framer-motion";
 import { useState } from "react";
-import Link from "next/link";
 
 export default function CookieSettings() {
   const { 
     showSettings, 
     preferences, 
     updatePreferences, 
-    closeSettings, 
-    acceptAll, 
-    denyAll 
+    closeSettings
   } = useCookies();
 
   const [localPreferences, setLocalPreferences] = useState(preferences);

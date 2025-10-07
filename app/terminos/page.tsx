@@ -80,7 +80,7 @@ export default function TerminosPage() {
           <section>
             <h2 className="text-2xl font-semibold text-white mb-4">6. Limitación de Responsabilidad</h2>
             <p className="text-white/80 leading-relaxed">
-              WikipeIA se proporciona "tal como está" sin garantías de ningún tipo. No garantizamos que el 
+              WikipeIA se proporciona &quot;tal como está&quot; sin garantías de ningún tipo. No garantizamos que el 
               servicio sea ininterrumpido, libre de errores o que satisfaga sus necesidades específicas. 
               En ningún caso seremos responsables de daños directos, indirectos, incidentales o consecuentes.
             </p>
