@@ -1,0 +1,6 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap (Next.js will serve it from /sitemap.xml if app/sitemap.ts is present)
+Sitemap: https://wikipeia.com/sitemap.xml
