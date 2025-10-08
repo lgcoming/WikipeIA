@@ -16,6 +16,8 @@ export default function ToolModal({
   onClose: () => void;
 }) {
   const [index, setIndex] = useState(0);
+  const [isFullscreen, setIsFullscreen] = useState(false);
+  const [zoom, setZoom] = useState(1);
   const { isFav, toggle } = useFavorites();
 
   const images: string[] = useMemo(() => {
@@ -36,21 +38,48 @@ export default function ToolModal({
   const next = useCallback(() => setIndex((i) => clamp(i + 1)), [clamp]);
   const prev = useCallback(() => setIndex((i) => clamp(i - 1)), [clamp]);
   const setSlide = useCallback((i: number) => setIndex(clamp(i)), [clamp]);
+  
+  const toggleFullscreen = useCallback(() => {
+    setIsFullscreen(!isFullscreen);
+    if (!isFullscreen) setZoom(1);
+  }, [isFullscreen]);
+  
+  const handleZoomIn = useCallback(() => {
+    setZoom(prev => Math.min(prev + 0.5, 3));
+  }, []);
+  
+  const handleZoomOut = useCallback(() => {
+    setZoom(prev => Math.max(prev - 0.5, 0.5));
+  }, []);
 
   useEffect(() => {
     if (!open) return;
     const onKey = (e: KeyboardEvent) => {
-      if (e.key === "Escape") onClose();
+      if (e.key === "Escape") {
+        if (isFullscreen) {
+          setIsFullscreen(false);
+          setZoom(1);
+        } else {
+          onClose();
+        }
+      }
       if (e.key === "ArrowRight") next();
       if (e.key === "ArrowLeft") prev();
+      if (e.key === "f" || e.key === "F") toggleFullscreen();
+      if (e.key === "+" || e.key === "=") handleZoomIn();
+      if (e.key === "-") handleZoomOut();
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [open, onClose, next, prev]);
+  }, [open, onClose, next, prev, isFullscreen, toggleFullscreen, handleZoomIn, handleZoomOut]);
 
   useEffect(() => {
     // Reset galería al abrir una nueva herramienta
-    if (open) setIndex(0);
+    if (open) {
+      setIndex(0);
+      setZoom(1);
+      setIsFullscreen(false);
+    }
   }, [open, tool?.id]);
 
   const handleToggleFavorite = () => {
@@ -62,6 +91,93 @@ export default function ToolModal({
   const isToolFavorite = tool ? isFav(tool.id) : false;
 
   if (!open || !tool) return null;
+
+  // Modo pantalla completa
+  if (isFullscreen) {
+    return (
+      <AnimatePresence>
+        <motion.div
+          className="fixed inset-0 z-50 bg-black flex items-center justify-center"
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          exit={{ opacity: 0 }}
+        >
+          <div className="relative w-full h-full flex items-center justify-center">
+            <motion.div
+              key={images[index]}
+              initial={{ opacity: 0, scale: 0.9 }}
+              animate={{ opacity: 1, scale: 1 }}
+              exit={{ opacity: 0, scale: 0.9 }}
+              transition={{ duration: 0.3 }}
+              className="relative max-w-full max-h-full"
+              style={{ transform: `scale(${zoom})` }}
+            >
+              <Image 
+                src={images[index]} 
+                alt={`${tool.nombre} ${index + 1}`} 
+                width={1200}
+                height={800}
+                unoptimized 
+                className="object-contain max-w-full max-h-full" 
+              />
+            </motion.div>
+            
+            {/* Controles de pantalla completa */}
+            <div className="absolute top-4 right-4 flex gap-2">
+              <button
+                onClick={handleZoomOut}
+                className="bg-black/70 backdrop-blur-sm px-3 py-2 rounded-lg text-white hover:bg-black/90 transition"
+                aria-label="Alejar"
+              >
+                −
+              </button>
+              <button
+                onClick={handleZoomIn}
+                className="bg-black/70 backdrop-blur-sm px-3 py-2 rounded-lg text-white hover:bg-black/90 transition"
+                aria-label="Acercar"
+              >
+                +
+              </button>
+              <button
+                onClick={toggleFullscreen}
+                className="bg-black/70 backdrop-blur-sm px-3 py-2 rounded-lg text-white hover:bg-black/90 transition"
+                aria-label="Salir de pantalla completa"
+              >
+                ✕
+              </button>
+            </div>
+            
+            {/* Navegación en pantalla completa */}
+            {images.length > 1 && (
+              <>
+                <button
+                  onClick={prev}
+                  className="absolute left-4 top-1/2 -translate-y-1/2 bg-black/70 backdrop-blur-sm px-4 py-3 rounded-lg text-white hover:bg-black/90 transition"
+                  aria-label="Anterior"
+                >
+                  ‹
+                </button>
+                <button
+                  onClick={next}
+                  className="absolute right-4 top-1/2 -translate-y-1/2 bg-black/70 backdrop-blur-sm px-4 py-3 rounded-lg text-white hover:bg-black/90 transition"
+                  aria-label="Siguiente"
+                >
+                  ›
+                </button>
+              </>
+            )}
+            
+            {/* Indicador de imagen */}
+            {images.length > 1 && (
+              <div className="absolute bottom-4 left-1/2 -translate-x-1/2 bg-black/70 backdrop-blur-sm px-3 py-1 rounded-lg text-white text-sm">
+                {index + 1} / {images.length}
+              </div>
+            )}
+          </div>
+        </motion.div>
+      </AnimatePresence>
+    );
+  }
 
   return (
     <AnimatePresence>
@@ -151,6 +267,14 @@ export default function ToolModal({
                     </button>
                   </>
                 )}
+                {/* Botón de pantalla completa */}
+                <button
+                  onClick={toggleFullscreen}
+                  className="absolute top-2 right-2 rounded-full bg-black/70 backdrop-blur-sm px-2.5 py-1.5 text-sm hover:bg-black/90 transition shadow-lg"
+                  aria-label="Pantalla completa"
+                >
+                  ⛶
+                </button>
                 {images.length > 1 && (
                   <div className="absolute bottom-3 left-1/2 -translate-x-1/2 flex gap-1.5">
                     {images.map((_, i) => (

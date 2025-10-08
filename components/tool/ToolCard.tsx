@@ -51,7 +51,7 @@ function ToolCard({ tool, onSelect }: { tool: Tool; onSelect?: (tool: Tool) => v
         }
       }}
     >
-      <div className="relative overflow-hidden rounded-t-2xl bg-white h-28">
+      <div className="relative overflow-hidden rounded-t-2xl bg-white h-20 sm:h-28">
         <Image
           src={imageSrc}
           alt={tool.nombre}
@@ -71,7 +71,7 @@ function ToolCard({ tool, onSelect }: { tool: Tool; onSelect?: (tool: Tool) => v
           <div className="absolute inset-0 shadow-[inset_0_0_0_1px_rgba(0,0,0,0.08)]" />
         </div>
       </div>
-      <div className="p-2.5 flex flex-col gap-2 flex-1">
+      <div className="p-1.5 sm:p-2.5 flex flex-col gap-1 sm:gap-2 flex-1">
         <div className="px-1">
           <h3 className="text-base font-semibold leading-snug">{tool.nombre}</h3>
           <p className="text-[13px] text-black/80 dark:text-white/85 two-lines">

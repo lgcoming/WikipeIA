@@ -12,7 +12,7 @@ function ToolsGrid({ tools, onSelect }: { tools: Tool[]; onSelect?: (tool: Tool)
     );
   }
   return (
-    <div className="grid w-full max-w-[69rem] grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-4 gap-5 items-stretch">
+    <div className="grid w-full max-w-[69rem] grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-4 gap-2 sm:gap-5 items-stretch px-8 sm:px-0">
       <AnimatePresence initial={false} mode="popLayout">
         {tools.map((t) => (
           <motion.div

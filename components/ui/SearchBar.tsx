@@ -47,7 +47,7 @@ export default function SearchBar({
   }, []);
 
   return (
-    <div className="w-full max-w-sm">
+    <div className="w-full max-w-[200px] sm:max-w-sm">
       <label htmlFor="wikipeia-search" className="sr-only">Buscar herramientas</label>
       <div className="relative">
         <svg className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-[var(--accent)]/80" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
