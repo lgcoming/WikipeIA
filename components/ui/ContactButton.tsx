@@ -59,7 +59,7 @@ export default function ContactButton() {
           setOpen(true);
           setOpenedAt(Date.now());
         }}
-          className="rounded-lg px-4 py-2 text-sm font-medium focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 hover:bg-[#00d4ff]/30 hover:text-white border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff] transition cursor-pointer"
+          className="rounded-lg px-4 py-2 text-sm font-medium focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 hover:bg-[#00d4ff]/30 hover:text-white border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff] transition-all duration-150 cursor-pointer active:scale-95 active:transform"
       >
         Contacto
       </button>
@@ -123,7 +123,7 @@ export default function ContactButton() {
                     )}
                     <div className="flex items-center justify-end gap-2 pt-2">
                       <button type="button" onClick={() => setOpen(false)} className="rounded-lg px-3 py-2 text-sm text-white/80 hover:text-white">Cancelar</button>
-                      <button type="submit" disabled={submitting} className="btn-accent rounded-lg px-3 py-2 text-sm font-medium disabled:opacity-60">
+                      <button type="submit" disabled={submitting} className="btn-accent rounded-lg px-3 py-2 text-sm font-medium disabled:opacity-60 transition-all duration-150 active:scale-95 active:transform disabled:active:scale-100">
                         {submitting ? "Enviando..." : "Enviar"}
                       </button>
                     </div>

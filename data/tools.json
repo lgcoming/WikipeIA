@@ -14,7 +14,7 @@
     ],
     "descripcion": "Convierte vídeos largos en shorts (YouTube Shorts, Reels, TikTok) con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Convierte vídeos largos en shorts (YouTube Shorts, Reels, TikTok) con IA. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "adcreative-ai",
@@ -31,7 +31,7 @@
     ],
     "descripcion": "Genera creatividades y copies de anuncios con IA para Google/Meta/Display.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Genera creatividades y copies de anuncios con IA para Google/Meta/Display. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "copymatic",
@@ -48,7 +48,7 @@
     ],
     "descripcion": "Redactor de contenidos con IA para blogs, landings y ads.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Redactor de contenidos con IA para blogs, landings y ads. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "fliki",
@@ -65,7 +65,7 @@
     ],
     "descripcion": "Convierte texto en videos con voces IA realistas; editor online y plantillas.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Convierte texto en videos con voces IA realistas; editor online y plantillas. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "genovideo",
@@ -81,7 +81,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Genovideo/3.jpg"
     ],
     "descripcion": "Generador de videos con IA en español a partir de texto.",
-    "descripcionDetallada": "Generador de videos con IA en español a partir de texto. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "humataai",
@@ -98,7 +98,7 @@
     ],
     "descripcion": "Q&A sobre tus archivos: sube PDFs y pregunta para obtener respuestas citadas.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Q&A sobre tus archivos: sube PDFs y pregunta para obtener respuestas citadas. Devuelve respuestas sintetizadas con fuentes citadas. Útil para investigación rápida y verificación de información. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Devuelve respuestas sintetizadas con fuentes citadas. Útil para investigación rápida y verificación de información. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "rytr",
@@ -115,7 +115,7 @@
     ],
     "descripcion": "Asistente de escritura para blogs/SEO/redes; plantillas y extensión.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Asistente de escritura para blogs/SEO/redes; plantillas y extensión. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "synthesia",
@@ -131,7 +131,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Synthesia/3.jpg"
     ],
     "descripcion": "Crea videos a partir de texto con avatares y voces IA en +140 idiomas.",
-    "descripcionDetallada": "Crea videos a partir de texto con avatares y voces IA en +140 idiomas. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "bhuman",
@@ -148,7 +148,7 @@
     ],
     "descripcion": "Videos hiperpersonalizados a escala para ventas, marketing y soporte.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Videos hiperpersonalizados a escala para ventas, marketing y soporte. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "namecheaplogomaker",
@@ -164,7 +164,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Namecheap_Logo_Maker/3.jpg"
     ],
     "descripcion": "Creador de logotipos gratuito con exportación en PNG/SVG.",
-    "descripcionDetallada": "Creador de logotipos gratuito con exportación en PNG/SVG. Crea logotipos y exporta assets en formatos estándar. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Crea logotipos y exporta assets en formatos estándar. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "smodin",
@@ -181,7 +181,7 @@
     ],
     "descripcion": "Suite de escritura con IA para reescritura, citación y generación de contenidos.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Suite de escritura con IA para reescritura, citación y generación de contenidos. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "aiwriter-com",
@@ -198,7 +198,7 @@
     ],
     "descripcion": "Genera artículos precisos y citas con IA; optimización SEO.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Genera artículos precisos y citas con IA; optimización SEO. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "aiseo",
@@ -215,7 +215,7 @@
     ],
     "descripcion": "Escritura asistida por IA con herramientas SEO y para redes sociales.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Escritura asistida por IA con herramientas SEO y para redes sociales. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "anyword",
@@ -232,7 +232,7 @@
     ],
     "descripcion": "Plataforma de copy marketing con predicciones de performance.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Plataforma de copy marketing con predicciones de performance. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "articlefiesta",
@@ -249,7 +249,7 @@
     ],
     "descripcion": "Generador de artículos listos para SEO con imágenes y enlaces.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Generador de artículos listos para SEO con imágenes y enlaces. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "articleforge",
@@ -266,7 +266,7 @@
     ],
     "descripcion": "Crea artículos de alta calidad en minutos con IA, orientado a SEO.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Crea artículos de alta calidad en minutos con IA, orientado a SEO. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "bertha-ai",
@@ -283,7 +283,7 @@
     ],
     "descripcion": "Asistente de copy y generación de imágenes integrado en WordPress/Chrome.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Asistente de copy y generación de imágenes integrado en WordPress/Chrome. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "botowski",
@@ -300,7 +300,7 @@
     ],
     "descripcion": "Copywriter personal con plantillas para blogs, social y e‑commerce.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Copywriter personal con plantillas para blogs, social y e‑commerce. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "copy-ai",
@@ -318,7 +318,7 @@
     ],
     "descripcion": "Plataforma de contenido para equipos: flujos de trabajo y plantillas.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Plataforma de contenido para equipos: flujos de trabajo y plantillas. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "copymonkey-ai",
@@ -335,7 +335,7 @@
     ],
     "descripcion": "Optimiza listings de Amazon con IA (títulos, bullets, keywords).",
     "pruebaGratis": true,
-    "descripcionDetallada": "Optimiza listings de Amazon con IA (títulos, bullets, keywords). Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "copysmithai",
@@ -352,7 +352,7 @@
     ],
     "descripcion": "Solución de contenido para empresas y e‑commerce con colaboración.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Solución de contenido para empresas y e‑commerce con colaboración. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "crawlq-ai",
@@ -367,7 +367,7 @@
     ],
     "descripcion": "Plataforma de inteligencia y estrategia para crear contenido que conecte con la audiencia.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Plataforma de inteligencia y estrategia para crear contenido que conecte con la audiencia. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "creaitorai",
@@ -384,7 +384,7 @@
     ],
     "descripcion": "Asistente de escritura y generación de ideas y contenidos con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Asistente de escritura y generación de ideas y contenidos con IA. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "easypeasy-ai",
@@ -401,7 +401,7 @@
     ],
     "descripcion": "Suite para crear guiones, posts y assets; incluye voz a texto y utilidades para video.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Suite para crear guiones, posts y assets; incluye voz a texto y utilidades para video. Herramientas enfocadas en edición/fotografía rápida para creadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Herramientas enfocadas en edición/fotografía rápida para creadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "eillaai",
@@ -418,7 +418,7 @@
     ],
     "descripcion": "Asistente seguro para generación de contenido, imágenes y tareas especializadas (legal/finanzas).",
     "pruebaGratis": true,
-    "descripcionDetallada": "Asistente seguro para generación de contenido, imágenes y tareas especializadas (legal/finanzas). Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "gocharlie",
@@ -435,7 +435,7 @@
     ],
     "descripcion": "Herramientas creativas para creadores: copy, diseño y generación de imágenes con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Herramientas creativas para creadores: copy, diseño y generación de imágenes con IA. Herramientas enfocadas en edición/fotografía rápida para creadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Herramientas enfocadas en edición/fotografía rápida para creadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "hoppycopy",
@@ -452,7 +452,7 @@
     ],
     "descripcion": "Plataforma para crear y optimizar emails de alto rendimiento con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Plataforma para crear y optimizar emails de alto rendimiento con IA. Genera, personaliza y analiza correos para marketing o atención. Suele integrarse con CRMs o ESPs. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera, personaliza y analiza correos para marketing o atención. Suele integrarse con CRMs o ESPs. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "hypotenuseai",
@@ -469,7 +469,7 @@
     ],
     "descripcion": "Generación de contenidos para e‑commerce y marketing con enfoque SEO.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Generación de contenidos para e‑commerce y marketing con enfoque SEO. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "longshot",
@@ -486,7 +486,7 @@
     ],
     "descripcion": "De idea a artículo: redacción larga con investigación, fact-check y SEO.",
     "pruebaGratis": true,
-    "descripcionDetallada": "De idea a artículo: redacción larga con investigación, fact-check y SEO. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "munch",
@@ -503,7 +503,7 @@
     ],
     "descripcion": "Recorta y reutiliza contenido largo en clips sociales con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Recorta y reutiliza contenido largo en clips sociales con IA. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "neuroflash",
@@ -537,7 +537,7 @@
     ],
     "descripcion": "Calendario, creación y publicación para redes sociales con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Calendario, creación y publicación para redes sociales con IA. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "intellimize",
@@ -553,7 +553,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Intellimize/3.jpg"
     ],
     "descripcion": "Optimización de conversión (CRO) programática para sitios.",
-    "descripcionDetallada": "Optimización de conversión (CRO) programática para sitios. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "interflexion",
@@ -570,7 +570,7 @@
     ],
     "descripcion": "Role-play con IA para mejorar habilidades profesionales.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Role-play con IA para mejorar habilidades profesionales. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "jaqnjil",
@@ -587,7 +587,7 @@
     ],
     "descripcion": "Generación rápida de contenido profesional.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Generación rápida de contenido profesional. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "jenni",
@@ -604,7 +604,7 @@
     ],
     "descripcion": "Asistente de escritura con IA para ensayos y artículos.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Asistente de escritura con IA para ensayos y artículos. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "jibewith",
@@ -621,7 +621,7 @@
     ],
     "descripcion": "Plataforma colaborativa de edición y publicación de contenido.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Plataforma colaborativa de edición y publicación de contenido. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "jobscan",
@@ -638,7 +638,7 @@
     ],
     "descripcion": "Optimiza el CV para ATS y aumenta entrevistas.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Optimiza el CV para ATS y aumenta entrevistas. Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "jobtitlesai",
@@ -655,7 +655,7 @@
     ],
     "descripcion": "Clasificación de títulos de trabajo con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Clasificación de títulos de trabajo con IA. Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "jounceai",
@@ -671,7 +671,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jounce_AI/3.jpg"
     ],
     "descripcion": "Copys e imágenes de marketing con IA.",
-    "descripcionDetallada": "Copys e imágenes de marketing con IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "jusi",
@@ -683,7 +683,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "Especificaciones técnicas automáticas para apps/web.",
-    "descripcionDetallada": "Especificaciones técnicas automáticas para apps/web. Asiste en el ciclo de código (autocompletado, refactorización, chat en IDE) para múltiples lenguajes. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Asiste en el ciclo de código (autocompletado, refactorización, chat en IDE) para múltiples lenguajes. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "heyleia",
@@ -699,7 +699,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Heyleia/3.jpg"
     ],
     "descripcion": "Crea experiencias digitales a medida rápidamente.",
-    "descripcionDetallada": "Crea experiencias digitales a medida rápidamente. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "hirelakeai",
@@ -715,7 +715,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/HireLakeAI/3.jpg"
     ],
     "descripcion": "Extracción y matching de datos de CV a gran escala.",
-    "descripcionDetallada": "Extracción y matching de datos de CV a gran escala. Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "ideabuddy",
@@ -732,7 +732,7 @@
     ],
     "descripcion": "Plan de negocio y validación de ideas con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Plan de negocio y validación de ideas con IA. Estructura ideas de negocio y roadmaps, con plantillas y validación básica. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Estructura ideas de negocio y roadmaps, con plantillas y validación básica. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "imagineme",
@@ -748,7 +748,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Imagine_Me/3.jpg"
     ],
     "descripcion": "Crea arte IA de ti mismo con una línea de texto.",
-    "descripcionDetallada": "Crea arte IA de ti mismo con una línea de texto. Genera representaciones o retratos estilizados a partir de imágenes. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera representaciones o retratos estilizados a partir de imágenes. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "industrialdatalabs",
@@ -764,7 +764,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Industrial_Data_Labs/3.jpg"
     ],
     "descripcion": "Herramientas de IA para ventas técnicas en industria.",
-    "descripcionDetallada": "Herramientas de IA para ventas técnicas en industria. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "infomail-ai",
@@ -780,7 +780,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Infomail.ai/3.jpg"
     ],
     "descripcion": "Genera contenido de email marketing con IA.",
-    "descripcionDetallada": "Genera contenido de email marketing con IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "fineshare",
@@ -797,7 +797,7 @@
     ],
     "descripcion": "Fondos virtuales y herramientas creativas para video y voz.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Fondos virtuales y herramientas creativas para video y voz. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "freeday-ai",
@@ -813,7 +813,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Freeday.ai/3.jpg"
     ],
     "descripcion": "Bots de automatización de tareas para equipos.",
-    "descripcionDetallada": "Bots de automatización de tareas para equipos. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "genieai",
@@ -829,7 +829,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Genie_AI/3.jpg"
     ],
     "descripcion": "Mejora el alcance e impacto de tu contenido.",
-    "descripcionDetallada": "Mejora el alcance e impacto de tu contenido. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "gerwin",
@@ -846,7 +846,7 @@
     ],
     "descripcion": "Herramienta de copy AI todo-en-uno.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Herramienta de copy AI todo-en-uno. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "ghostwrite",
@@ -863,7 +863,7 @@
     ],
     "descripcion": "Extensión de redacción de emails con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Extensión de redacción de emails con IA. Genera, personaliza y analiza correos para marketing o atención. Suele integrarse con CRMs o ESPs. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera, personaliza y analiza correos para marketing o atención. Suele integrarse con CRMs o ESPs. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "gpttwitbot",
@@ -875,7 +875,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "Bot para generar bios y tuits.",
-    "descripcionDetallada": "Bot para generar bios y tuits. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "harpa-ai",
@@ -891,7 +891,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Harpa.ai/3.jpg"
     ],
     "descripcion": "Asistente de automatización web + ChatGPT para navegador.",
-    "descripcionDetallada": "Asistente de automatización web + ChatGPT para navegador. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "helloscribe",
@@ -908,7 +908,7 @@
     ],
     "descripcion": "Escritura creativa para PR y marketing.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Escritura creativa para PR y marketing. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "duxsoup",
@@ -925,7 +925,7 @@
     ],
     "descripcion": "Automatización de prospección en LinkedIn.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Automatización de prospección en LinkedIn. Ayuda con prospección, personalización de mensajes y análisis de cuentas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda con prospección, personalización de mensajes y análisis de cuentas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "editby",
@@ -942,7 +942,7 @@
     ],
     "descripcion": "Crecimiento de audiencia en Twitter con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Crecimiento de audiencia en Twitter con IA. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "emailmagicai",
@@ -959,7 +959,7 @@
     ],
     "descripcion": "Automatiza correos productivos con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Automatiza correos productivos con IA. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "embolden",
@@ -976,7 +976,7 @@
     ],
     "descripcion": "Copywriting para e‑commerce con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Copywriting para e‑commerce con IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "embra",
@@ -993,7 +993,7 @@
     ],
     "descripcion": "Asistente AI rápido en tu Mac.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Asistente AI rápido en tu Mac. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "escribelo-ai",
@@ -1009,7 +1009,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Escribelo.ai/3.jpg"
     ],
     "descripcion": "Generador de artículos SEO en español.",
-    "descripcionDetallada": "Generador de artículos SEO en español. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "feedhive",
@@ -1026,7 +1026,7 @@
     ],
     "descripcion": "Creación y programación de contenido a escala.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Creación y programación de contenido a escala. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "finalscout",
@@ -1043,7 +1043,7 @@
     ],
     "descripcion": "Emails de contactos de LinkedIn para outreach.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Emails de contactos de LinkedIn para outreach. Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "copyleaks",
@@ -1059,7 +1059,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copyleaks/3.jpg"
     ],
     "descripcion": "Detector de plagio y contenido IA.",
-    "descripcionDetallada": "Detector de plagio y contenido IA. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "coverdoc-ai",
@@ -1076,7 +1076,7 @@
     ],
     "descripcion": "Cartas de presentación personalizadas.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Cartas de presentación personalizadas. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "coverler",
@@ -1092,7 +1092,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Coverler/3.jpg"
     ],
     "descripcion": "Generador de cover letters con IA.",
-    "descripcionDetallada": "Generador de cover letters con IA. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "coverlettersimple-ai",
@@ -1108,7 +1108,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CoverLetterSimple.ai/3.jpg"
     ],
     "descripcion": "Genera cartas de presentación simples y efectivas.",
-    "descripcionDetallada": "Genera cartas de presentación simples y efectivas. Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "cowriter",
@@ -1124,7 +1124,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Cowriter/3.jpg"
     ],
     "descripcion": "Asistente para desbloquear tu mejor escritura.",
-    "descripcionDetallada": "Asistente para desbloquear tu mejor escritura. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "crowdview",
@@ -1138,7 +1138,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CrowdView/1.jpg"
     ],
     "descripcion": "Búsqueda de tendencias y preguntas de audiencia.",
-    "descripcionDetallada": "Búsqueda de tendencias y preguntas de audiencia. Devuelve respuestas sintetizadas con fuentes citadas. Útil para investigación rápida y verificación de información. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Devuelve respuestas sintetizadas con fuentes citadas. Útil para investigación rápida y verificación de información. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "ctrify",
@@ -1155,7 +1155,7 @@
     ],
     "descripcion": "SEO basado en IA y tráfico/CTR.",
     "pruebaGratis": true,
-    "descripcionDetallada": "SEO basado en IA y tráfico/CTR. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "daydrm-ai",
@@ -1171,7 +1171,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Daydrm.ai/3.jpg"
     ],
     "descripcion": "Ideas creativas publicitarias a partir de briefs.",
-    "descripcionDetallada": "Ideas creativas publicitarias a partir de briefs. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "digitalfirstai",
@@ -1188,7 +1188,7 @@
     ],
     "descripcion": "Estrategias y planes de marketing impulsados por IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Estrategias y planes de marketing impulsados por IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "dreamhouseai",
@@ -1205,7 +1205,7 @@
     ],
     "descripcion": "Diseño de interiores virtual con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Diseño de interiores virtual con IA. Transforma fotos de estancias y facilita la presentación de propiedades. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Transforma fotos de estancias y facilita la presentación de propiedades. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "dreamstagingai",
@@ -1222,7 +1222,7 @@
     ],
     "descripcion": "Virtual staging inmobiliario con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Virtual staging inmobiliario con IA. Transforma fotos de estancias y facilita la presentación de propiedades. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Transforma fotos de estancias y facilita la presentación de propiedades. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "closerscopy",
@@ -1238,7 +1238,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Closers_Copy/3.jpg"
     ],
     "descripcion": "Redacción de ventas y blogs optimizados.",
-    "descripcionDetallada": "Redacción de ventas y blogs optimizados. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "coachmarlee",
@@ -1254,7 +1254,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Coach_Marlee/3.jpg"
     ],
     "descripcion": "Coaching personal/organizacional con IA.",
-    "descripcionDetallada": "Coaching personal/organizacional con IA. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "cody",
@@ -1271,7 +1271,7 @@
     ],
     "descripcion": "Asistente empresarial conectado a tus datos.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Asistente empresarial conectado a tus datos. Agentes o wrappers especializados sobre modelos base para casos de negocio. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Agentes o wrappers especializados sobre modelos base para casos de negocio. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "commentanalyzer",
@@ -1287,7 +1287,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Comment_analyzer/3.jpg"
     ],
     "descripcion": "Analiza comentarios de YouTube con IA.",
-    "descripcionDetallada": "Analiza comentarios de YouTube con IA. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "contentatscale",
@@ -1303,7 +1303,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Content_At_Scale/3.jpg"
     ],
     "descripcion": "Plataforma de publicación SEO a escala.",
-    "descripcionDetallada": "Plataforma de publicación SEO a escala. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "contents",
@@ -1320,7 +1320,7 @@
     ],
     "descripcion": "Ecosistema de contenido multiplataforma.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Ecosistema de contenido multiplataforma. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "blogbooster",
@@ -1336,7 +1336,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Blog_Booster/3.jpg"
     ],
     "descripcion": "Autopiloto de contenido para blogs.",
-    "descripcionDetallada": "Autopiloto de contenido para blogs. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "blognlp",
@@ -1352,7 +1352,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/BlogNLP/3.jpg"
     ],
     "descripcion": "Herramienta NLP para blog SEO.",
-    "descripcionDetallada": "Herramienta NLP para blog SEO. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "brandbastionlite",
@@ -1369,7 +1369,7 @@
     ],
     "descripcion": "Gestión de comentarios y comunidad a escala.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Gestión de comentarios y comunidad a escala. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "broadn",
@@ -1385,7 +1385,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Broadn/3.jpg"
     ],
     "descripcion": "Aprendizaje generativo para audiencias de uno.",
-    "descripcionDetallada": "Aprendizaje generativo para audiencias de uno. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "candyicons",
@@ -1401,7 +1401,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CandyIcons/3.jpg"
     ],
     "descripcion": "Paquetes de íconos de apps generados/curados.",
-    "descripcionDetallada": "Paquetes de íconos de apps generados/curados. Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "canvatexttoimage",
@@ -1418,7 +1418,7 @@
     ],
     "descripcion": "Generador de imágenes dentro de Canva.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Generador de imágenes dentro de Canva. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "capturelab",
@@ -1435,7 +1435,7 @@
     ],
     "descripcion": "Clips destacados automatizados para streamers.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Clips destacados automatizados para streamers. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "caroot",
@@ -1452,7 +1452,7 @@
     ],
     "descripcion": "Gestión de tareas y productividad personal.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Gestión de tareas y productividad personal. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "clickable",
@@ -1468,7 +1468,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Clickable/3.jpg"
     ],
     "descripcion": "Crea anuncios en segundos con IA.",
-    "descripcionDetallada": "Crea anuncios en segundos con IA. Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "clippah",
@@ -1481,7 +1481,7 @@
     "imagenes": [],
     "descripcion": "Herramienta para crear contenido social rápidamente.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Herramienta para crear contenido social rápidamente. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "clipsai",
@@ -1498,7 +1498,7 @@
     ],
     "descripcion": "Repurposing automático de contenido a clips.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Repurposing automático de contenido a clips. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "armonai",
@@ -1514,7 +1514,7 @@
     ],
     "descripcion": "Herramientas creativas impulsadas por IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Herramientas creativas impulsadas por IA. Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "artiro",
@@ -1531,7 +1531,7 @@
     ],
     "descripcion": "Generador de contenido y automatizaciones.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Generador de contenido y automatizaciones. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "arvin",
@@ -1547,19 +1547,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Arvin/3.jpg"
     ],
     "descripcion": "Herramientas de redacción basadas en IA.",
-    "descripcionDetallada": "Herramientas de redacción basadas en IA. Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
-  },
-  {
-    "id": "bardgoogle",
-    "nombre": "Bard Google",
-    "categoria": "Marketing",
-    "precio": "gratis",
-    "etiquetas": [],
-    "enlace": "https://bard.google.com/",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Asistente conversacional de Google.",
-    "descripcionDetallada": "Asistente conversacional de Google. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "beautifulai",
@@ -1575,7 +1563,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Beautiful_AI/3.jpg"
     ],
     "descripcion": "Software de presentaciones con diseño inteligente.",
-    "descripcionDetallada": "Software de presentaciones con diseño inteligente. Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "a-v-mapping",
@@ -1592,7 +1580,7 @@
     ],
     "descripcion": "Mapeo y licencias de música/visual para creadores.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Mapeo y licencias de música/visual para creadores. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "adobesensei",
@@ -1608,7 +1596,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Adobe_Sensei/3.jpg"
     ],
     "descripcion": "Tecnologías de IA de Adobe para sus productos.",
-    "descripcionDetallada": "Tecnologías de IA de Adobe para sus productos. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "affable",
@@ -1625,7 +1613,7 @@
     ],
     "descripcion": "Plataforma de marketing de influencers end-to-end.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Plataforma de marketing de influencers end-to-end. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "aiscreenwriter",
@@ -1642,7 +1630,7 @@
     ],
     "descripcion": "Asistente para guionistas.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Asistente para guionistas. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "albus",
@@ -1659,7 +1647,7 @@
     ],
     "descripcion": "Asistente de conocimiento para equipos.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Asistente de conocimiento para equipos. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "analogenie",
@@ -1676,7 +1664,7 @@
     ],
     "descripcion": "Generador de analogías y explicaciones.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Generador de analogías y explicaciones. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "paragraphai",
@@ -1689,7 +1677,7 @@
     "imagenes": [],
     "descripcion": "Teclado y app de escritura con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Teclado y app de escritura con IA. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "pictory",
@@ -1706,7 +1694,7 @@
     ],
     "descripcion": "Crea videos desde texto y guiones.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Crea videos desde texto y guiones. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "repurposeio",
@@ -1723,7 +1711,7 @@
     ],
     "descripcion": "Automatiza la distribución de contenido.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Automatiza la distribución de contenido. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "sheetai-app",
@@ -1740,7 +1728,7 @@
     ],
     "descripcion": "Funciones de IA directamente en tus hojas de cálculo.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Funciones de IA directamente en tus hojas de cálculo. Añade funciones de IA directamente en hojas de cálculo para acelerar análisis. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Añade funciones de IA directamente en hojas de cálculo para acelerar análisis. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "vondy",
@@ -1757,7 +1745,7 @@
     ],
     "descripcion": "Workspace de productividad con IA todo-en-uno.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Workspace de productividad con IA todo-en-uno. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "wizishop",
@@ -1774,7 +1762,7 @@
     ],
     "descripcion": "E-commerce con herramientas de IA integradas.",
     "pruebaGratis": true,
-    "descripcionDetallada": "E-commerce con herramientas de IA integradas. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "writeseed",
@@ -1791,7 +1779,7 @@
     ],
     "descripcion": "Generador de contenido SEO y long-form.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Generador de contenido SEO y long-form. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "writesonic",
@@ -1808,7 +1796,7 @@
     ],
     "descripcion": "Plataforma de escritura y chatGPT propio.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Plataforma de escritura y chatGPT propio. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "yaaraai",
@@ -1825,7 +1813,7 @@
     ],
     "descripcion": "Herramientas de redacción y reescritura.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Herramientas de redacción y reescritura. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "5out",
@@ -1841,7 +1829,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/5_Out/3.jpg"
     ],
     "descripcion": "Analítica e IA para hospitalidad/operaciones.",
-    "descripcionDetallada": "Analítica e IA para hospitalidad/operaciones. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "smartflowai",
@@ -1854,7 +1842,7 @@
     "imagenes": [],
     "descripcion": "Automatiza workflows con IA generativa.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Automatiza workflows con IA generativa. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "smartscout",
@@ -1871,7 +1859,7 @@
     ],
     "descripcion": "Suite para vendedores de Amazon.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Suite para vendedores de Amazon. Ayuda con prospección, personalización de mensajes y análisis de cuentas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda con prospección, personalización de mensajes y análisis de cuentas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "smartwriter",
@@ -1884,7 +1872,7 @@
     "imagenes": [],
     "descripcion": "Emails personalizados con IA para outbound.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Emails personalizados con IA para outbound. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "socialvar",
@@ -1901,7 +1889,7 @@
     ],
     "descripcion": "Gestión y automatización de marketing en redes.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Gestión y automatización de marketing en redes. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "socialbu",
@@ -1918,7 +1906,7 @@
     ],
     "descripcion": "Publicación, inbox y automatizaciones sociales.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Publicación, inbox y automatizaciones sociales. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "solidgrids",
@@ -1935,7 +1923,7 @@
     ],
     "descripcion": "Imágenes comerciales a gran escala con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Imágenes comerciales a gran escala con IA. Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "spatial",
@@ -1952,7 +1940,7 @@
     ],
     "descripcion": "Segmentación e insights de audiencias.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Segmentación e insights de audiencias. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "speechgen-io",
@@ -1969,7 +1957,7 @@
     ],
     "descripcion": "Conversor de texto a voz realista.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Conversor de texto a voz realista. Convierte texto a voz o mejora grabaciones. Útil para locuciones, podcasts y accesibilidad. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Convierte texto a voz o mejora grabaciones. Útil para locuciones, podcasts y accesibilidad. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "robin",
@@ -1981,7 +1969,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "Agente de ventas outbound por email.",
-    "descripcionDetallada": "Agente de ventas outbound por email. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "salesstack",
@@ -1998,7 +1986,7 @@
     ],
     "descripcion": "Comunicación de marketing impulsada por IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Comunicación de marketing impulsada por IA. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "scalenut",
@@ -2015,7 +2003,7 @@
     ],
     "descripcion": "Investigación y creación de contenido SEO.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Investigación y creación de contenido SEO. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "seenapse",
@@ -2032,7 +2020,7 @@
     ],
     "descripcion": "Ideas creativas asistidas por IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Ideas creativas asistidas por IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "seoai",
@@ -2049,7 +2037,7 @@
     ],
     "descripcion": "Contenido optimizado para SEO con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Contenido optimizado para SEO con IA. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "seogpt",
@@ -2065,7 +2053,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SEO_GPT/3.jpg"
     ],
     "descripcion": "Herramienta SEO basada en GPT.",
-    "descripcionDetallada": "Herramienta SEO basada en GPT. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "seomaticai",
@@ -2082,7 +2070,7 @@
     ],
     "descripcion": "Páginas SEO a escala con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Páginas SEO a escala con IA. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "seowritingai",
@@ -2099,7 +2087,7 @@
     ],
     "descripcion": "Redacción SEO automática para blogs.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Redacción SEO automática para blogs. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "shakespeare",
@@ -2116,7 +2104,7 @@
     ],
     "descripcion": "Escritura de marketing con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Escritura de marketing con IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "simplified-com",
@@ -2133,7 +2121,7 @@
     ],
     "descripcion": "Suite de marketing: copy, diseño, video.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Suite de marketing: copy, diseño, video. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "skimit",
@@ -2145,7 +2133,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "Resumen de artículos por email con IA.",
-    "descripcionDetallada": "Resumen de artículos por email con IA. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "quickreply",
@@ -2161,7 +2149,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Quick_Reply/3.jpg"
     ],
     "descripcion": "Respuestas con IA para atención y ventas.",
-    "descripcionDetallada": "Respuestas con IA para atención y ventas. Genera, personaliza y analiza correos para marketing o atención. Suele integrarse con CRMs o ESPs. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera, personaliza y analiza correos para marketing o atención. Suele integrarse con CRMs o ESPs. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "quicktoolsbypicsart",
@@ -2174,7 +2162,7 @@
     "imagenes": [],
     "descripcion": "Herramientas rápidas gratuitas de Picsart.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Herramientas rápidas gratuitas de Picsart. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "quickvid-ai",
@@ -2191,7 +2179,7 @@
     ],
     "descripcion": "Crea shorts de YouTube y guiones con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Crea shorts de YouTube y guiones con IA. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "rationale",
@@ -2208,7 +2196,7 @@
     ],
     "descripcion": "Toma de decisiones con pros/cons, árboles y análisis de IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Toma de decisiones con pros/cons, árboles y análisis de IA. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "regie",
@@ -2225,7 +2213,7 @@
     ],
     "descripcion": "Plataforma de contenido para equipos de ventas/marketing.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Plataforma de contenido para equipos de ventas/marketing. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "resumeworded",
@@ -2242,7 +2230,7 @@
     ],
     "descripcion": "Mejora tu CV y perfil de LinkedIn.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Mejora tu CV y perfil de LinkedIn. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "rezi",
@@ -2259,7 +2247,7 @@
     ],
     "descripcion": "Generador de CV con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Generador de CV con IA. Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "roastdating",
@@ -2276,7 +2264,7 @@
     ],
     "descripcion": "Recibe feedback de tu perfil de citas con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Recibe feedback de tu perfil de citas con IA. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "pixelhunter",
@@ -2288,7 +2276,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "Redimensionador automático de imágenes para social.",
-    "descripcionDetallada": "Redimensionador automático de imágenes para social. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "postai",
@@ -2301,7 +2289,7 @@
     "imagenes": [],
     "descripcion": "Genera copys y publicaciones con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Genera copys y publicaciones con IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "postaga",
@@ -2318,7 +2306,7 @@
     ],
     "descripcion": "Outreach para backlinks y PR.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Outreach para backlinks y PR. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "postly",
@@ -2335,7 +2323,7 @@
     ],
     "descripcion": "Planifica y publica campañas sociales.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Planifica y publica campañas sociales. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "postwise",
@@ -2351,7 +2339,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Postwise/3.jpg"
     ],
     "descripcion": "Crecimiento en Twitter/X con IA.",
-    "descripcionDetallada": "Crecimiento en Twitter/X con IA. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "predictai",
@@ -2363,7 +2351,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "Optimización de creatividades con IA.",
-    "descripcionDetallada": "Optimización de creatividades con IA. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "predis",
@@ -2380,7 +2368,7 @@
     ],
     "descripcion": "Crea posts sociales automáticamente.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Crea posts sociales automáticamente. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "proposalgenie",
@@ -2397,7 +2385,7 @@
     ],
     "descripcion": "Genera propuestas freelance en segundos.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Genera propuestas freelance en segundos. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "publeraiassist",
@@ -2414,7 +2402,7 @@
     ],
     "descripcion": "Asistente GPT-4 integrado en Publer.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Asistente GPT-4 integrado en Publer. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "qlip-ai",
@@ -2431,7 +2419,7 @@
     ],
     "descripcion": "Clips sociales generados con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Clips sociales generados con IA. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "pebblely",
@@ -2448,7 +2436,7 @@
     ],
     "descripcion": "Crea fotos de producto a partir de una imagen.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Crea fotos de producto a partir de una imagen. Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "peech",
@@ -2465,7 +2453,7 @@
     ],
     "descripcion": "Plataforma de video para equipos de contenido.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Plataforma de video para equipos de contenido. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "pencil",
@@ -2482,7 +2470,7 @@
     ],
     "descripcion": "Anuncios ganadores 10x más rápido.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Anuncios ganadores 10x más rápido. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "peppertype-ai",
@@ -2499,7 +2487,7 @@
     ],
     "descripcion": "Asistente de contenido virtual.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Asistente de contenido virtual. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "perfectessaywriter-ai",
@@ -2516,7 +2504,7 @@
     ],
     "descripcion": "Herramientas de redacción de ensayos.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Herramientas de redacción de ensayos. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "personalai",
@@ -2533,7 +2521,7 @@
     ],
     "descripcion": "Memoria y chat personal con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Memoria y chat personal con IA. Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "photorai",
@@ -2549,7 +2537,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Photor_AI/3.jpg"
     ],
     "descripcion": "Selección de la mejor foto con IA.",
-    "descripcionDetallada": "Selección de la mejor foto con IA. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "piggyto",
@@ -2561,7 +2549,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "Genera juegos/experiencias rápidas para redes.",
-    "descripcionDetallada": "Genera juegos/experiencias rápidas para redes. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "pitchgrade",
@@ -2574,7 +2562,7 @@
     "imagenes": [],
     "descripcion": "Feedback a tu pitch deck con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Feedback a tu pitch deck con IA. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "namingmagic",
@@ -2586,7 +2574,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "Genera nombres de marca con IA.",
-    "descripcionDetallada": "Genera nombres de marca con IA. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "neuronwriter",
@@ -2602,7 +2590,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Neuronwriter/3.jpg"
     ],
     "descripcion": "Optimiza contenidos para Google.",
-    "descripcionDetallada": "Optimiza contenidos para Google. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "newswriter-ai",
@@ -2614,7 +2602,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "Notas de prensa escritas por IA.",
-    "descripcionDetallada": "Notas de prensa escritas por IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "nichesss",
@@ -2627,7 +2615,7 @@
     "imagenes": [],
     "descripcion": "Suite de generación de contenido.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Suite de generación de contenido. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "nolej",
@@ -2644,7 +2632,7 @@
     ],
     "descripcion": "Creación de materiales educativos con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Creación de materiales educativos con IA. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "octaneai",
@@ -2661,7 +2649,7 @@
     ],
     "descripcion": "Recomendaciones personalizadas para e‑commerce.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Recomendaciones personalizadas para e‑commerce. Ayuda con prospección, personalización de mensajes y análisis de cuentas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda con prospección, personalización de mensajes y análisis de cuentas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "okaaay",
@@ -2673,7 +2661,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "Contenido más rápido con plantillas y IA.",
-    "descripcionDetallada": "Contenido más rápido con plantillas y IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "openaitextclassifier",
@@ -2685,7 +2673,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "(Deprecado) Clasificador de texto de OpenAI.",
-    "descripcionDetallada": "(Deprecado) Clasificador de texto de OpenAI. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "mgrworkbench-ai",
@@ -2702,7 +2690,7 @@
     ],
     "descripcion": "Escritura para negocio.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Escritura para negocio. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "midjourneysplitter",
@@ -2714,7 +2702,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "Divide grids de Midjourney en imágenes individuales.",
-    "descripcionDetallada": "Divide grids de Midjourney en imágenes individuales. Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "mojiwritingassistant",
@@ -2727,7 +2715,7 @@
     "imagenes": [],
     "descripcion": "Redacción y generación de arte con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Redacción y generación de arte con IA. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "mokkerai",
@@ -2744,7 +2732,7 @@
     ],
     "descripcion": "Sustitución de fondos y fotos de producto con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Sustitución de fondos y fotos de producto con IA. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "morise-ai",
@@ -2756,7 +2744,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "Herramientas de crecimiento para YouTube.",
-    "descripcionDetallada": "Herramientas de crecimiento para YouTube. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "motionit-ai",
@@ -2773,7 +2761,7 @@
     ],
     "descripcion": "Genera slides y videos en minutos.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Genera slides y videos en minutos. Genera diapositivas con diseño consistente a partir de guiones o puntos clave. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera diapositivas con diseño consistente a partir de guiones o puntos clave. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "moveworks",
@@ -2789,7 +2777,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Moveworks/3.jpg"
     ],
     "descripcion": "Soporte de empleados con IA conversacional.",
-    "descripcionDetallada": "Soporte de empleados con IA conversacional. Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Enfocado a CVs, matching de candidatos y optimización para ATS. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "mutiny",
@@ -2805,7 +2793,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Mutiny/3.jpg"
     ],
     "descripcion": "Personalización web para aumentar conversión.",
-    "descripcionDetallada": "Personalización web para aumentar conversión. Incluye asistentes para crear forms, chatbots y pequeñas apps con IA. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Incluye asistentes para crear forms, chatbots y pequeñas apps con IA. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "namelix",
@@ -2821,7 +2809,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Namelix/3.jpg"
     ],
     "descripcion": "Generador de nombres de marca.",
-    "descripcionDetallada": "Generador de nombres de marca. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "namesnack",
@@ -2837,7 +2825,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/NameSnack/3.jpg"
     ],
     "descripcion": "Ideas de nombre y dominios disponibles.",
-    "descripcionDetallada": "Ideas de nombre y dominios disponibles. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "namewizardai",
@@ -2849,7 +2837,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "Generador de ideas de negocio y nombres.",
-    "descripcionDetallada": "Generador de ideas de negocio y nombres. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "magicform",
@@ -2865,7 +2853,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MagicForm/3.jpg"
     ],
     "descripcion": "Forms y chatbots con IA para captar leads.",
-    "descripcionDetallada": "Forms y chatbots con IA para captar leads. Incluye asistentes para crear forms, chatbots y pequeñas apps con IA. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Incluye asistentes para crear forms, chatbots y pequeñas apps con IA. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "magickpen",
@@ -2882,7 +2870,7 @@
     ],
     "descripcion": "Escritura asistida por IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Escritura asistida por IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "magicthumbnails",
@@ -2894,7 +2882,7 @@
     "imagen": "",
     "imagenes": [],
     "descripcion": "Miniaturas de YouTube generadas por IA.",
-    "descripcionDetallada": "Miniaturas de YouTube generadas por IA. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "marketingblocksai",
@@ -2911,7 +2899,7 @@
     ],
     "descripcion": "Suite de marketing todo‑en‑uno.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Suite de marketing todo‑en‑uno. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "marketmuse",
@@ -2928,7 +2916,7 @@
     ],
     "descripcion": "Planificación y optimización de contenidos.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Planificación y optimización de contenidos. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "markopolo",
@@ -2945,7 +2933,7 @@
     ],
     "descripcion": "Marketing en piloto automático para Meta/Google/TikTok.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Marketing en piloto automático para Meta/Google/TikTok. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "marmof",
@@ -2962,7 +2950,7 @@
     ],
     "descripcion": "Copys y diseños para campañas de email.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Copys y diseños para campañas de email. Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "maverick",
@@ -2978,7 +2966,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Maverick/3.jpg"
     ],
     "descripcion": "Videos personalizados a escala para e‑commerce.",
-    "descripcionDetallada": "Videos personalizados a escala para e‑commerce. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "letterdrop",
@@ -2994,7 +2982,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Letterdrop/3.jpg"
     ],
     "descripcion": "Marketing de contenidos B2B en piloto automático.",
-    "descripcionDetallada": "Marketing de contenidos B2B en piloto automático. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "lexy",
@@ -3011,7 +2999,7 @@
     ],
     "descripcion": "Contenido para LinkedIn en 1 minuto.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Contenido para LinkedIn en 1 minuto. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "linguix",
@@ -3028,7 +3016,7 @@
     ],
     "descripcion": "Corrección y estilo con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Corrección y estilo con IA. Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza copys orientados a conversión para anuncios, emails y landing pages, con opciones de pruebas de variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "logomaster",
@@ -3044,7 +3032,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Logomaster/3.jpg"
     ],
     "descripcion": "Creador de logotipos online.",
-    "descripcionDetallada": "Creador de logotipos online. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "lunchbox",
@@ -3060,7 +3048,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/LunchBox/3.jpg"
     ],
     "descripcion": "Generador de comida/fotos con IA.",
-    "descripcionDetallada": "Generador de comida/fotos con IA. Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "machined-ai",
@@ -3077,7 +3065,7 @@
     ],
     "descripcion": "Clusters de contenido para SEO.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Clusters de contenido para SEO. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "maester-app",
@@ -3091,7 +3079,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Maester.app/1.jpg"
     ],
     "descripcion": "Plantillas y prompts para educación/estudio.",
-    "descripcionDetallada": "Plantillas y prompts para educación/estudio. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "katteb",
@@ -3108,7 +3096,7 @@
     ],
     "descripcion": "Redacción factual con verificación.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Redacción factual con verificación. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "kenji",
@@ -3125,7 +3113,7 @@
     ],
     "descripcion": "Bot de Instagram para crecimiento.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Bot de Instagram para crecimiento. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "keywordsearch",
@@ -3142,7 +3130,7 @@
     ],
     "descripcion": "Audiencias y palabras clave para ads.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Audiencias y palabras clave para ads. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "keywrds-ai",
@@ -3159,7 +3147,7 @@
     ],
     "descripcion": "Encuentra preguntas y keywords long‑tail.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Encuentra preguntas y keywords long‑tail. Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ayuda a investigar keywords, estructurar contenidos, y mejorar on‑page. Suele incluir auditorías, briefs y sugerencias de enlazado. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "kickresume",
@@ -3176,7 +3164,7 @@
     ],
     "descripcion": "Plantillas de CV y cartas con IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Plantillas de CV y cartas con IA. Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "klaviyoasistentesms",
@@ -3192,7 +3180,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Klaviyo_Asistente_SMS/3.jpg"
     ],
     "descripcion": "Respuestas automáticas por SMS con IA.",
-    "descripcionDetallada": "Respuestas automáticas por SMS con IA. Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Centraliza la creación de assets y la ejecución de campañas. Suele incluir colaboración, analítica básica y publicación multi‑canal. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "kore-ai",
@@ -3209,7 +3197,7 @@
     ],
     "descripcion": "Plataforma de bots y automatización conversacional.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Plataforma de bots y automatización conversacional. Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Incluye opciones de personalización, plantillas y una curva de aprendizaje baja para empezar rápido. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "kraftful",
@@ -3226,7 +3214,7 @@
     ],
     "descripcion": "Investigación de producto con IA sobre feedback.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Investigación de producto con IA sobre feedback. Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Herramientas para ideación, investigación y validación orientadas a fundadores. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "languagetool",
@@ -3243,7 +3231,7 @@
     ],
     "descripcion": "Corrector y asistente de estilo multilenguaje.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Corrector y asistente de estilo multilenguaje. Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Acelera la creación, programación y reutilización de contenidos. Frecuente soporte para formatos verticales y plantillas de tendencia. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "lebesgue",
@@ -3260,7 +3248,7 @@
     ],
     "descripcion": "Analítica de marketing para tiendas online.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Analítica de marketing para tiendas online. Optimiza fichas de producto, recomendaciones y operaciones de tienda. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Optimiza fichas de producto, recomendaciones y operaciones de tienda. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "lek",
@@ -3277,7 +3265,7 @@
     ],
     "descripcion": "Escritura AI todo‑en‑uno.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Escritura AI todo‑en‑uno. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "chatgpt",
@@ -3293,7 +3281,7 @@
     "descripcion": "Asistente conversacional multiuso con GPT.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
-    "descripcionDetallada": "Asistente conversacional multiuso con GPT. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "claude",
@@ -3309,7 +3297,7 @@
     "descripcion": "Modelo conversacional avanzado de Anthropic.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
-    "descripcionDetallada": "Modelo conversacional avanzado de Anthropic. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "microsoft-copilot",
@@ -3324,7 +3312,7 @@
     "imagenes": [],
     "descripcion": "Asistente gratuito integrado en servicios de Microsoft.",
     "fechaAlta": "2025-09-29",
-    "descripcionDetallada": "Asistente gratuito integrado en servicios de Microsoft. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "google-gemini",
@@ -3342,7 +3330,7 @@
     ],
     "descripcion": "Asistente multimodal de Google para texto e imágenes.",
     "fechaAlta": "2025-09-29",
-    "descripcionDetallada": "Asistente multimodal de Google para texto e imágenes. Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "perplexity",
@@ -3358,7 +3346,7 @@
     "descripcion": "Buscador con respuestas citadas y navegación.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
-    "descripcionDetallada": "Buscador con respuestas citadas y navegación. Devuelve respuestas sintetizadas con fuentes citadas. Útil para investigación rápida y verificación de información. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Devuelve respuestas sintetizadas con fuentes citadas. Útil para investigación rápida y verificación de información. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "poe",
@@ -3372,7 +3360,7 @@
     "descripcion": "Chatea con múltiples modelos (GPT, Claude, etc.).",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
-    "descripcionDetallada": "Chatea con múltiples modelos (GPT, Claude, etc.). Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Ideal para tareas diarias (resúmenes, redacción, ideación) y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "github-copilot",
@@ -3387,7 +3375,7 @@
     "imagenes": [],
     "descripcion": "Autocompletado de código y chat para IDEs.",
     "fechaAlta": "2025-09-29",
-    "descripcionDetallada": "Autocompletado de código y chat para IDEs. Asiste en el ciclo de código (autocompletado, refactorización, chat en IDE) para múltiples lenguajes. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Asiste en el ciclo de código (autocompletado, refactorización, chat en IDE) para múltiples lenguajes. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "codeium",
@@ -3401,7 +3389,7 @@
     "descripcion": "Asistente de código gratuito para múltiples lenguajes.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
-    "descripcionDetallada": "Asistente de código gratuito para múltiples lenguajes. Asiste en el ciclo de código (autocompletado, refactorización, chat en IDE) para múltiples lenguajes. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Asiste en el ciclo de código (autocompletado, refactorización, chat en IDE) para múltiples lenguajes. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "tabnine",
@@ -3415,7 +3403,7 @@
     "descripcion": "IA de autocompletado para IDEs.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
-    "descripcionDetallada": "IA de autocompletado para IDEs. Asiste en el ciclo de código (autocompletado, refactorización, chat en IDE) para múltiples lenguajes. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Asiste en el ciclo de código (autocompletado, refactorización, chat en IDE) para múltiples lenguajes. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "replit-ghostwriter",
@@ -3428,7 +3416,7 @@
     "imagenes": [],
     "descripcion": "Asistente de código integrado en Replit.",
     "fechaAlta": "2025-09-29",
-    "descripcionDetallada": "Asistente de código integrado en Replit. Asiste en el ciclo de código (autocompletado, refactorización, chat en IDE) para múltiples lenguajes. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Asiste en el ciclo de código (autocompletado, refactorización, chat en IDE) para múltiples lenguajes. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "midjourney",
@@ -3443,7 +3431,7 @@
     "imagenes": [],
     "descripcion": "Generación de imágenes creativas vía Discord.",
     "fechaAlta": "2025-09-29",
-    "descripcionDetallada": "Generación de imágenes creativas vía Discord. Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "stable-diffusion",
@@ -3457,7 +3445,7 @@
     "descripcion": "Modelo abierto para generación de imágenes.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
-    "descripcionDetallada": "Modelo abierto para generación de imágenes. Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "dalle",
@@ -3470,7 +3458,7 @@
     "imagenes": [],
     "descripcion": "Generación de imágenes de alta calidad por OpenAI.",
     "fechaAlta": "2025-09-29",
-    "descripcionDetallada": "Generación de imágenes de alta calidad por OpenAI. Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "leonardo-ai",
@@ -3484,7 +3472,7 @@
     "descripcion": "Generación y entrenamiento de estilos para imágenes.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
-    "descripcionDetallada": "Generación y entrenamiento de estilos para imágenes. Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "runway",
@@ -3500,7 +3488,7 @@
     "descripcion": "Edición y generación de video con IA (texto a video).",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
-    "descripcionDetallada": "Edición y generación de video con IA (texto a video). Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "descript",
@@ -3518,7 +3506,7 @@
     "descripcion": "Edición de audio/video como texto, transcripción con IA.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
-    "descripcionDetallada": "Edición de audio/video como texto, transcripción con IA. Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o edita video a partir de texto o material existente. Normalmente aporta subtítulos, recortes automáticos y plantillas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "elevenlabs",
@@ -3532,7 +3520,7 @@
     "descripcion": "Síntesis de voz realista multilenguaje.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
-    "descripcionDetallada": "Síntesis de voz realista multilenguaje. Convierte texto a voz o mejora grabaciones. Útil para locuciones, podcasts y accesibilidad. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Convierte texto a voz o mejora grabaciones. Útil para locuciones, podcasts y accesibilidad. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "canva",
@@ -3548,7 +3536,7 @@
     "descripcion": "Diseño fácil con asistentes y generadores IA.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
-    "descripcionDetallada": "Diseño fácil con asistentes y generadores IA. Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Facilita la creación de creatividades (banners, presentaciones, logos) con interfaces simples y plantillas listas. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "notion-ai",
@@ -3561,7 +3549,7 @@
     "imagenes": [],
     "descripcion": "Asistente de escritura y resumen dentro de Notion.",
     "fechaAlta": "2025-09-29",
-    "descripcionDetallada": "Asistente de escritura y resumen dentro de Notion. Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "grammarly",
@@ -3575,7 +3563,7 @@
     "descripcion": "Corrección gramatical y estilo con IA.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
-    "descripcionDetallada": "Corrección gramatical y estilo con IA. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "jasper-ai",
@@ -3588,66 +3576,76 @@
     "imagenes": [],
     "descripcion": "Asistente de escritura IA para marketing y contenido.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Asistente de escritura IA para marketing y contenido. Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "dalle-openai",
     "nombre": "DALL·E",
     "categoria": "Contenido",
     "precio": "pago",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://labs.openai.com/",
     "imagen": "",
     "imagenes": [],
     "descripcion": "Generador de imágenes por OpenAI a partir de texto.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Generador de imágenes por OpenAI a partir de texto. Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
+    "descripcionDetallada": "Genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Casos de uso frecuentes: acelerar la creación de contenidos, ahorrar tiempo en tareas repetitivas y mantener consistencia de marca."
   },
   {
     "id": "notebooklm",
     "nombre": "NotebookLM",
     "categoria": "Asistentes",
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://notebooklm.google.com/",
     "imagen": "",
     "imagenes": [],
     "descripcion": "Herramienta de Google que utiliza IA para organizar y analizar fuentes de información.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Herramienta de Google que utiliza IA para organizar y analizar fuentes de información. Permite subir documentos, PDFs, enlaces y videos de YouTube, y luego interactuar con ellos mediante preguntas o generar resúmenes en audio. Casos de uso frecuentes: investigación académica, análisis de documentos y aprendizaje interactivo."
+    "descripcionDetallada": "Permite subir documentos, PDFs, enlaces y videos de YouTube, y luego interactuar con ellos mediante preguntas o generar resúmenes en audio. Casos de uso frecuentes: investigación académica, análisis de documentos y aprendizaje interactivo."
   },
   {
     "id": "deepl",
     "nombre": "DeepL",
     "categoria": "Tecnología",
     "precio": "pago",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://www.deepl.com/",
     "imagen": "",
     "imagenes": [],
     "descripcion": "Traductor automático con IA que ofrece traducciones precisas y naturales.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Traductor automático con IA que ofrece traducciones precisas y naturales. Reconocido por su alta calidad y precisión en múltiples idiomas. Incluye funciones avanzadas como traducción de documentos y API para desarrolladores. Casos de uso frecuentes: traducción profesional, comunicación internacional y localización de contenidos."
+    "descripcionDetallada": "Reconocido por su alta calidad y precisión en múltiples idiomas. Incluye funciones avanzadas como traducción de documentos y API para desarrolladores. Casos de uso frecuentes: traducción profesional, comunicación internacional y localización de contenidos."
   },
   {
     "id": "lumen5",
     "nombre": "Lumen5",
     "categoria": "Multimedia",
     "precio": "pago",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://lumen5.com/",
     "imagen": "",
     "imagenes": [],
     "descripcion": "Convierte contenido escrito en videos atractivos usando IA.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Convierte contenido escrito en videos atractivos usando IA. Ideal para crear contenido multimedia para redes sociales y marketing. Incluye plantillas, música de fondo y efectos visuales automáticos. Casos de uso frecuentes: marketing en redes sociales, creación de contenido visual y automatización de videos."
+    "descripcionDetallada": "Ideal para crear contenido multimedia para redes sociales y marketing. Incluye plantillas, música de fondo y efectos visuales automáticos. Casos de uso frecuentes: marketing en redes sociales, creación de contenido visual y automatización de videos."
   },
   {
     "id": "tensorflow",
     "nombre": "TensorFlow",
     "categoria": "Tecnología",
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://www.tensorflow.org/",
     "imagen": "",
     "imagenes": [],
@@ -3660,7 +3658,9 @@
     "nombre": "Hugging Face",
     "categoria": "Tecnología",
     "precio": "pago",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://huggingface.co/",
     "imagen": "",
     "imagenes": [],
@@ -3673,7 +3673,9 @@
     "nombre": "IBM Watson",
     "categoria": "Negocios",
     "precio": "pago",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://www.ibm.com/watson",
     "imagen": "",
     "imagenes": [],
@@ -3686,7 +3688,9 @@
     "nombre": "QuillBot",
     "categoria": "Contenido",
     "precio": "pago",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://quillbot.com/",
     "imagen": "",
     "imagenes": [],
@@ -3699,7 +3703,9 @@
     "nombre": "Character.AI",
     "categoria": "Asistentes",
     "precio": "pago",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://character.ai/",
     "imagen": "",
     "imagenes": [],
@@ -3712,7 +3718,9 @@
     "nombre": "CapCut",
     "categoria": "Multimedia",
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://www.capcut.com/",
     "imagen": "",
     "imagenes": [],
@@ -3725,7 +3733,9 @@
     "nombre": "Figma",
     "categoria": "Diseño",
     "precio": "pago",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://www.figma.com/",
     "imagen": "",
     "imagenes": [],
@@ -3738,7 +3748,9 @@
     "nombre": "Adobe Firefly",
     "categoria": "Diseño",
     "precio": "pago",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://firefly.adobe.com/",
     "imagen": "",
     "imagenes": [],

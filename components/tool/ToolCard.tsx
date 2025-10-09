@@ -92,7 +92,7 @@ function ToolCard({ tool, onSelect }: { tool: Tool; onSelect?: (tool: Tool) => v
             href={tool.enlace}
             target="_blank"
             rel="noreferrer noopener"
-            className="inline-flex items-center justify-center rounded-lg px-1.5 py-1 text-[14px] font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 hover:bg-[#00d4ff]/30 hover:text-white border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff] flex-1 mx-0.5 mb-0.5"
+            className="inline-flex items-center justify-center rounded-lg px-1.5 py-1 text-[14px] font-medium transition-all duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 hover:bg-[#00d4ff]/30 hover:text-white border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff] flex-1 mx-0.5 mb-0.5 active:scale-95 active:transform"
             onClick={(e) => e.stopPropagation()}
           >
             Visitar
@@ -104,7 +104,7 @@ function ToolCard({ tool, onSelect }: { tool: Tool; onSelect?: (tool: Tool) => v
               toggle(tool.id);
             }}
             className={
-              "inline-flex items-center justify-center rounded-lg px-1.5 py-1 text-[14px] border transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/40 hover:ring-1 hover:ring-white/30 flex-1 btn-hover-white cursor-pointer mx-0.5 mb-0.5 " +
+              "inline-flex items-center justify-center rounded-lg px-1.5 py-1 text-[14px] border transition-all duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/40 hover:ring-1 hover:ring-white/30 flex-1 btn-hover-white cursor-pointer mx-0.5 mb-0.5 active:scale-95 active:transform " +
               (saved
                 ? "bg-black text-white border-black dark:bg-white dark:text-black dark:border-white"
                 : "border-black/10 dark:border-white/20 hover:bg.black/5 dark:hover:bg-white/10")
