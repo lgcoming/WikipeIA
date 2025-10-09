@@ -3784,4 +3784,150 @@
     "pruebaGratis": true,
     "descripcionDetallada": "Editor de video con IA que permite crear contenido profesional usando plantillas automáticas y funciones de edición inteligente. Incluye biblioteca de stock y herramientas de colaboración. Casos de uso frecuentes: marketing de video, contenido corporativo y creación de anuncios."
   }
+  [
+    {
+      "id": "make",
+      "nombre": "Make",
+      "categoria": "Clientes",
+      "precio": "gratis",
+      "etiquetas": ["Destacada"],
+      "enlace": "https://www.make.com/",
+      "imagen": "",
+      "imagenes": [""],
+      "descripcion": "Automatiza flujos entre apps con un constructor visual no-code.",
+      "pruebaGratis": false,
+      "descripcionDetallada": "Conecta miles de aplicaciones, diseña escenarios visuales con filtros y routers, y programa ejecuciones. Incluye plan gratuito sin límite de tiempo y niveles superiores con más créditos y funciones."
+    },
+    {
+      "id": "zapier",
+      "nombre": "Zapier",
+      "categoria": "Clientes",
+      "precio": "gratis",
+      "etiquetas": ["Destacada"],
+      "enlace": "https://zapier.com/",
+      "imagen": "",
+      "imagenes": [""],
+      "descripcion": "Orquesta automatizaciones y uso de IA entre miles de aplicaciones.",
+      "pruebaGratis": true,
+      "descripcionDetallada": "Permite crear Zaps de varios pasos, usar formularios (Interfaces) y tablas, además de acciones con IA. Tiene plan gratuito y pruebas de planes de pago con más tareas, apps premium y funciones avanzadas."
+    },
+    {
+      "id": "mistral",
+      "nombre": "Mistral AI",
+      "categoria": "Asistentes",
+      "precio": "gratis",
+      "etiquetas": ["Destacada"],
+      "enlace": "https://mistral.ai/",
+      "imagen": "",
+      "imagenes": [""],
+      "descripcion": "Modelos de lenguaje y asistente (Le Chat) con opciones abiertas.",
+      "pruebaGratis": true,
+      "descripcionDetallada": "Ofrece chat gratuito y planes Pro para funciones ampliadas; además de APIs y modelos con enfoque en rendimiento y privacidad, incluyendo opciones de despliegue empresarial."
+    },
+    {
+      "id": "synthesia",
+      "nombre": "Synthesia",
+      "categoria": "Multimedia",
+      "precio": "gratis",
+      "etiquetas": ["Destacada"],
+      "enlace": "https://www.synthesia.io/",
+      "imagen": "",
+      "imagenes": [""],
+      "descripcion": "Genera vídeos con avatares IA a partir de texto.",
+      "pruebaGratis": true,
+      "descripcionDetallada": "Permite crear vídeos con voces y presentadores generados, plantillas y subtitulado. Dispone de prueba gratuita/demos y planes de suscripción con más minutos, exportes y branding."
+    },
+    {
+      "id": "lumio-ai",
+      "nombre": "Lumio AI",
+      "categoria": "Asistentes",
+      "precio": "gratis",
+      "etiquetas": ["Destacada"],
+      "enlace": "https://lumioai.tech",
+      "imagen": "",
+      "imagenes": [""],
+      "descripcion": "Workspace multi-modelo para comparar y usar varios LLM en un mismo panel.",
+      "pruebaGratis": false,
+      "descripcionDetallada": "Centraliza acceso a múltiples modelos, permite cambiar de motor según la tarea, crear agentes y colaborar. Enfocado en productividad y coste por tarea; cuenta con plan gratuito y niveles pro."
+    },
+    {
+      "id": "deepseek",
+      "nombre": "DeepSeek",
+      "categoria": "Asistentes",
+      "precio": "gratis",
+      "etiquetas": ["Destacada"],
+      "enlace": "https://www.deepseek.com/",
+      "imagen": "",
+      "imagenes": [""],
+      "descripcion": "Modelo conversacional con versión gratuita y API de pago por uso.",
+      "pruebaGratis": false,
+      "descripcionDetallada": "Incluye chat web de acceso gratuito y modelos para integración (chat y reasoning) con precios por tokens en la API. Enfocado en coste bajo y alto rendimiento."
+    },
+    {
+      "id": "qwen",
+      "nombre": "Qwen",
+      "categoria": "Asistentes",
+      "precio": "gratis",
+      "etiquetas": ["Destacada"],
+      "enlace": "https://chat.qwen.ai/",
+      "imagen": "",
+      "imagenes": [""],
+      "descripcion": "Familia de LLM de Alibaba con chat online y acceso vía Model Studio.",
+      "pruebaGratis": true,
+      "descripcionDetallada": "Ofrece chat gratuito y despliegue/uso vía Alibaba Cloud Model Studio con cuota gratuita inicial para nuevos usuarios; disponible en variantes generales, de código, razonamiento y visión."
+    },
+    {
+      "id": "div-idy",
+      "nombre": "Div-idy",
+      "categoria": "Tecnología",
+      "precio": "gratis",
+      "etiquetas": ["Destacada"],
+      "enlace": "https://www.div-idy.com/",
+      "imagen": "",
+      "imagenes": [""],
+      "descripcion": "Creador de sitios y apps web desde texto con IA.",
+      "pruebaGratis": true,
+      "descripcionDetallada": "Genera HTML/CSS/JS y base de datos a partir de prompts, con publicación en un clic y SEO básico. Ofrece uso gratuito y prueba de funciones avanzadas."
+    },
+    {
+      "id": "fathom",
+      "nombre": "Fathom",
+      "categoria": "Clientes",
+      "precio": "gratis",
+      "etiquetas": ["Destacada"],
+      "enlace": "https://www.fathom.video/",
+      "imagen": "",
+      "imagenes": [""],
+      "descripcion": "Asistente de reuniones que graba, transcribe y resume con IA.",
+      "pruebaGratis": false,
+      "descripcionDetallada": "Plan gratuito para personas con grabaciones y almacenamiento ilimitados; planes de pago añaden funciones avanzadas y colaboración para equipos."
+    },
+    {
+      "id": "suno",
+      "nombre": "Suno",
+      "categoria": "Multimedia",
+      "precio": "gratis",
+      "etiquetas": ["Destacada"],
+      "enlace": "https://suno.com/",
+      "imagen": "",
+      "imagenes": [""],
+      "descripcion": "Generador de música con IA a partir de texto o referencias.",
+      "pruebaGratis": false,
+      "descripcionDetallada": "Incluye plan gratuito con créditos mensuales y suscripciones con más generación, mejores límites y usos comerciales ampliados."
+    },
+    {
+      "id": "wan-ai",
+      "nombre": "Wan AI",
+      "categoria": "Multimedia",
+      "precio": "gratis",
+      "etiquetas": ["Destacada"],
+      "enlace": "https://wan-ai.io/",
+      "imagen": "",
+      "imagenes": [""],
+      "descripcion": "Modelo de generación de vídeo (serie Wan 2.x) de Alibaba.",
+      "pruebaGratis": false,
+      "descripcionDetallada": "Ofrece generación de vídeo desde texto o imagen y versiones abiertas para desarrolladores; existen demos online y variantes centradas en calidad temporal y 1080p."
+    }
+  ]
+  
 ]

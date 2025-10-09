@@ -127,7 +127,7 @@ export default function InformacionPage() {
             </h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
               <div>
-                <div className="text-3xl font-bold text-white mb-1">230+</div>
+                <div className="text-3xl font-bold text-white mb-1">250+</div>
                 <div className="text-white/70 text-sm">Herramientas</div>
               </div>
               <div>
