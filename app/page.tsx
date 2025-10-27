@@ -55,13 +55,13 @@ export default function Home() {
           style={{ width: "100vw", marginLeft: "calc(50% - 50vw)", marginRight: "calc(50% - 50vw)" }}
         >
         <section
-          className="relative w-full overflow-hidden pt-16 sm:pt-24 pb-1 sm:pb-2 border-b border-black/10 dark:border-white/15 bg-gradient-to-br from-black via-blue-950 to-black dark:from-black dark:via-blue-900 dark:to-black"
+          className="relative w-full overflow-hidden pt-16 sm:pt-24 pb-1 sm:pb-2 border-b border-black/10 dark:border-white/15 bg-gradient-to-b from-[#020617] via-[#0b1220] to-[#020617]"
           suppressHydrationWarning
         >
           {/* Efectos futuristas neon eléctricos AMOLED */}
           <div className="absolute inset-0 overflow-hidden">
             {/* Base AMOLED profunda */}
-            <div className="absolute inset-0 bg-gradient-to-br from-black via-blue-950 to-black dark:from-black dark:via-blue-900 dark:to-black" />
+            <div className="absolute inset-0 bg-gradient-to-b from-[#020617] via-[#0b1220] to-[#020617]" />
             
             {/* Capa de cristal oscuro */}
             <div className="absolute inset-0 bg-black/60 dark:bg-black/70" />
@@ -69,31 +69,36 @@ export default function Home() {
             {/* Capa de profundidad con neon */}
             <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
             
-            {/* Gradientes neon laterales */}
-            <div className="absolute inset-0 bg-gradient-to-r from-[#00d4ff]/15 via-transparent to-[#00d4ff]/15" />
-            <div className="absolute inset-0 bg-gradient-to-r from-transparent via-[#00a8cc]/10 to-transparent" />
+            {/* Gradientes laterales eliminados para repartir color */}
             
             {/* Efectos de brillo central */}
-            <div className="absolute inset-0 bg-gradient-radial from-transparent via-[#00d4ff]/8 to-transparent" />
+            <div className="absolute inset-0" style={{
+              backgroundImage: `radial-gradient(900px 400px at 50% -15%, rgba(0,212,255,0.12), transparent 60%)`
+            }} />
+            <div className="absolute inset-0" style={{
+              backgroundImage: `linear-gradient(120deg, rgba(255,255,255,0.06) 0%, rgba(255,255,255,0.02) 30%, rgba(0,0,0,0) 60%)`
+            }} />
+
+            {/* Degradado fluido distribuido */}
+            <div className="absolute inset-0 neon-flow" />
             
             {/* Partículas neon sutiles */}
             <div className="absolute inset-0">
-              <div className="absolute top-1/4 left-1/4 w-2 h-2 bg-[#00d4ff]/40 rounded-full blur-sm" />
-              <div className="absolute top-1/3 right-1/3 w-1.5 h-1.5 bg-[#00a8cc]/50 rounded-full blur-sm" />
-              <div className="absolute bottom-1/4 left-1/3 w-1 h-1 bg-[#00d4ff]/60 rounded-full blur-sm" />
-              <div className="absolute bottom-1/3 right-1/4 w-2.5 h-2.5 bg-[#00a8cc]/30 rounded-full blur-sm" />
+              <div className="hidden" />
+              <div className="hidden" />
+              <div className="hidden" />
+              <div className="hidden" />
             </div>
             
             {/* Efecto de grid sutil */}
-            <div className="absolute inset-0 opacity-5">
-              <div className="absolute inset-0" style={{
-                backgroundImage: `
-                  linear-gradient(rgba(0,212,255,0.1) 1px, transparent 1px),
-                  linear-gradient(90deg, rgba(0,212,255,0.1) 1px, transparent 1px)
-                `,
-                backgroundSize: '50px 50px'
-              }} />
-            </div>
+            <div className="absolute inset-0" style={{
+              backgroundImage: `repeating-linear-gradient(35deg, rgba(255,255,255,0.06) 0px, rgba(255,255,255,0.06) 1px, transparent 1px, transparent 28px)`,
+              opacity: .06
+            }} />
+            <div className="absolute inset-0 pointer-events-none" style={{
+              WebkitMaskImage: 'radial-gradient(65% 55% at 50% 10%, #000 60%, transparent 100%)',
+              maskImage: 'radial-gradient(65% 55% at 50% 10%, #000 60%, transparent 100%)'
+            }} />
           </div>
 
           {/* Contenido hero: animación de entrada visible (sólo en cliente) */}

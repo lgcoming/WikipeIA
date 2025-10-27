@@ -607,18 +607,6 @@
     "descripcionDetallada": "Jounce AI suite gratuita para generar anuncios, emails y landing copy con asistentes de tono y pruebas de variantes. Trae generador de imágenes básico, plantillas por canal y exportación rápida a tus herramientas. Útil para pymes y creadores que quieren empezar sin costo ni curva compleja; funciones esenciales disponibles desde el navegador."
   },
   {
-    "id": "jusi",
-    "nombre": "Jusi",
-    "categoria": "Tecnología",
-    "precio": "gratis",
-    "etiquetas": [],
-    "enlace": "https://www.jusi.me/",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Especificaciones técnicas automáticas para apps/web.",
-    "descripcionDetallada": "Jusi genera especificaciones funcionales y técnicas a partir de una idea: historias de usuario, endpoints, esquemas y criterios de aceptación listos para compartir. Da la opción de elegir plantillas por tipo de producto y exportar a Docs/Jira, acelerando el paso de concepto a ejecución. Útil para founders y equipos que requieren claridad previa al desarrollo; gratuito con funciones base."
-  },
-  {
     "id": "heyleia",
     "nombre": "Heyleia",
     "categoria": "Diseño",
@@ -1326,19 +1314,6 @@
     "descripcionDetallada": "Clickable genera creatividades multiformato a partir de un prompt o URL y aplica tu logo/colores automáticamente. Brinda plantillas para Meta/Google/Display, editor rápido y exportación en resoluciones estándar. Útil para founders y marketers sin diseñador in-house; plan gratuito con límites y upgrades opcionales."
   },
   {
-    "id": "clippah",
-    "nombre": "Clippah",
-    "categoria": "Multimedia",
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://clippah.com/",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Herramienta para crear contenido social rápidamente.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Clippah editor asistido para convertir vídeos largos en clips verticales con recorte inteligente, subtítulos automáticos y doblaje opcional. Flujo ágil: subes/pegas URL, eliges plantilla y exportas varios cortes listos para TikTok/Reels/Shorts. Útil para creadores y podcasters que repurposan a escala; hay prueba y opciones de pago según uso"
-  },
-  {
     "id": "clipsai",
     "nombre": "Clips AI",
     "categoria": "Multimedia",
@@ -1522,19 +1497,6 @@
     "descripcionDetallada": "Analogenie convierte conceptos técnicos en analogías claras adaptadas a audiencia y canal. Facilita ajustar tono, longitud y ejemplos prácticos para clases, ventas o divulgación. Útil para educadores, marketers y product teams que necesitan claridad narrativa; cuenta con plan de prueba y tiers de pago"
   },
   {
-    "id": "paragraphai",
-    "nombre": "ParagraphAI",
-    "categoria": "Contenido",
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://paragraphai.com/",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Teclado y aplicación de escritura asistida por IA inteligente.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "ParagraphAI teclado/app que redacta, reescribe y traduce en cualquier app móvil o escritorio con controles de tono y longitud. Ofrece respuestas rápidas para emails, social y mensajería, manteniendo coherencia de estilo. Útil para trabajo en movilidad; prueba gratuita y niveles por volumen/funciones"
-  },
-  {
     "id": "pictory",
     "nombre": "Pictory",
     "categoria": "Marketing",
@@ -1671,19 +1633,6 @@
     "descripcionDetallada": "Yaara AI asistente para crear y parafrasear copys con control de tono, longitud e idioma. Pone a tu alcance plantillas para blogs, emails y ads, así como resúmenes y expansión de textos, con extensión para navegador. introduces tema o pegas texto, eliges estilo y obtienes variantes listas. Útil para freelancers y pymes que buscan velocidad con coherencia; planes por palabras con funciones completas."
   },
   {
-    "id": "smartflowai",
-    "nombre": "SmartflowAI",
-    "categoria": "Marketing",
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://smartflowai.com",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Automatiza workflows con IA generativa.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "SmartflowAI creador no-code de flujos con agentes que investigan, redactan y publican. Conecta apps (CRM, Sheets, Slack), usa plantillas y ejecuta en lote desde prompts o triggers. arrastras bloques, defines entradas y la IA produce entregables con logs y aprobaciones. Útil para marketing y ops que quieren escalar tareas repetitivas; prueba gratuita y niveles por volumen/funciones"
-  },
-  {
     "id": "smartscout",
     "nombre": "SmartScout",
     "categoria": "Clientes",
@@ -1806,7 +1755,11 @@
     "etiquetas": [],
     "enlace": "https://hellorobin.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Robin/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Robin/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Robin/3.jpg"
+    ],
     "descripcion": "Agente automatizado de ventas outbound y emails personalizados.",
     "descripcionDetallada": "Robin agente que investiga prospects y redacta emails personalizados con follow-ups automáticos y objetivos por campaña. Pone a tu alcance bandeja de priorización y métricas de respuesta para aprender qué mensajes funcionan. defines ICP, conectas dominios y lanzas secuencias con supervisión. Útil para pequeñas ventas B2B que quieren empezar rápido; plan gratuito con límites."
   },
@@ -1970,7 +1923,11 @@
     "etiquetas": [],
     "enlace": "https://www.skimit.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Skim%20It/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Skim%20It/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Skim%20It/3.jpg"
+    ],
     "descripcion": "Resúmenes automáticos de artículos enviados por email con IA.",
     "descripcionDetallada": "Skim It envías enlaces por correo y devuelve resúmenes claros con puntos clave, citas y enlaces al original. Te deja ajustar longitud, frecuencia y categorías, y archiva tus lecturas. El flujo es mínimo: reenvías la URL, eliges estilo de resumen y recibes la síntesis en tu inbox. Útil para profesionales con sobrecarga informativa; servicio gratuito con opciones de personalización básicas."
   },
@@ -1998,7 +1955,11 @@
     "etiquetas": [],
     "enlace": "https://picsart.com/quicktools",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Quick%20Tools%20by%20Picsart/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Quick%20Tools%20by%20Picsart/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Quick%20Tools%20by%20Picsart/3.jpg"
+    ],
     "descripcion": "Herramientas rápidas gratuitas de Picsart.",
     "pruebaGratis": true,
     "descripcionDetallada": "QuickTools by Picsart colección de utilidades instantáneas para editar y generar assets: redimensionar, quitar fondo, compresor, texto-a-imagen y conversores. Funcionan en navegador con presets para redes y exportación inmediata. subes archivo o introduces prompt y descargas el resultado en segundos. Útil para creadores y pymes que necesitan piezas puntuales; muchas funciones gratis y planes Pro con extras."
@@ -2096,22 +2057,13 @@
     "etiquetas": [],
     "enlace": "https://pixelhunter.io",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pixelhunter/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pixelhunter/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pixelhunter/3.jpg"
+    ],
     "descripcion": "Redimensionador automático de imágenes para social.",
     "descripcionDetallada": "Pixelhunter ajusta imágenes a tamaños óptimos para cada red con recorte inteligente de sujeto y exportación por lotes. Incluye previsualización en mockups y sugerencias de encuadre. subes la foto, eliges plataformas y descargas todos los formatos. Útil para community managers y creadores; uso gratuito con límites razonables."
-  },
-  {
-    "id": "postai",
-    "nombre": "Post AI",
-    "categoria": "Contenido",
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://postai.app",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Genera copys y publicaciones atractivas para redes con IA.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Post AI crea textos para redes, blogs y anuncios con controles de tono, emojis y hashtags, además de calendario y variaciones por canal. Permite guardar presets de marca y colaborar. defines objetivo/tema, eliges formato y obtienes propuestas listas para programar. Útil para pymes y creadores; prueba disponible y planes de suscripción"
   },
   {
     "id": "postaga",
@@ -2171,7 +2123,11 @@
     "etiquetas": [],
     "enlace": "https://www.neuronsinc.com/neurons-ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Predict%20AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Predict%20AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Predict%20AI/3.jpg"
+    ],
     "descripcion": "Optimización avanzada de creatividades publicitarias mediante IA.",
     "descripcionDetallada": "Predict AI predice atención y legibilidad de anuncios y piezas visuales antes de lanzar, con heatmaps y scores de rendimiento. Da la opción de comparar variantes y recibir recomendaciones de ajuste. subes el creativo, ejecutas el test y aplicas cambios propuestos. Útil para performance y diseño que quieren reducir iteraciones; acceso gratuito limitado y planes pro."
   },
@@ -2345,18 +2301,6 @@
     "descripcionDetallada": "Photor AI evalúa retratos y fotos de perfil con modelos de estética, nitidez y encuadre para recomendar la opción más efectiva. Aporta puntuaciones, comparativas y sugerencias de recorte/edición para CV, LinkedIn o apps de citas. subes varias imágenes, obtienes ranking y descargas la elegida optimizada; servicio gratuito con límites y opciones premium."
   },
   {
-    "id": "piggyto",
-    "nombre": "Piggy To",
-    "categoria": "Marketing",
-    "precio": "gratis",
-    "etiquetas": [],
-    "enlace": "https://piggy.to",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Genera juegos/experiencias rápidas para redes.",
-    "descripcionDetallada": "Piggy To crea minijuegos y experiencias interactivas para stories o posts a partir de plantillas y prompts (quiz, ruletas, retos). Te deja personalizar colores, textos y recompensas, y exportar en formatos listos para Instagram/TikTok. eliges plantilla, ajustas branding y publicas con un enlace o archivo; plan gratuito y upgrades por branding y analíticas."
-  },
-  {
     "id": "pitchgrade",
     "nombre": "Pitchgrade",
     "categoria": "Marketing",
@@ -2364,7 +2308,11 @@
     "etiquetas": [],
     "enlace": "https://pitchgrade.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pitchgrade/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pitchgrade/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pitchgrade/3.jpg"
+    ],
     "descripcion": "Feedback detallado y mejoras para tu pitch deck con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Pitchgrade analiza tu deck y devuelve una puntuación por claridad, narrativa, tracción y diseño con recomendaciones diapositiva a diapositiva. Sugiere mejoras en métricas, propuesta de valor y CTAs, y genera notas para el pitch oral. subes el PDF, recibes diagnóstico y aplicas cambios con una checklist; cuenta con plan de prueba y tiers de pago"
@@ -2377,7 +2325,11 @@
     "etiquetas": [],
     "enlace": "https://www.namingmagic.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Naming%20Magic/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Naming%20Magic/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Naming%20Magic/3.jpg"
+    ],
     "descripcion": "Genera nombres creativos de marca personalizados con IA.",
     "descripcionDetallada": "Naming Magic A partir de tu categoría, valores y palabras clave sugiere nombres memorables con dominios/handles comprobados. Hace posible ajustar estilo (descriptivo, inventado, compuesto) y guardar favoritos para validar con el equipo. completas un breve, recibes listas con explicaciones y disponibilidad; uso gratuito con límites diarios."
   },
@@ -2405,7 +2357,10 @@
     "etiquetas": [],
     "enlace": "https://newswriter.ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Newswriter.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Newswriter.ai/2.jpg"
+    ],
     "descripcion": "Notas de prensa profesionales generadas automáticamente por IA.",
     "descripcionDetallada": "Newswriter.ai convierte un brief o enlace en una nota de prensa con titulares, citas sugeridas y boilerplate de empresa. Integra control de tono, distribución de secciones estándar y exportación a DOC/HTML. pegas los datos clave, eliges sector/estilo y obtienes un borrador listo para revisión; gratuito con límites y opciones pro."
   },
@@ -2417,7 +2372,11 @@
     "etiquetas": [],
     "enlace": "https://nichesss.com",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Nichesss/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Nichesss/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Nichesss/3.jpg"
+    ],
     "descripcion": "Suite completa de generación y optimización de contenido con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Nichesss genera ideas de negocio, ángulos de contenido y textos para anuncios, blogs y redes con asistentes guiados. Pone a tu alcance plantillas rápidas, variaciones por tono e investigación ligera de keywords. eliges caso de uso, completas un breve y exportas en segundos; hay prueba y opciones de pago según uso"
@@ -2457,30 +2416,6 @@
     "descripcionDetallada": "Octane AI crea cuestionarios de producto y experiencias conversacionales que capturan datos de preferencia y recomiendan SKUs en tiempo real. Integra con Shopify y ESPs para segmentar, mejorar AOV y recuperar carritos. diseñas el quiz, publicas en la tienda y automatizas follow-ups; prueba gratuita y niveles por volumen/funciones"
   },
   {
-    "id": "okaaay",
-    "nombre": "Okaaay",
-    "categoria": "Contenido",
-    "precio": "gratis",
-    "etiquetas": [],
-    "enlace": "https://okaaay.com",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Crea contenido más rápido con plantillas inteligentes e IA.",
-    "descripcionDetallada": "Okaaay editor ligero con plantillas para posts, newsletters y páginas, que sugiere titulares, outlines y variaciones por tono. Incluye exportación inmediata y atajos de reescritura/gramática. eliges formato, completas un breve y generas el borrador listo para pulir; uso gratuito con límites."
-  },
-  {
-    "id": "openaitextclassifier",
-    "nombre": "OpenAI Text Classifier",
-    "categoria": "Marketing",
-    "precio": "gratis",
-    "etiquetas": [],
-    "enlace": "https://openai.com",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "(Deprecado) Clasificador de texto de OpenAI.",
-    "descripcionDetallada": "OpenAI Text Classifier herramienta discontinuada que intentaba estimar si un texto fue generado por IA a partir de señales lingüísticas. Ya no se recomienda para decisiones críticas; se mantenía como demostración con precisión limitada. El flujo era simple: pegabas el texto y recibías una probabilidad orientativa; sin planes vigentes."
-  },
-  {
     "id": "midjourneysplitter",
     "nombre": "Midjourney Splitter",
     "categoria": "Diseño",
@@ -2488,7 +2423,11 @@
     "etiquetas": [],
     "enlace": "https://www.mjsplitter.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Midjourney%20Splitter/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Midjourney%20Splitter/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Midjourney%20Splitter/3.jpg"
+    ],
     "descripcion": "Divide grids de Midjourney en imágenes individuales.",
     "descripcionDetallada": "Midjourney Splitter carga una cuadrícula 2x2/3x3 y la herramienta separa automáticamente cada imagen en archivos independientes listos para descargar. Incorpora renombrado por lote y opciones de recorte simples para dejar márgenes perfectos. subes el grid, previsualizas cortes y exportas; gratuito y sin fricción."
   },
@@ -2603,18 +2542,6 @@
     "descripcionDetallada": "NameSnack crea listas de nombres de negocio a partir de tu sector/keywords y verifica disponibilidad de dominios y redes. Útil para emprendedores que buscan alternativas rápidas; completas el brief, exploras variantes por tono/longitud y exportas candidatos; uso gratuito con enlaces a registro."
   },
   {
-    "id": "namewizardai",
-    "nombre": "Namewizard AI",
-    "categoria": "Marketing",
-    "precio": "gratis",
-    "etiquetas": [],
-    "enlace": "https://namewizard.ai",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Generador de ideas de negocio y nombres.",
-    "descripcionDetallada": "Namewizard AI sugiere conceptos de negocio y nombres con opciones de estilo, idioma y verificación rápida de dominio. introduces categoría y propuesta de valor, obtienes ideas organizadas con explicaciones y guardas favoritas; gratuito con límites diarios."
-  },
-  {
     "id": "magicform",
     "nombre": "MagicForm",
     "categoria": "Tecnología",
@@ -2646,18 +2573,6 @@
     "descripcion": "Escritura asistida y optimizada por IA inteligente.",
     "pruebaGratis": true,
     "descripcionDetallada": "MagickPen editor con plantillas para artículos, emails y resúmenes, control de tono/idioma y reescritura contextual. eliges formato, aportas un brief o pegas texto, iteras con comandos y exportas a DOC/Markdown; prueba gratuita y niveles por volumen/funciones"
-  },
-  {
-    "id": "magicthumbnails",
-    "nombre": "MagicThumbnails",
-    "categoria": "Contenido",
-    "precio": "gratis",
-    "etiquetas": [],
-    "enlace": "https://magicthumbnails.com",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Miniaturas de YouTube generadas por IA.",
-    "descripcionDetallada": "MagicThumbnails crea thumbnails llamativos a partir del título/tema del vídeo con composiciones automáticas, tipografías y recorte de rostro. describes el vídeo, generas varias opciones y descargas la mejor en tamaño correcto; gratuito con límites y versión pro sin marcas de agua."
   },
   {
     "id": "marketingblocksai",
@@ -3012,7 +2927,7 @@
     "id": "chatgpt",
     "nombre": "ChatGPT",
     "categoria": "Asistentes",
-    "precio": "pago",
+    "precio": "gratis",
     "etiquetas": [
       "Destacada"
     ],
@@ -3031,7 +2946,7 @@
     "id": "claude",
     "nombre": "Claude",
     "categoria": "Asistentes",
-    "precio": "pago",
+    "precio": "gratis",
     "etiquetas": [
       "Destacada"
     ],
@@ -3113,7 +3028,10 @@
     "etiquetas": [],
     "enlace": "https://poe.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Poe/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Poe/2.jpg"
+    ],
     "descripcion": "Chatea con múltiples modelos (GPT, Claude, etc.).",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
@@ -3139,12 +3057,12 @@
     "descripcionDetallada": "GitHub Copilot asiste en el ciclo de código (autocompletado, refactorización, chat en IDE) para múltiples lenguajes. Útil cuando necesitas producir más en menos tiempo sin sacrificar el estándar."
   },
   {
-    "id": "codeium",
-    "nombre": "Codeium",
+    "id": "windsurf",
+    "nombre": "Windsurf",
     "categoria": "Asistentes",
-    "precio": "pago",
+    "precio": "gratis",
     "etiquetas": [],
-    "enlace": "https://codeium.com/",
+    "enlace": "https://windsurf.com//",
     "imagen": "",
     "imagenes": [],
     "descripcion": "Asistente de código gratuito para múltiples lenguajes.",
@@ -3160,7 +3078,11 @@
     "etiquetas": [],
     "enlace": "https://www.tabnine.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Tabnine/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Tabnine/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Tabnine/3.jpg"
+    ],
     "descripcion": "IA avanzada de autocompletado y asistencia de código para IDEs.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
@@ -3174,7 +3096,11 @@
     "etiquetas": [],
     "enlace": "https://replit.com/ghostwriter",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Replit%20Ghostwriter/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Replit%20Ghostwriter/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Replit%20Ghostwriter/3.jpg"
+    ],
     "descripcion": "Asistente inteligente de código integrado en Replit con IA.",
     "fechaAlta": "2025-09-29",
     "descripcionDetallada": "Replit Ghostwriter asiste en el ciclo de código (autocompletado, refactorización, chat en IDE) para múltiples lenguajes. Adecuado para equipos y creadores que priorizan calidad y ritmo."
@@ -3206,7 +3132,11 @@
     "etiquetas": [],
     "enlace": "https://stability.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Stable%20Diffusion/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Stable%20Diffusion/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Stable%20Diffusion/3.jpg"
+    ],
     "descripcion": "Modelo abierto para generación de imágenes.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
@@ -3220,7 +3150,11 @@
     "etiquetas": [],
     "enlace": "https://leonardo.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Leonardo%20AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Leonardo%20AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Leonardo%20AI/3.jpg"
+    ],
     "descripcion": "Generación y entrenamiento de estilos para imágenes.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
@@ -3272,7 +3206,11 @@
     "etiquetas": [],
     "enlace": "https://elevenlabs.io/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ElevenLabs/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ElevenLabs/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ElevenLabs/3.jpg"
+    ],
     "descripcion": "Síntesis de voz realista y natural en múltiples idiomas.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
@@ -3306,7 +3244,11 @@
     "etiquetas": [],
     "enlace": "https://www.notion.so/product/ai",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Notion%20AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Notion%20AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Notion%20AI/3.jpg"
+    ],
     "descripcion": "Asistente de escritura y resumen dentro de Notion.",
     "fechaAlta": "2025-09-29",
     "descripcionDetallada": "Notion AI organiza flujos de trabajo, notas y documentación. Suele integrar asistentes de escritura y automatizaciones. Indicado para escenarios diarios donde prima productividad y orden."
@@ -3319,7 +3261,11 @@
     "etiquetas": [],
     "enlace": "https://www.grammarly.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Grammarly/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Grammarly/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Grammarly/3.jpg"
+    ],
     "descripcion": "Corrección gramatical, estilo y tono asistida por IA.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
@@ -3528,6 +3474,35 @@
     "descripcionDetallada": "Figma herramienta de diseño colaborativo en la nube que incluye funciones de IA para automatizar tareas de diseño, generar contenido y mejorar la productividad del equipo. Enfocado en agilizar tareas recurrentes manteniendo coherencia y control."
   },
   {
+    "id": "fooocus",
+    "nombre": "Fooocus",
+    "categoria": "Diseño",
+    "precio": "gratis",
+    "etiquetas": [],
+    "enlace": "https://fooocusai.ai/",
+    "imagen": "",
+    "imagenes": [
+      ""
+    ],
+    "descripcion": "Generador de imágenes con IA simplificado y potente.",
+    "pruebaGratis": true,
+    "descripcionDetallada": "Fooocus Genera imágenes de alta calidad desde indicaciones de texto con edición integrada (inpainting, outpainting, face swap). Es open source y usa Stable Diffusion XL con ajustes por defecto para obtener resultados precisos sin configuración compleja. Ideal para artistas y creadores que desean resultados rápidos y visuales impactantes."
+  },
+  {
+    "id": "veo3",
+    "nombre": "Veo 3",
+    "categoria": "Multimedia",
+    "precio": "pago",
+    "etiquetas": [
+      "Destacada"
+    ],
+    "enlace": "https://veo3.studio",
+    "imagen": "",
+    "descripcion": "Generador de videos AI con audio sincronizado.",
+    "pruebaGratis": true,
+    "descripcionDetallada": "Veo 3 Genera videos a partir de texto o imágenes con audio realista integrado (diálogo, efectos, ambiente). Permite controlar movimiento, objetos y consistencia visual. Ideal para narrativas rápidas, promociones o contenido audiovisual creativo."
+  },
+  {
     "id": "adobe-firefly",
     "nombre": "Adobe Firefly",
     "categoria": "Diseño",
@@ -3554,7 +3529,11 @@
     "etiquetas": [],
     "enlace": "https://murf.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Murf/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Murf/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Murf/3.jpg"
+    ],
     "descripcion": "Generador de voz con IA para crear audios realistas.",
     "pruebaGratis": true,
     "descripcionDetallada": "Murf generador de voz con IA que convierte texto en audio con voces naturales y expresivas. Incluye múltiples idiomas, acentos y estilos de voz. Indicado para escenarios diarios donde prima productividad y orden."
@@ -3567,7 +3546,11 @@
     "etiquetas": [],
     "enlace": "https://invideo.io/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/InVideo/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/InVideo/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/InVideo/3.jpg"
+    ],
     "descripcion": "Editor de video con IA para crear contenido profesional.",
     "pruebaGratis": true,
     "descripcionDetallada": "InVideo editor de video con IA que permite crear contenido profesional usando plantillas automáticas y funciones de edición inteligente. Integra biblioteca de stock y herramientas de colaboración. Está pensado para quienes buscan resultados consistentes con menos fricción."
@@ -3583,7 +3566,9 @@
     "enlace": "https://www.make.com/",
     "imagen": "",
     "imagenes": [
-      ""
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Make/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Make/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Make/3.jpg"
     ],
     "descripcion": "Automatiza flujos entre apps con un constructor visual no-code.",
     "pruebaGratis": false,
@@ -3600,7 +3585,9 @@
     "enlace": "https://zapier.com/",
     "imagen": "",
     "imagenes": [
-      ""
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Zapier/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Zapier/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Zapier/3.jpg"
     ],
     "descripcion": "Orquesta automatizaciones y uso de IA entre miles de aplicaciones.",
     "pruebaGratis": true,
@@ -3617,7 +3604,9 @@
     "enlace": "https://mistral.ai/",
     "imagen": "",
     "imagenes": [
-      ""
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Mistral%20AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Mistral%20AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Mistral%20AI/3.jpg"
     ],
     "descripcion": "Modelos de lenguaje y asistente (Le Chat) con opciones abiertas.",
     "pruebaGratis": true,
@@ -3634,7 +3623,9 @@
     "enlace": "https://lumioai.tech",
     "imagen": "",
     "imagenes": [
-      ""
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumio%20AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumio%20AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumio%20AI/3.jpg"
     ],
     "descripcion": "Workspace multi-modelo para comparar y usar varios LLM en un mismo panel.",
     "pruebaGratis": false,
@@ -3651,7 +3642,8 @@
     "enlace": "https://www.deepseek.com/",
     "imagen": "",
     "imagenes": [
-      ""
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/DeepSeek/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/DeepSeek/2.jpg"
     ],
     "descripcion": "Modelo conversacional con versión gratuita y API de pago por uso.",
     "pruebaGratis": false,
@@ -3668,7 +3660,7 @@
     "enlace": "https://chat.qwen.ai/",
     "imagen": "",
     "imagenes": [
-      ""
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Qwen/1.jpg"
     ],
     "descripcion": "Familia de LLM de Alibaba con chat online y acceso vía Model Studio.",
     "pruebaGratis": true,
@@ -3685,7 +3677,9 @@
     "enlace": "https://www.div-idy.com/",
     "imagen": "",
     "imagenes": [
-      ""
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Div-idy/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Div-idy/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Div-idy/3.jpg"
     ],
     "descripcion": "Creador de sitios y apps web desde texto con IA.",
     "pruebaGratis": true,
@@ -3702,7 +3696,9 @@
     "enlace": "https://www.fathom.video/",
     "imagen": "",
     "imagenes": [
-      ""
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Fathom/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Fathom/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Fathom/3.jpg"
     ],
     "descripcion": "Asistente de reuniones que graba, transcribe y resume con IA.",
     "pruebaGratis": false,
@@ -3719,7 +3715,9 @@
     "enlace": "https://suno.com/",
     "imagen": "",
     "imagenes": [
-      ""
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Suno/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Suno/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Suno/3.jpg"
     ],
     "descripcion": "Generador de música con IA a partir de texto o referencias.",
     "pruebaGratis": false,
@@ -3736,7 +3734,9 @@
     "enlace": "https://wan-ai.io/",
     "imagen": "",
     "imagenes": [
-      ""
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Wan%20AI/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Wan%20AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Wan%20AI/3.jpg"
     ],
     "descripcion": "Modelo de generación de vídeo (serie Wan 2.x) de Alibaba.",
     "pruebaGratis": false,

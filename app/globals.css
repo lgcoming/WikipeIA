@@ -152,6 +152,71 @@ body {
   border-color: var(--accent);
 }
 
+/* Neon aurora azul eléctrica para hero */
+@keyframes aurora-move {
+  0% { background-position: 0% 20%, 100% 30%, 50% 80%; }
+  50% { background-position: 30% 10%, 70% 40%, 55% 70%; }
+  100% { background-position: 60% 0%, 40% 35%, 50% 60%; }
+}
+
+/* Pulso sutil para mezclar capas (ligero cambio de opacidad/escala) */
+@keyframes aurora-breathe {
+  0% { opacity: 0.48; transform: scale(1); }
+  50% { opacity: 0.60; transform: scale(1.03); }
+  100% { opacity: 0.48; transform: scale(1); }
+}
+
+.neon-aurora {
+  background:
+    radial-gradient(600px 400px at 20% 20%, rgba(0,212,255,0.28), transparent 55%),
+    radial-gradient(700px 420px at 80% 30%, rgba(0,170,255,0.20), transparent 55%),
+    radial-gradient(900px 500px at 50% 85%, rgba(79,70,229,0.18), transparent 60%);
+  background-repeat: no-repeat;
+  background-size: 140% 140%, 140% 140%, 140% 140%;
+  animation: aurora-move 20s ease-in-out infinite alternate, aurora-breathe 7s ease-in-out infinite;
+  filter: blur(32px) saturate(120%);
+  mix-blend-mode: screen;
+  opacity: 0.52;
+  pointer-events: none;
+}
+
+/* Scan line vertical sutil */
+@keyframes scan-vert {
+  0% { transform: translateY(-30%); }
+  100% { transform: translateY(130%); }
+}
+
+.neon-scan {
+  background: linear-gradient(to bottom, transparent 0%, rgba(0,212,255,0.10) 45%, transparent 90%);
+  opacity: 0.22;
+  animation: scan-vert 8s linear infinite;
+  will-change: transform;
+  mix-blend-mode: screen;
+  pointer-events: none;
+}
+
+/* Degradado fluido distribuido (predomina azul eléctrico) */
+@keyframes gradient-flow {
+  0%   { background-position: 0% 0%, 100% 50%, 50% 100%, 50% 50%; }
+  50%  { background-position: 50% 100%, 0% 50%, 100% 0%, 60% 40%; }
+  100% { background-position: 0% 0%, 100% 50%, 50% 100%, 50% 50%; }
+}
+
+.neon-flow {
+  background:
+    radial-gradient(65% 60% at 20% 30%, rgba(0,210,255,0.28), transparent 60%),
+    radial-gradient(55% 70% at 80% 40%, rgba(0,170,255,0.20), transparent 62%),
+    radial-gradient(70% 55% at 50% 80%, rgba(76,64,230,0.12), transparent 65%),
+    conic-gradient(from 140deg at 50% 50%, rgba(0,220,255,0.20), rgba(0,160,255,0.10), rgba(76,64,230,0.10), rgba(0,220,255,0.20));
+  background-repeat: no-repeat;
+  background-size: 180% 180%, 180% 180%, 180% 180%, 200% 200%;
+  animation: gradient-flow 14s cubic-bezier(.22,.61,.36,1) infinite alternate;
+  filter: blur(34px) saturate(130%);
+  mix-blend-mode: screen;
+  opacity: 0.58; /* azul dominante */
+  pointer-events: none;
+}
+
 .link-neon {
   transition: color 200ms ease, text-shadow 200ms ease;
 }

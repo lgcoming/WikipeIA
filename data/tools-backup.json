@@ -2469,18 +2469,6 @@
     "descripcionDetallada": "Okaaay editor ligero con plantillas para posts, newsletters y páginas, que sugiere titulares, outlines y variaciones por tono. Incluye exportación inmediata y atajos de reescritura/gramática. eliges formato, completas un breve y generas el borrador listo para pulir; uso gratuito con límites."
   },
   {
-    "id": "openaitextclassifier",
-    "nombre": "OpenAI Text Classifier",
-    "categoria": "Marketing",
-    "precio": "gratis",
-    "etiquetas": [],
-    "enlace": "https://openai.com",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "(Deprecado) Clasificador de texto de OpenAI.",
-    "descripcionDetallada": "OpenAI Text Classifier herramienta discontinuada que intentaba estimar si un texto fue generado por IA a partir de señales lingüísticas. Ya no se recomienda para decisiones críticas; se mantenía como demostración con precisión limitada. El flujo era simple: pegabas el texto y recibías una probabilidad orientativa; sin planes vigentes."
-  },
-  {
     "id": "midjourneysplitter",
     "nombre": "Midjourney Splitter",
     "categoria": "Diseño",
@@ -3018,7 +3006,10 @@
     ],
     "enlace": "https://chatgpt.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ChatGPT/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ChatGPT/2.jpg"
+    ],
     "descripcion": "Asistente conversacional multiuso potenciado por GPT avanzado.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
@@ -3034,7 +3025,11 @@
     ],
     "enlace": "https://claude.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Claude/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Claude/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Claude/3.jpg"
+    ],
     "descripcion": "Modelo conversacional avanzado de Anthropic.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
@@ -3050,7 +3045,11 @@
     ],
     "enlace": "https://copilot.microsoft.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Microsoft%20Copilot/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Microsoft%20Copilot/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Microsoft%20Copilot/3.jpg"
+    ],
     "descripcion": "Asistente gratuito integrado en servicios de Microsoft.",
     "fechaAlta": "2025-09-29",
     "descripcionDetallada": "Microsoft Copilot útil para preparar resúmenes, textos y conceptos en la rutina diaria y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Indicado para escenarios diarios donde prima productividad y orden."
@@ -3066,8 +3065,9 @@
     "enlace": "https://gemini.google.com/",
     "imagen": "",
     "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Gemini/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Gemini/2.jpg"
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Google%20Gemini/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Google%20Gemini/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Google%20Gemini/3.jpg"
     ],
     "descripcion": "Asistente multimodal de Google para texto e imágenes.",
     "fechaAlta": "2025-09-29",
@@ -3083,7 +3083,11 @@
     ],
     "enlace": "https://www.perplexity.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Perplexity/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Perplexity/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Perplexity/3.jpg"
+    ],
     "descripcion": "Buscador con respuestas citadas y navegación.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
@@ -3113,7 +3117,11 @@
     ],
     "enlace": "https://github.com/features/copilot",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/GitHub%20Copilot/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/GitHub%20Copilot/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/GitHub%20Copilot/3.jpg"
+    ],
     "descripcion": "Autocompletado de código y chat para IDEs.",
     "fechaAlta": "2025-09-29",
     "descripcionDetallada": "GitHub Copilot asiste en el ciclo de código (autocompletado, refactorización, chat en IDE) para múltiples lenguajes. Útil cuando necesitas producir más en menos tiempo sin sacrificar el estándar."
@@ -3169,7 +3177,11 @@
     ],
     "enlace": "https://www.midjourney.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Midjourney/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Midjourney/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Midjourney/3.jpg"
+    ],
     "descripcion": "Generación de imágenes creativas vía Discord.",
     "fechaAlta": "2025-09-29",
     "descripcionDetallada": "Midjourney genera o transforma imágenes mediante prompts o ediciones guiadas. Suele ofrecer control de estilos y variaciones. Enfocado en agilizar tareas recurrentes manteniendo coherencia y control."
@@ -3212,7 +3224,11 @@
     ],
     "enlace": "https://runwayml.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Runway/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Runway/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Runway/3.jpg"
+    ],
     "descripcion": "Edición y generación de video con IA (texto a video).",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
@@ -3260,7 +3276,11 @@
     ],
     "enlace": "https://www.canva.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Canva/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Canva/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Canva/3.jpg"
+    ],
     "descripcion": "Diseño fácil con asistentes y generadores IA.",
     "fechaAlta": "2025-09-29",
     "pruebaGratis": true,
@@ -3316,7 +3336,10 @@
     ],
     "enlace": "https://notebooklm.google.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/NotebookLM/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/NotebookLM/2.jpg"
+    ],
     "descripcion": "Herramienta de Google que utiliza IA para organizar y analizar fuentes de información.",
     "pruebaGratis": true,
     "descripcionDetallada": "NotebookLM hace posible subir documentos, PDFs, enlaces y videos de YouTube, y luego interactuar con ellos mediante preguntas o generar resúmenes en audio. Útil cuando necesitas producir más en menos tiempo sin sacrificar el estándar."
@@ -3331,7 +3354,11 @@
     ],
     "enlace": "https://www.deepl.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/DeepL/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/DeepL/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/DeepL/3.jpg"
+    ],
     "descripcion": "Traductor automático con IA que ofrece traducciones precisas y naturales.",
     "pruebaGratis": true,
     "descripcionDetallada": "DeepL reconocido por su alta calidad y precisión en múltiples idiomas. Incluye funciones avanzadas como traducción de documentos y API para desarrolladores. Indicado para escenarios diarios donde prima productividad y orden."
@@ -3346,7 +3373,11 @@
     ],
     "enlace": "https://lumen5.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumen5/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumen5/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumen5/3.jpg"
+    ],
     "descripcion": "Convierte contenido escrito en videos atractivos usando IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Lumen5 ideal para crear contenido multimedia para redes sociales y marketing. Integra plantillas, música de fondo y efectos visuales automáticos. Está pensado para quienes buscan resultados consistentes con menos fricción."
@@ -3361,7 +3392,11 @@
     ],
     "enlace": "https://www.tensorflow.org/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/TensorFlow/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/TensorFlow/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/TensorFlow/3.jpg"
+    ],
     "descripcion": "Biblioteca de código abierto de Google para desarrollo de modelos de IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "TensorFlow biblioteca de código abierto de Google para desarrollo de modelos de aprendizaje automático y redes neuronales profundas. Ampliamente utilizada por desarrolladores e investigadores para crear aplicaciones de IA. Adecuado para equipos y creadores que priorizan calidad y ritmo."
@@ -3376,7 +3411,11 @@
     ],
     "enlace": "https://huggingface.co/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Hugging%20Face/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Hugging%20Face/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Hugging%20Face/3.jpg"
+    ],
     "descripcion": "Plataforma y comunidad para modelos de IA y machine learning.",
     "pruebaGratis": true,
     "descripcionDetallada": "Hugging Face plataforma y comunidad de ciencia de datos basada en IA que permite construir, entrenar y desplegar modelos de aprendizaje automático. Incorpora repositorio de modelos pre-entrenados y herramientas de desarrollo. Enfocado en agilizar tareas recurrentes manteniendo coherencia y control."
@@ -3391,7 +3430,11 @@
     ],
     "enlace": "https://www.ibm.com/watson",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/IBM%20Watson/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/IBM%20Watson/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/IBM%20Watson/3.jpg"
+    ],
     "descripcion": "Plataforma de IA empresarial de IBM con servicios de NLP y análisis.",
     "pruebaGratis": true,
     "descripcionDetallada": "IBM Watson plataforma de IA empresarial que ofrece servicios como procesamiento de lenguaje natural, análisis de datos y reconocimiento de patrones. Diseñada para empresas que necesitan soluciones de IA robustas y escalables. Útil cuando necesitas producir más en menos tiempo sin sacrificar el estándar."
@@ -3406,7 +3449,11 @@
     ],
     "enlace": "https://quillbot.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/QuillBot/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/QuillBot/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/QuillBot/3.jpg"
+    ],
     "descripcion": "Asistente de escritura que parafrasea y mejora textos con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "QuillBot asistente de escritura en línea que parafrasea y reestructura texto, ayudando a mejorar el contenido. Incluye funciones de corrección gramatical, generación de sinónimos y mejora de estilo. Indicado para escenarios diarios donde prima productividad y orden."
@@ -3421,7 +3468,11 @@
     ],
     "enlace": "https://character.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Character.ai/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Character.ai/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Character.ai/3.jpg"
+    ],
     "descripcion": "Chatbot que permite interactuar con personajes ficticios usando IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Character.AI chatbot que utiliza un modelo de lenguaje neural para permitir a los usuarios interactuar con personajes basados en libros, programas de televisión y películas. Permite crear personajes personalizados y mantener conversaciones realistas. Está pensado para quienes buscan resultados consistentes con menos fricción."
@@ -3436,7 +3487,11 @@
     ],
     "enlace": "https://www.capcut.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CapCut/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CapCut/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CapCut/3.jpg"
+    ],
     "descripcion": "Editor de video con IA para crear contenido viral en redes sociales.",
     "pruebaGratis": true,
     "descripcionDetallada": "CapCut plataforma de IA todo en uno que permite diseñar imágenes, editar y generar vídeos dentro de los navegadores. Aporta plantillas automáticas, efectos de IA y herramientas de edición avanzadas. Adecuado para equipos y creadores que priorizan calidad y ritmo."
@@ -3451,10 +3506,43 @@
     ],
     "enlace": "https://www.figma.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Figma/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Figma/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Figma/3.jpg"
+    ],
     "descripcion": "Herramienta de diseño colaborativo con funciones de IA integradas.",
     "pruebaGratis": true,
     "descripcionDetallada": "Figma herramienta de diseño colaborativo en la nube que incluye funciones de IA para automatizar tareas de diseño, generar contenido y mejorar la productividad del equipo. Enfocado en agilizar tareas recurrentes manteniendo coherencia y control."
+  },
+  {
+    "id": "fooocus",
+    "nombre": "Fooocus",
+    "categoria": "Diseño",
+    "precio": "gratis",
+    "etiquetas": [],
+    "enlace": "https://fooocusai.ai/",
+    "imagen": "",
+    "imagenes": [
+      ""
+    ],
+    "descripcion": "Generador de imágenes con IA simplificado y potente.",
+    "pruebaGratis": true,
+    "descripcionDetallada": "Fooocus Genera imágenes de alta calidad desde indicaciones de texto con edición integrada (inpainting, outpainting, face swap). Es open source y usa Stable Diffusion XL con ajustes por defecto para obtener resultados precisos sin configuración compleja. Ideal para artistas y creadores que desean resultados rápidos y visuales impactantes."
+  },
+  {
+    "id": "veo3",
+    "nombre": "Veo 3",
+    "categoria": "Multimedia",
+    "precio": "pago",
+    "etiquetas": [
+      "Destacada"
+    ],
+    "enlace": "https://veo3.studio",
+    "imagen": "",
+    "descripcion": "Generador de videos AI con audio sincronizado.",
+    "pruebaGratis": true,
+    "descripcionDetallada": "Veo 3 Genera videos a partir de texto o imágenes con audio realista integrado (diálogo, efectos, ambiente). Permite controlar movimiento, objetos y consistencia visual. Ideal para narrativas rápidas, promociones o contenido audiovisual creativo."
   },
   {
     "id": "adobe-firefly",
@@ -3466,7 +3554,11 @@
     ],
     "enlace": "https://firefly.adobe.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Adobe%20Firefly/1.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Adobe%20Firefly/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Adobe%20Firefly/3.jpg"
+    ],
     "descripcion": "Suite de herramientas de IA creativa de Adobe para generar contenido visual.",
     "pruebaGratis": true,
     "descripcionDetallada": "Adobe Firefly suite de herramientas de IA creativa de Adobe que permite generar imágenes, texto y efectos visuales usando inteligencia artificial. Integrada con el ecosistema Adobe Creative Cloud. Útil cuando necesitas producir más en menos tiempo sin sacrificar el estándar."

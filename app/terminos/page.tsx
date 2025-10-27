@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function TerminosPage() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-black to-gray-900">
+    <div className="min-h-screen bg-gradient-to-r from-[#00d4ff]/10 via-black to-[#00d4ff]/10">
       <div className="container mx-auto px-6 py-16 max-w-4xl">
         {/* Header */}
         <div className="text-center mb-12">

@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function PrivacidadPage() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-black to-gray-900">
+    <div className="min-h-screen bg-black bg-[radial-gradient(30%_50%_at_0%_50%,_rgba(0,212,255,0.16),_transparent_60%),radial-gradient(30%_50%_at_100%_50%,_rgba(0,212,255,0.16),_transparent_60%)]">
       <div className="container mx-auto px-6 py-16 max-w-4xl">
         {/* Header */}
         <div className="text-center mb-12">

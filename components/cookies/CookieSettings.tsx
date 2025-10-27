@@ -76,9 +76,9 @@ export default function CookieSettings() {
           onClick={(e) => e.stopPropagation()}
         >
           {/* Header */}
-          <div className="border-b border-white/10 p-6">
+          <div className="border-b border-white/10 p-6 pr-14">
             <div className="flex items-center justify-between">
-              <div className="flex items-center gap-3">
+              <div className="flex items-center gap-3 -ml-1.5">
                 <div className="flex h-10 w-10 items-center justify-center rounded-full bg-blue-500/20">
                   <svg className="h-5 w-5 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
@@ -86,13 +86,13 @@ export default function CookieSettings() {
                   </svg>
                 </div>
                 <div>
-                  <h2 className="text-xl font-semibold text-white">Configuración de Cookies</h2>
-                  <p className="text-sm text-white/60">Personaliza tus preferencias de privacidad</p>
+                  <h2 className="text-lg font-semibold text-white">Configuración de Cookies</h2>
+                  <p className="text-sm text-white/60 whitespace-nowrap">Personaliza tus preferencias de privacidad</p>
                 </div>
               </div>
               <button
                 onClick={closeSettings}
-                className="rounded-lg p-2 text-white/60 transition hover:bg-white/10 hover:text-white focus:outline-none focus:ring-2 focus:ring-white/40"
+                className="absolute top-3 right-3 rounded-lg p-2.5 text-white/60 transition hover:bg-white/10 hover:text-white focus:outline-none focus:ring-2 focus:ring-white/40"
                 aria-label="Cerrar"
               >
                 <svg className="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -200,24 +200,24 @@ export default function CookieSettings() {
 
           {/* Footer */}
           <div className="border-t border-white/10 p-6">
-            <div className="flex flex-col gap-3 sm:flex-row sm:justify-between">
+            <div className="flex flex-col gap-3">
               <div className="flex gap-3">
                 <button
                   onClick={handleDenyAll}
-                  className="rounded-lg px-4 py-2 text-sm font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff]"
+                  className="flex-1 rounded-lg px-4 py-2 text-sm font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/30 hover:ring-1 hover:ring-white/25 border border-white/20 bg-white/10 text-white hover:bg-white/15"
                 >
                   Solo Esenciales
                 </button>
                 <button
                   onClick={handleAcceptAll}
-                  className="rounded-lg px-4 py-2 text-sm font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff]"
+                  className="flex-1 rounded-lg px-4 py-2 text-sm font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff]"
                 >
                   Aceptar Todo
                 </button>
               </div>
               <button
                 onClick={handleSave}
-                className="rounded-lg px-6 py-2 text-sm font-medium transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff] shadow-lg"
+                className="w-full rounded-lg px-6 py-2 text-sm font-semibold transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-green-400/40 hover:ring-1 hover:ring-green-400/30 border border-green-400/40 bg-green-400/20 text-green-300 shadow-lg hover:bg-green-400/30"
               >
                 Guardar Preferencias
               </button>

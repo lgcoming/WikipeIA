@@ -4,7 +4,13 @@ import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { createPortal } from "react-dom";
 
-export default function ContactButton() {
+type Props = {
+  label?: string;
+  showIcon?: boolean;
+  iconClassName?: string;
+};
+
+export default function ContactButton({ label = "Contacto", showIcon = false, iconClassName = "h-4 w-4" }: Props) {
   const [open, setOpen] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const [result, setResult] = useState<null | { ok: boolean; message: string }>(null);
@@ -59,9 +65,14 @@ export default function ContactButton() {
           setOpen(true);
           setOpenedAt(Date.now());
         }}
-          className="rounded-lg px-4 py-2 text-sm font-medium focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 hover:bg-[#00d4ff]/30 hover:text-white border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff] transition-all duration-150 cursor-pointer active:scale-95 active:transform"
+          className="inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2 text-sm font-medium focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-[#00d4ff]/30 hover:bg-[#00d4ff]/30 hover:text-white border border-[#00d4ff]/30 bg-[#00d4ff]/20 text-[#00d4ff] transition-all duration-150 cursor-pointer active:scale-95 active:transform"
       >
-        Contacto
+        {showIcon && (
+          <svg className={iconClassName} fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 7a2 2 0 012-2h14a2 2 0 012 2v0.5l-9 5.5-9-5.5V7zm0 2.236V17a2 2 0 002 2h14a2 2 0 002-2V9.236l-8.553 5.224a2 2 0 01-2.894 0L3 9.236z" />
+          </svg>
+        )}
+        {label}
       </button>
 
       {typeof window !== "undefined" && createPortal(
@@ -138,3 +149,4 @@ export default function ContactButton() {
     </>
   );
 }
+

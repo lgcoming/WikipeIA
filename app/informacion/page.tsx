@@ -2,10 +2,11 @@
 
 import Link from "next/link";
 import Image from "next/image";
+import ContactButton from "@/components/ui/ContactButton";
 
 export default function InformacionPage() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-black to-gray-900">
+    <div className="min-h-screen bg-gradient-to-r from-[#00d4ff]/10 via-black to-[#00d4ff]/10">
       <div className="container mx-auto px-6 py-16 max-w-4xl">
         {/* Header */}
         <div className="text-center mb-12">
@@ -24,7 +25,7 @@ export default function InformacionPage() {
             <h1 className="text-4xl font-bold text-white">Acerca de WikipeIA</h1>
           </div>
           
-          <p className="text-white/70 text-lg max-w-2xl mx-auto">
+          <p className="text-white/70 text-lg max-w-2xl mx-auto whitespace-nowrap">
             Tu directorio de confianza para descubrir las mejores herramientas de inteligencia artificial
           </p>
         </div>
@@ -120,7 +121,7 @@ export default function InformacionPage() {
           </div>
 
           {/* Stats */}
-          <div className="bg-gradient-to-r from-blue-500/10 via-purple-500/10 to-pink-500/10 backdrop-blur-sm rounded-2xl border border-white/10 p-8">
+          <div className="bg-white/5 backdrop-blur-sm rounded-2xl border border-white/10 p-8">
             <h2 className="text-2xl font-semibold text-white mb-6 text-center flex items-center justify-center gap-3">
               <span className="text-2xl">📊</span>
               Nuestros Números
@@ -152,15 +153,9 @@ export default function InformacionPage() {
               Si conoces una herramienta de IA que debería estar en nuestro directorio, 
               nos encantaría conocerla. Contáctanos y la evaluaremos para su inclusión.
             </p>
-            <Link 
-              href="/"
-              className="inline-flex items-center gap-2 rounded-lg bg-gradient-to-r from-blue-500 to-purple-600 px-6 py-3 text-sm font-medium text-white shadow-lg transition hover:from-blue-600 hover:to-purple-700"
-            >
-              <svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-3.582 8-8 8a8.955 8.955 0 01-2.502-.367l-2.85 1.005a.5.5 0 01-.64-.64l1.005-2.85A8.955 8.955 0 014 12a8 8 0 018-8 8 8 0 018 8z" />
-              </svg>
-              Contáctanos
-            </Link>
+            <div className="inline-flex">
+              <ContactButton label="Contáctanos" showIcon iconClassName="h-5 w-5" />
+            </div>
           </div>
         </div>
 
@@ -185,3 +180,4 @@ export default function InformacionPage() {
     </div>
   );
 }
+

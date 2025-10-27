@@ -1,396 +1,585 @@
 {
-  "uploadDate": "2025-10-16T13:27:46.974Z",
-  "totalTools": 20,
-  "totalImages": 58,
+  "uploadDate": "2025-10-27T01:26:04.295Z",
+  "totalTools": 31,
+  "totalImages": 85,
   "errors": 0,
   "results": [
     {
-      "toolName": "Adobe Firefly",
+      "toolName": "Codeium",
+      "images": []
+    },
+    {
+      "toolName": "DeepSeek",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Adobe%20Firefly/1.jpg",
-          "filename": "Adobe Firefly/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/DeepSeek/1.jpg",
+          "filename": "DeepSeek/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Adobe%20Firefly/2.jpg",
-          "filename": "Adobe Firefly/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/DeepSeek/2.jpg",
+          "filename": "DeepSeek/2.jpg"
+        }
+      ]
+    },
+    {
+      "toolName": "Div-idy",
+      "images": [
+        {
+          "number": 1,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Div-idy/1.jpg",
+          "filename": "Div-idy/1.jpg"
+        },
+        {
+          "number": 2,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Div-idy/2.jpg",
+          "filename": "Div-idy/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Adobe%20Firefly/3.jpg",
-          "filename": "Adobe Firefly/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Div-idy/3.jpg",
+          "filename": "Div-idy/3.jpg"
         }
       ]
     },
     {
-      "toolName": "Canva",
+      "toolName": "ElevenLabs",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Canva/1.jpg",
-          "filename": "Canva/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ElevenLabs/1.jpg",
+          "filename": "ElevenLabs/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Canva/2.jpg",
-          "filename": "Canva/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ElevenLabs/2.jpg",
+          "filename": "ElevenLabs/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Canva/3.jpg",
-          "filename": "Canva/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ElevenLabs/3.jpg",
+          "filename": "ElevenLabs/3.jpg"
         }
       ]
     },
     {
-      "toolName": "CapCut",
+      "toolName": "Fathom",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CapCut/1.jpg",
-          "filename": "CapCut/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Fathom/1.jpg",
+          "filename": "Fathom/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CapCut/2.jpg",
-          "filename": "CapCut/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Fathom/2.jpg",
+          "filename": "Fathom/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/CapCut/3.jpg",
-          "filename": "CapCut/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Fathom/3.jpg",
+          "filename": "Fathom/3.jpg"
         }
       ]
     },
     {
-      "toolName": "Character.ai",
+      "toolName": "Grammarly",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Character.ai/1.jpg",
-          "filename": "Character.ai/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Grammarly/1.jpg",
+          "filename": "Grammarly/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Character.ai/2.jpg",
-          "filename": "Character.ai/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Grammarly/2.jpg",
+          "filename": "Grammarly/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Character.ai/3.jpg",
-          "filename": "Character.ai/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Grammarly/3.jpg",
+          "filename": "Grammarly/3.jpg"
         }
       ]
     },
     {
-      "toolName": "ChatGPT",
+      "toolName": "InVideo",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ChatGPT/1.jpg",
-          "filename": "ChatGPT/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/InVideo/1.jpg",
+          "filename": "InVideo/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ChatGPT/2.jpg",
-          "filename": "ChatGPT/2.jpg"
-        }
-      ]
-    },
-    {
-      "toolName": "Claude",
-      "images": [
-        {
-          "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Claude/1.jpg",
-          "filename": "Claude/1.jpg"
-        },
-        {
-          "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Claude/2.jpg",
-          "filename": "Claude/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/InVideo/2.jpg",
+          "filename": "InVideo/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Claude/3.jpg",
-          "filename": "Claude/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/InVideo/3.jpg",
+          "filename": "InVideo/3.jpg"
         }
       ]
     },
     {
-      "toolName": "DeepL",
+      "toolName": "Leonardo AI",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/DeepL/1.jpg",
-          "filename": "DeepL/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Leonardo%20AI/1.jpg",
+          "filename": "Leonardo AI/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/DeepL/2.jpg",
-          "filename": "DeepL/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Leonardo%20AI/2.jpg",
+          "filename": "Leonardo AI/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/DeepL/3.jpg",
-          "filename": "DeepL/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Leonardo%20AI/3.jpg",
+          "filename": "Leonardo AI/3.jpg"
         }
       ]
     },
     {
-      "toolName": "Figma",
+      "toolName": "Lumio AI",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Figma/1.jpg",
-          "filename": "Figma/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumio%20AI/1.jpg",
+          "filename": "Lumio AI/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Figma/2.jpg",
-          "filename": "Figma/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumio%20AI/2.jpg",
+          "filename": "Lumio AI/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Figma/3.jpg",
-          "filename": "Figma/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumio%20AI/3.jpg",
+          "filename": "Lumio AI/3.jpg"
         }
       ]
     },
     {
-      "toolName": "GitHub Copilot",
+      "toolName": "Make",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/GitHub%20Copilot/1.jpg",
-          "filename": "GitHub Copilot/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Make/1.jpg",
+          "filename": "Make/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/GitHub%20Copilot/2.jpg",
-          "filename": "GitHub Copilot/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Make/2.jpg",
+          "filename": "Make/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/GitHub%20Copilot/3.jpg",
-          "filename": "GitHub Copilot/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Make/3.jpg",
+          "filename": "Make/3.jpg"
         }
       ]
     },
     {
-      "toolName": "Google Gemini",
+      "toolName": "Midjourney Splitter",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Google%20Gemini/1.jpg",
-          "filename": "Google Gemini/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Midjourney%20Splitter/1.jpg",
+          "filename": "Midjourney Splitter/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Google%20Gemini/2.jpg",
-          "filename": "Google Gemini/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Midjourney%20Splitter/2.jpg",
+          "filename": "Midjourney Splitter/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Google%20Gemini/3.jpg",
-          "filename": "Google Gemini/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Midjourney%20Splitter/3.jpg",
+          "filename": "Midjourney Splitter/3.jpg"
         }
       ]
     },
     {
-      "toolName": "Hugging Face",
+      "toolName": "Mistral AI",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Hugging%20Face/1.jpg",
-          "filename": "Hugging Face/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Mistral%20AI/1.jpg",
+          "filename": "Mistral AI/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Hugging%20Face/2.jpg",
-          "filename": "Hugging Face/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Mistral%20AI/2.jpg",
+          "filename": "Mistral AI/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Hugging%20Face/3.jpg",
-          "filename": "Hugging Face/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Mistral%20AI/3.jpg",
+          "filename": "Mistral AI/3.jpg"
         }
       ]
     },
     {
-      "toolName": "IBM Watson",
+      "toolName": "Murf",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/IBM%20Watson/1.jpg",
-          "filename": "IBM Watson/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Murf/1.jpg",
+          "filename": "Murf/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/IBM%20Watson/2.jpg",
-          "filename": "IBM Watson/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Murf/2.jpg",
+          "filename": "Murf/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/IBM%20Watson/3.jpg",
-          "filename": "IBM Watson/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Murf/3.jpg",
+          "filename": "Murf/3.jpg"
         }
       ]
     },
     {
-      "toolName": "Lumen5",
+      "toolName": "Naming Magic",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumen5/1.jpg",
-          "filename": "Lumen5/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Naming%20Magic/1.jpg",
+          "filename": "Naming Magic/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumen5/2.jpg",
-          "filename": "Lumen5/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Naming%20Magic/2.jpg",
+          "filename": "Naming Magic/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumen5/3.jpg",
-          "filename": "Lumen5/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Naming%20Magic/3.jpg",
+          "filename": "Naming Magic/3.jpg"
         }
       ]
     },
     {
-      "toolName": "Microsoft Copilot",
+      "toolName": "Newswriter.ai",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Microsoft%20Copilot/1.jpg",
-          "filename": "Microsoft Copilot/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Newswriter.ai/1.jpg",
+          "filename": "Newswriter.ai/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Microsoft%20Copilot/2.jpg",
-          "filename": "Microsoft Copilot/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Newswriter.ai/2.jpg",
+          "filename": "Newswriter.ai/2.jpg"
+        }
+      ]
+    },
+    {
+      "toolName": "Nichesss",
+      "images": [
+        {
+          "number": 1,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Nichesss/1.jpg",
+          "filename": "Nichesss/1.jpg"
+        },
+        {
+          "number": 2,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Nichesss/2.jpg",
+          "filename": "Nichesss/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Microsoft%20Copilot/3.jpg",
-          "filename": "Microsoft Copilot/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Nichesss/3.jpg",
+          "filename": "Nichesss/3.jpg"
         }
       ]
     },
     {
-      "toolName": "Midjourney",
+      "toolName": "Notion AI",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Midjourney/1.jpg",
-          "filename": "Midjourney/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Notion%20AI/1.jpg",
+          "filename": "Notion AI/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Midjourney/2.jpg",
-          "filename": "Midjourney/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Notion%20AI/2.jpg",
+          "filename": "Notion AI/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Midjourney/3.jpg",
-          "filename": "Midjourney/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Notion%20AI/3.jpg",
+          "filename": "Notion AI/3.jpg"
         }
       ]
     },
     {
-      "toolName": "NotebookLM",
+      "toolName": "Pitchgrade",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/NotebookLM/1.jpg",
-          "filename": "NotebookLM/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pitchgrade/1.jpg",
+          "filename": "Pitchgrade/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/NotebookLM/2.jpg",
-          "filename": "NotebookLM/2.jpg"
-        }
-      ]
-    },
-    {
-      "toolName": "Perplexity",
-      "images": [
-        {
-          "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Perplexity/1.jpg",
-          "filename": "Perplexity/1.jpg"
-        },
-        {
-          "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Perplexity/2.jpg",
-          "filename": "Perplexity/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pitchgrade/2.jpg",
+          "filename": "Pitchgrade/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Perplexity/3.jpg",
-          "filename": "Perplexity/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pitchgrade/3.jpg",
+          "filename": "Pitchgrade/3.jpg"
         }
       ]
     },
     {
-      "toolName": "QuillBot",
+      "toolName": "Pixelhunter",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/QuillBot/1.jpg",
-          "filename": "QuillBot/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pixelhunter/1.jpg",
+          "filename": "Pixelhunter/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/QuillBot/2.jpg",
-          "filename": "QuillBot/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pixelhunter/2.jpg",
+          "filename": "Pixelhunter/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/QuillBot/3.jpg",
-          "filename": "QuillBot/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pixelhunter/3.jpg",
+          "filename": "Pixelhunter/3.jpg"
         }
       ]
     },
     {
-      "toolName": "Runway",
+      "toolName": "Poe",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Runway/1.jpg",
-          "filename": "Runway/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Poe/1.jpg",
+          "filename": "Poe/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Runway/2.jpg",
-          "filename": "Runway/2.jpg"
-        },
-        {
-          "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Runway/3.jpg",
-          "filename": "Runway/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Poe/2.jpg",
+          "filename": "Poe/2.jpg"
         }
       ]
     },
     {
-      "toolName": "TensorFlow",
+      "toolName": "Predict AI",
       "images": [
         {
           "number": 1,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/TensorFlow/1.jpg",
-          "filename": "TensorFlow/1.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Predict%20AI/1.jpg",
+          "filename": "Predict AI/1.jpg"
         },
         {
           "number": 2,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/TensorFlow/2.jpg",
-          "filename": "TensorFlow/2.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Predict%20AI/2.jpg",
+          "filename": "Predict AI/2.jpg"
         },
         {
           "number": 3,
-          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/TensorFlow/3.jpg",
-          "filename": "TensorFlow/3.jpg"
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Predict%20AI/3.jpg",
+          "filename": "Predict AI/3.jpg"
+        }
+      ]
+    },
+    {
+      "toolName": "Quick Tools by Picsart",
+      "images": [
+        {
+          "number": 1,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Quick%20Tools%20by%20Picsart/1.jpg",
+          "filename": "Quick Tools by Picsart/1.jpg"
+        },
+        {
+          "number": 2,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Quick%20Tools%20by%20Picsart/2.jpg",
+          "filename": "Quick Tools by Picsart/2.jpg"
+        },
+        {
+          "number": 3,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Quick%20Tools%20by%20Picsart/3.jpg",
+          "filename": "Quick Tools by Picsart/3.jpg"
+        }
+      ]
+    },
+    {
+      "toolName": "Qwen",
+      "images": [
+        {
+          "number": 1,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Qwen/1.jpg",
+          "filename": "Qwen/1.jpg"
+        }
+      ]
+    },
+    {
+      "toolName": "Replit Ghostwriter",
+      "images": [
+        {
+          "number": 1,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Replit%20Ghostwriter/1.jpg",
+          "filename": "Replit Ghostwriter/1.jpg"
+        },
+        {
+          "number": 2,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Replit%20Ghostwriter/2.jpg",
+          "filename": "Replit Ghostwriter/2.jpg"
+        },
+        {
+          "number": 3,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Replit%20Ghostwriter/3.jpg",
+          "filename": "Replit Ghostwriter/3.jpg"
+        }
+      ]
+    },
+    {
+      "toolName": "Robin",
+      "images": [
+        {
+          "number": 1,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Robin/1.jpg",
+          "filename": "Robin/1.jpg"
+        },
+        {
+          "number": 2,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Robin/2.jpg",
+          "filename": "Robin/2.jpg"
+        },
+        {
+          "number": 3,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Robin/3.jpg",
+          "filename": "Robin/3.jpg"
+        }
+      ]
+    },
+    {
+      "toolName": "Skim It",
+      "images": [
+        {
+          "number": 1,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Skim%20It/1.jpg",
+          "filename": "Skim It/1.jpg"
+        },
+        {
+          "number": 2,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Skim%20It/2.jpg",
+          "filename": "Skim It/2.jpg"
+        },
+        {
+          "number": 3,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Skim%20It/3.jpg",
+          "filename": "Skim It/3.jpg"
+        }
+      ]
+    },
+    {
+      "toolName": "Stable Diffusion",
+      "images": [
+        {
+          "number": 1,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Stable%20Diffusion/1.jpg",
+          "filename": "Stable Diffusion/1.jpg"
+        },
+        {
+          "number": 2,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Stable%20Diffusion/2.jpg",
+          "filename": "Stable Diffusion/2.jpg"
+        },
+        {
+          "number": 3,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Stable%20Diffusion/3.jpg",
+          "filename": "Stable Diffusion/3.jpg"
+        }
+      ]
+    },
+    {
+      "toolName": "Suno",
+      "images": [
+        {
+          "number": 1,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Suno/1.jpg",
+          "filename": "Suno/1.jpg"
+        },
+        {
+          "number": 2,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Suno/2.jpg",
+          "filename": "Suno/2.jpg"
+        },
+        {
+          "number": 3,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Suno/3.jpg",
+          "filename": "Suno/3.jpg"
+        }
+      ]
+    },
+    {
+      "toolName": "Tabnine",
+      "images": [
+        {
+          "number": 1,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Tabnine/1.jpg",
+          "filename": "Tabnine/1.jpg"
+        },
+        {
+          "number": 2,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Tabnine/2.jpg",
+          "filename": "Tabnine/2.jpg"
+        },
+        {
+          "number": 3,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Tabnine/3.jpg",
+          "filename": "Tabnine/3.jpg"
+        }
+      ]
+    },
+    {
+      "toolName": "Wan AI",
+      "images": [
+        {
+          "number": 1,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Wan%20AI/1.jpg",
+          "filename": "Wan AI/1.jpg"
+        },
+        {
+          "number": 2,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Wan%20AI/2.jpg",
+          "filename": "Wan AI/2.jpg"
+        },
+        {
+          "number": 3,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Wan%20AI/3.jpg",
+          "filename": "Wan AI/3.jpg"
+        }
+      ]
+    },
+    {
+      "toolName": "Zapier",
+      "images": [
+        {
+          "number": 1,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Zapier/1.jpg",
+          "filename": "Zapier/1.jpg"
+        },
+        {
+          "number": 2,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Zapier/2.jpg",
+          "filename": "Zapier/2.jpg"
+        },
+        {
+          "number": 3,
+          "url": "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Zapier/3.jpg",
+          "filename": "Zapier/3.jpg"
         }
       ]
     }

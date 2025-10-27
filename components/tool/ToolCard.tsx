@@ -4,7 +4,6 @@ import type { Tool } from "@/lib/types";
 import { memo, useEffect, useMemo, useState } from "react";
 import { useFavorites } from "@/hooks/useFavorites";
 import Image from "next/image";
-import ToolImage from "./ToolImage";
 
 function ToolCard({ tool, onSelect }: { tool: Tool; onSelect?: (tool: Tool) => void }) {
   const { isFav, toggle } = useFavorites();
