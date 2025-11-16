@@ -33,9 +33,7 @@ body {
 html:not(.dark) { color-scheme: light; }
 .dark { color-scheme: dark; }
 
-/* Evitar que navegadores con "auto dark" inviertan las cards: mantenemos esquema claro dentro de la tarjeta */
-.tool-card { color-scheme: light; }
-.dark .tool-card { color-scheme: light; }
+
 
 ::selection {
   background: rgba(0, 0, 0, 0.18);
