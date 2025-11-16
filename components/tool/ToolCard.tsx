@@ -39,7 +39,7 @@ function ToolCard({ tool, onSelect }: { tool: Tool; onSelect?: (tool: Tool) => v
 
   return (
     <div
-      className="tool-card relative h-full rounded-2xl border border-black/15 dark:border-white/20 bg-white/80 dark:bg-white/5 backdrop-blur p-0 flex flex-col shadow-sm cursor-pointer card-neon card-elevate card-white-glow"
+      className="tool-card relative h-full rounded-2xl border border-black/15 dark:border-white/20 bg-white/85 dark:bg-zinc-900/70 backdrop-blur p-0 flex flex-col shadow-sm cursor-pointer card-neon card-elevate card-white-glow"
       onClick={() => onSelect?.(tool)}
       role="button"
       tabIndex={0}
@@ -50,7 +50,7 @@ function ToolCard({ tool, onSelect }: { tool: Tool; onSelect?: (tool: Tool) => v
         }
       }}
     >
-      <div className="relative overflow-hidden rounded-t-2xl bg-white h-20 sm:h-28">
+      <div className="relative overflow-hidden rounded-t-2xl bg-white dark:bg-zinc-900 h-20 sm:h-28">
         <Image
           src={imageSrc}
           alt={tool.nombre}
@@ -60,12 +60,12 @@ function ToolCard({ tool, onSelect }: { tool: Tool; onSelect?: (tool: Tool) => v
         />
         {/* Capas de vidrio blancas/grisáceas: invertido del negro anterior */}
         <div className="absolute inset-0 pointer-events-none">
-          {/* Highlight superior whites */}
-          <div className="absolute inset-x-0 top-0 h-1/2 bg-gradient-to-b from-white/85 to-transparent" />
-          {/* Capa oscura sutil encima del blanco para contraste */}
-          <div className="absolute inset-0 bg-black/10" />
-          {/* Vignette gris muy suave en bordes y parte inferior */}
-          <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/15" />
+          {/* Highlight superior: solo en tema claro */}
+          <div className="absolute inset-x-0 top-0 h-1/2 bg-gradient-to-b from-white/85 to-transparent dark:from-transparent" />
+          {/* Capa oscura sutil para ambos temas */}
+          <div className="absolute inset-0 bg-black/10 dark:bg-black/20" />
+          {/* Vignette sutil en bordes e inferior */}
+          <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/15 dark:to-black/30" />
           {/* Borde interior sutil */}
           <div className="absolute inset-0 shadow-[inset_0_0_0_1px_rgba(0,0,0,0.08)]" />
         </div>
