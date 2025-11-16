@@ -39,7 +39,7 @@ function ToolCard({ tool, onSelect }: { tool: Tool; onSelect?: (tool: Tool) => v
 
   return (
     <div
-      className="relative h-full rounded-2xl border border-black/15 dark:border-white/20 bg-white/80 dark:bg-white/5 backdrop-blur p-0 flex flex-col shadow-sm cursor-pointer card-neon card-elevate card-white-glow"
+      className="tool-card relative h-full rounded-2xl border border-black/15 dark:border-white/20 bg-white/80 dark:bg-white/5 backdrop-blur p-0 flex flex-col shadow-sm cursor-pointer card-neon card-elevate card-white-glow"
       onClick={() => onSelect?.(tool)}
       role="button"
       tabIndex={0}
