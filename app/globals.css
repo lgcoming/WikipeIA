@@ -29,6 +29,14 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Comunicar esquema de color al navegador sin alterar el diseño */
+html:not(.dark) { color-scheme: light; }
+.dark { color-scheme: dark; }
+
+/* Evitar que navegadores con "auto dark" inviertan las cards: mantenemos esquema claro dentro de la tarjeta */
+.tool-card { color-scheme: light; }
+.dark .tool-card { color-scheme: light; }
+
 ::selection {
   background: rgba(0, 0, 0, 0.18);
   color: var(--background);

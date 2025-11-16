@@ -41,6 +41,7 @@ export default function RootLayout({
     <html lang="es" className="dark" suppressHydrationWarning>
       <head>
         <link rel="icon" href="/favicon.ico" sizes="32x32" />
+        <meta name="color-scheme" content="dark light" />
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} ${orbitron.variable} antialiased`} suppressHydrationWarning>
         <CookieProvider>
