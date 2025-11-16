@@ -18,6 +18,7 @@ export default function Home() {
   const [query, setQuery] = useState("");
   const [tab, setTab] = useState<TabKey>("Todas");
   const [category, setCategory] = useState<string>("Todas las categorías");
+  const [selectedSubcategory, setSelectedSubcategory] = useState<string | null>(null);
   const [selected, setSelected] = useState<Tool | null>(null);
   const [open, setOpen] = useState(false);
   const [mounted, setMounted] = useState(false);
@@ -31,15 +32,24 @@ export default function Home() {
     return ["Todas las categorías", ...Array.from(set).sort((a, b) => a.localeCompare(b))];
   }, [tools]);
 
+  // Resetear subcategoría cuando se cambia la categoría
+  const handleCategoryChange = (newCategory: string) => {
+    // Solo actualizar si la categoría es diferente
+    if (category !== newCategory) {
+      setCategory(newCategory);
+      setSelectedSubcategory(null);
+    }
+  };
+
   const filtered = useMemo(() => {
     // 1) Búsqueda
     const byQuery = filterByQuery(tools, query);
-    // 2) Categoría
-    const byCategory = filterByCategory(byQuery, category);
+    // 2) Categoría y subcategoría
+    const byCategory = filterByCategory(byQuery, category, selectedSubcategory || undefined);
     // 3) Tab
     const byTab = applyTab(byCategory, tab, favIds);
     return byTab;
-  }, [tools, tab, category, query, favIds]);
+  }, [tools, tab, category, selectedSubcategory, query, favIds]);
 
   // Evitar discrepancias de hidratación para animaciones framer-motion
   useEffect(() => {
@@ -109,7 +119,7 @@ export default function Home() {
             className="relative z-10 mx-auto max-w-3xl px-4 text-center -translate-y-4 sm:-translate-y-6 md:-translate-y-8"
           >
             <p className="text-lg sm:text-xl md:text-3xl leading-relaxed text-white/95 font-display tracking-wide drop-shadow-lg">
-            Tu wikipedia de multiples herramientas IA. Filtra por categorías y descubre.
+            Tu wikipedia de múltiples herramientas IA. Filtra por categorías y descubre.
             </p>
             <div className="mt-8 flex justify-center">
               <SearchBar value={query} onChange={setQuery} onChangeDebounced={setQuery} />
@@ -142,7 +152,10 @@ export default function Home() {
               onTabChange={setTab}
               categories={categories}
               categoria={category}
-              onCategoriaChange={setCategory}
+              onCategoriaChange={handleCategoryChange}
+              tools={tools}
+              onSubcategoryChange={setSelectedSubcategory}
+              selectedSubcategory={selectedSubcategory}
             />
           </motion.div>
 

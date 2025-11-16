@@ -5,6 +5,7 @@ export type Tool = {
   id: string;
   nombre: string;
   categoria: string;
+  subcategoria?: string[];   // Array de subcategorías a las que pertenece la herramienta
   precio: "gratis" | "pago" | "freemium";
   etiquetas?: string[];     // ej: ["Destacada","Nueva"]
   enlace: string;
