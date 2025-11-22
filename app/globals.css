@@ -1,9 +1,12 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 :root {
   --background: #ffffff;
   --foreground: #111111;
-  --accent: #00d4ff; /* azul neón */
+  --accent: #00d4ff;
+  /* azul neón */
   --accent-weak: rgba(0, 212, 255, 0.6);
   --accent-very-weak: rgba(0, 212, 255, 0.25);
 }
@@ -30,8 +33,13 @@ body {
 }
 
 /* Comunicar esquema de color al navegador sin alterar el diseño */
-html:not(.dark) { color-scheme: light; }
-.dark { color-scheme: dark; }
+html:not(.dark) {
+  color-scheme: light;
+}
+
+.dark {
+  color-scheme: dark;
+}
 
 
 
@@ -62,25 +70,38 @@ html:not(.dark) { color-scheme: light; }
 }
 
 .ring-accent {
-  box-shadow: 0 0 0 2px var(--accent-very-weak), 0 0 0 4px rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px var(--accent-very-weak), 0 0 0 4px rgba(0, 0, 0, 0.2);
 }
 
 .bg-hero-gradient {
-  background: radial-gradient(1000px 600px at 20% -10%, rgba(0,212,255,0.15), transparent 60%),
-              radial-gradient(800px 500px at 80% 0%, rgba(0,212,255,0.08), transparent 55%),
-              linear-gradient(to bottom, rgba(255,255,255,0.03), transparent 30%);
+  background: radial-gradient(1000px 600px at 20% -10%, rgba(0, 212, 255, 0.15), transparent 60%),
+    radial-gradient(800px 500px at 80% 0%, rgba(0, 212, 255, 0.08), transparent 55%),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.03), transparent 30%);
 }
 
 /* Aurora / blobs animados */
 @keyframes float {
-  0% { transform: translate3d(0,0,0) scale(1); }
-  50% { transform: translate3d(0,-8px,0) scale(1.03); }
-  100% { transform: translate3d(0,0,0) scale(1); }
+  0% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+
+  50% {
+    transform: translate3d(0, -8px, 0) scale(1.03);
+  }
+
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
 }
 
 @keyframes drift {
-  0% { transform: translate3d(0,0,0) rotate(0deg); }
-  100% { transform: translate3d(0,0,0) rotate(360deg); }
+  0% {
+    transform: translate3d(0, 0, 0) rotate(0deg);
+  }
+
+  100% {
+    transform: translate3d(0, 0, 0) rotate(360deg);
+  }
 }
 
 .aurora-layer {
@@ -100,12 +121,13 @@ html:not(.dark) { color-scheme: light; }
   color: #fff;
   filter: brightness(1.06);
   /* Sombra blanca en lugar de glow azul */
-  box-shadow: 0 0 0 1px rgba(255,255,255,0.85), 0 8px 22px rgba(255,255,255,0.18);
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.85), 0 8px 22px rgba(255, 255, 255, 0.18);
 }
 
 .card-neon {
   transition: border-color 220ms ease, box-shadow 220ms ease, transform 220ms ease;
 }
+
 /* Nota: eliminamos el hover de .card-neon para no alterar el borde en hover */
 
 /* Hover muy sutil y fluido para cards */
@@ -113,9 +135,10 @@ html:not(.dark) { color-scheme: light; }
   transform: translate3d(0, 0, 0);
   will-change: transform, box-shadow;
   transition: transform 260ms cubic-bezier(0.25, 0.8, 0.25, 1),
-              box-shadow 260ms cubic-bezier(0.25, 0.8, 0.25, 1),
-              border-color 220ms ease;
+    box-shadow 260ms cubic-bezier(0.25, 0.8, 0.25, 1),
+    border-color 220ms ease;
 }
+
 .card-elevate:hover {
   transform: translateY(-2px) scale(1.005);
   /* Sombra base + brillo blanco aún más sutil */
@@ -142,10 +165,12 @@ html:not(.dark) { color-scheme: light; }
 
 /* Respeto a preferencias de movimiento reducido */
 @media (prefers-reduced-motion: reduce) {
+
   .card-elevate,
   .card-neon {
     transition: border-color 150ms ease, box-shadow 150ms ease;
   }
+
   .card-elevate:hover {
     transform: none;
   }
@@ -154,29 +179,49 @@ html:not(.dark) { color-scheme: light; }
 .tab-neon {
   transition: border-color 200ms ease, background-color 200ms ease, color 200ms ease;
 }
+
 .tab-neon:not([aria-selected="true"]):hover {
   border-color: var(--accent);
 }
 
 /* Neon aurora azul eléctrica para hero */
 @keyframes aurora-move {
-  0% { background-position: 0% 20%, 100% 30%, 50% 80%; }
-  50% { background-position: 30% 10%, 70% 40%, 55% 70%; }
-  100% { background-position: 60% 0%, 40% 35%, 50% 60%; }
+  0% {
+    background-position: 0% 20%, 100% 30%, 50% 80%;
+  }
+
+  50% {
+    background-position: 30% 10%, 70% 40%, 55% 70%;
+  }
+
+  100% {
+    background-position: 60% 0%, 40% 35%, 50% 60%;
+  }
 }
 
 /* Pulso sutil para mezclar capas (ligero cambio de opacidad/escala) */
 @keyframes aurora-breathe {
-  0% { opacity: 0.48; transform: scale(1); }
-  50% { opacity: 0.60; transform: scale(1.03); }
-  100% { opacity: 0.48; transform: scale(1); }
+  0% {
+    opacity: 0.48;
+    transform: scale(1);
+  }
+
+  50% {
+    opacity: 0.60;
+    transform: scale(1.03);
+  }
+
+  100% {
+    opacity: 0.48;
+    transform: scale(1);
+  }
 }
 
 .neon-aurora {
   background:
-    radial-gradient(600px 400px at 20% 20%, rgba(0,212,255,0.28), transparent 55%),
-    radial-gradient(700px 420px at 80% 30%, rgba(0,170,255,0.20), transparent 55%),
-    radial-gradient(900px 500px at 50% 85%, rgba(79,70,229,0.18), transparent 60%);
+    radial-gradient(600px 400px at 20% 20%, rgba(0, 212, 255, 0.28), transparent 55%),
+    radial-gradient(700px 420px at 80% 30%, rgba(0, 170, 255, 0.20), transparent 55%),
+    radial-gradient(900px 500px at 50% 85%, rgba(79, 70, 229, 0.18), transparent 60%);
   background-repeat: no-repeat;
   background-size: 140% 140%, 140% 140%, 140% 140%;
   animation: aurora-move 20s ease-in-out infinite alternate, aurora-breathe 7s ease-in-out infinite;
@@ -188,12 +233,17 @@ html:not(.dark) { color-scheme: light; }
 
 /* Scan line vertical sutil */
 @keyframes scan-vert {
-  0% { transform: translateY(-30%); }
-  100% { transform: translateY(130%); }
+  0% {
+    transform: translateY(-30%);
+  }
+
+  100% {
+    transform: translateY(130%);
+  }
 }
 
 .neon-scan {
-  background: linear-gradient(to bottom, transparent 0%, rgba(0,212,255,0.10) 45%, transparent 90%);
+  background: linear-gradient(to bottom, transparent 0%, rgba(0, 212, 255, 0.10) 45%, transparent 90%);
   opacity: 0.22;
   animation: scan-vert 8s linear infinite;
   will-change: transform;
@@ -203,29 +253,39 @@ html:not(.dark) { color-scheme: light; }
 
 /* Degradado fluido distribuido (predomina azul eléctrico) */
 @keyframes gradient-flow {
-  0%   { background-position: 0% 0%, 100% 50%, 50% 100%, 50% 50%; }
-  50%  { background-position: 50% 100%, 0% 50%, 100% 0%, 60% 40%; }
-  100% { background-position: 0% 0%, 100% 50%, 50% 100%, 50% 50%; }
+  0% {
+    background-position: 0% 0%, 100% 50%, 50% 100%, 50% 50%;
+  }
+
+  50% {
+    background-position: 50% 100%, 0% 50%, 100% 0%, 60% 40%;
+  }
+
+  100% {
+    background-position: 0% 0%, 100% 50%, 50% 100%, 50% 50%;
+  }
 }
 
 .neon-flow {
   background:
-    radial-gradient(65% 60% at 20% 30%, rgba(0,210,255,0.28), transparent 60%),
-    radial-gradient(55% 70% at 80% 40%, rgba(0,170,255,0.20), transparent 62%),
-    radial-gradient(70% 55% at 50% 80%, rgba(76,64,230,0.12), transparent 65%),
-    conic-gradient(from 140deg at 50% 50%, rgba(0,220,255,0.20), rgba(0,160,255,0.10), rgba(76,64,230,0.10), rgba(0,220,255,0.20));
+    radial-gradient(65% 60% at 20% 30%, rgba(0, 210, 255, 0.28), transparent 60%),
+    radial-gradient(55% 70% at 80% 40%, rgba(0, 170, 255, 0.20), transparent 62%),
+    radial-gradient(70% 55% at 50% 80%, rgba(76, 64, 230, 0.12), transparent 65%),
+    conic-gradient(from 140deg at 50% 50%, rgba(0, 220, 255, 0.20), rgba(0, 160, 255, 0.10), rgba(76, 64, 230, 0.10), rgba(0, 220, 255, 0.20));
   background-repeat: no-repeat;
   background-size: 180% 180%, 180% 180%, 180% 180%, 200% 200%;
-  animation: gradient-flow 14s cubic-bezier(.22,.61,.36,1) infinite alternate;
+  animation: gradient-flow 14s cubic-bezier(.22, .61, .36, 1) infinite alternate;
   filter: blur(34px) saturate(130%);
   mix-blend-mode: screen;
-  opacity: 0.58; /* azul dominante */
+  opacity: 0.58;
+  /* azul dominante */
   pointer-events: none;
 }
 
 .link-neon {
   transition: color 200ms ease, text-shadow 200ms ease;
 }
+
 .link-neon:hover {
   color: #fff;
   text-shadow: 0 0 8px var(--accent-weak);
@@ -237,14 +297,17 @@ html:not(.dark) { color-scheme: light; }
     height: 10px;
     width: 10px;
   }
+
   .dark ::-webkit-scrollbar-track {
-    background: rgba(255,255,255,0.05);
+    background: rgba(255, 255, 255, 0.05);
   }
+
   .dark ::-webkit-scrollbar-thumb {
-    background: rgba(255,255,255,0.15);
+    background: rgba(255, 255, 255, 0.15);
     border-radius: 999px;
-    border: 2px solid rgba(0,0,0,0);
+    border: 2px solid rgba(0, 0, 0, 0);
   }
+
   .dark ::-webkit-scrollbar-thumb:hover {
     background: var(--accent-weak);
   }
@@ -256,8 +319,10 @@ html:not(.dark) { color-scheme: light; }
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
-  line-height: 1.4; /* asegurar misma altura de línea en todas */
-  min-height: 36px; /* 13px * 1.4 * 2 ≈ 36px para 2 líneas exactas */
+  line-height: 1.4;
+  /* asegurar misma altura de línea en todas */
+  min-height: 36px;
+  /* 13px * 1.4 * 2 ≈ 36px para 2 líneas exactas */
 }
 
 /* Chips base */
@@ -267,17 +332,21 @@ html:not(.dark) { color-scheme: light; }
   justify-content: center;
   white-space: nowrap;
   border-radius: 999px;
-  padding: 4px 10px; /* antes 3px 8px */
-  font-size: 12px; /* antes 11px */
+  padding: 4px 10px;
+  /* antes 3px 8px */
+  font-size: 12px;
+  /* antes 11px */
   line-height: 1.1;
   color: #0a0a0a;
-  background: #ffffff; /* blanco puro */
-  border: 1px solid rgba(0,0,0,0.12);
+  background: #ffffff;
+  /* blanco puro */
+  border: 1px solid rgba(0, 0, 0, 0.12);
 }
+
 .dark .chip {
-  color: rgba(255,255,255,0.9);
-  background: rgba(255,255,255,0.06);
-  border-color: rgba(255,255,255,0.22);
+  color: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.22);
 }
 
 /* Chip invertido específico para Prueba gratis: mismo estilo que chip, colores inversos */
@@ -287,17 +356,26 @@ html:not(.dark) { color-scheme: light; }
   justify-content: center;
   white-space: nowrap;
   border-radius: 999px;
-  padding: 4px 10px; /* antes 3px 8px */
-  font-size: 12px; /* antes 11px */
+  padding: 4px 10px;
+  /* antes 3px 8px */
+  font-size: 12px;
+  /* antes 11px */
   line-height: 1.1;
-  background: #f7f7f7; /* ligeramente más oscuro que blanco puro */
+  background: #f7f7f7;
+  /* ligeramente más oscuro que blanco puro */
   color: #0a0a0a;
   border: 1px solid #0a0a0a;
 }
 
 /* Eliminar completamente estilos del badge metálico */
-.badge-metal { display: none !important; }
-.badge-metal::after { display: none !important; content: ""; }
+.badge-metal {
+  display: none !important;
+}
+
+.badge-metal::after {
+  display: none !important;
+  content: "";
+}
 
 /* Gradiente radial personalizado */
 .bg-gradient-radial {
@@ -310,15 +388,17 @@ html:not(.dark) { color-scheme: light; }
   color: var(--accent);
   border-color: var(--accent);
 }
+
 .btn-accent-inverse:hover {
   background: linear-gradient(135deg, #00d4ff, #00b8ff 60%, #00e5ff 100%);
   color: #ffffff;
   border-color: transparent;
-  box-shadow: 0 0 0 1px rgba(255,255,255,0.85), 0 8px 22px rgba(255,255,255,0.18);
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.85), 0 8px 22px rgba(255, 255, 255, 0.18);
 }
 
 /* Neutralizar recoloreo en Alto Contraste / Forced Colors (Edge/Windows) */
 @media (forced-colors: active) {
+
   .tool-card,
   .card-neon,
   .card-elevate,
@@ -326,13 +406,14 @@ html:not(.dark) { color-scheme: light; }
     forced-color-adjust: none;
     background-color: #0b0b0b !important;
     color: #ededed !important;
-    border-color: rgba(255,255,255,0.2) !important;
+    border-color: rgba(255, 255, 255, 0.2) !important;
   }
+
   .tool-card a,
   .tool-card button {
     forced-color-adjust: none;
     background-color: transparent !important;
     color: #ededed !important;
-    border-color: rgba(255,255,255,0.25) !important;
+    border-color: rgba(255, 255, 255, 0.25) !important;
   }
 }

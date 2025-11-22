@@ -19,8 +19,6 @@ function ToolCard({ tool, onSelect }: { tool: Tool; onSelect?: (tool: Tool) => v
         return "Gratis";
       case "pago":
         return "Pago";
-      case "freemium":
-        return "Freemium";
       default:
         return tool.precio;
     }

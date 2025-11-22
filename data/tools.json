@@ -3,7 +3,9 @@
     "id": "2short-ai",
     "nombre": "2short.ai",
     "categoria": "Multimedia",
-    "subcategoria":["Videos"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://2short.ai/",
@@ -22,7 +24,9 @@
     "id": "adcreative-ai",
     "nombre": "AdCreative.ai",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"],
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.adcreative.ai/",
@@ -41,7 +45,9 @@
     "id": "copymatic",
     "nombre": "Copymatic",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://copymatic.ai/?via=wikipeia",
@@ -60,7 +66,9 @@
     "id": "fliki",
     "nombre": "Fliki",
     "categoria": "Multimedia",
-    "subcategoria":["Videos"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://fliki.ai/?via=wikipeia",
@@ -79,7 +87,9 @@
     "id": "genovideo",
     "nombre": "Genovideo",
     "categoria": "Multimedia",
-    "subcategoria":["Videos"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://genovideo.com/",
@@ -96,8 +106,10 @@
   {
     "id": "humataai",
     "nombre": "Humata AI",
-    "categoria": "Productividad",
-    "subcategoria":["Documentos"],    
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Documentos"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.humata.ai/",
@@ -116,7 +128,9 @@
     "id": "rytr",
     "nombre": "Rytr",
     "categoria": "Desarrollo",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://rytr.me/?via=wikipeia",
@@ -135,7 +149,9 @@
     "id": "bhuman",
     "nombre": "BHuman",
     "categoria": "Marketing",
-    "subcategoria":["Videos"],  
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.bhuman.ai/",
@@ -154,7 +170,9 @@
     "id": "namecheaplogomaker",
     "nombre": "Namecheap Logo Maker",
     "categoria": "Diseño",
-    "subcategoria":["Logos"],
+    "subcategoria": [
+      "Logos"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.namecheap.com/logo-maker/",
@@ -172,7 +190,9 @@
     "id": "smodin",
     "nombre": "Smodin",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://smodin.io/pricing?fpr=wikipeia",
@@ -191,7 +211,9 @@
     "id": "aiwriter-com",
     "nombre": "AI-Writer.com",
     "categoria": "Marketing",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://ai-writer.com?via=wikipeia",
@@ -210,7 +232,9 @@
     "id": "aiseo",
     "nombre": "AISEO",
     "categoria": "Desarrollo",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://aiseo.ai/?fpr=wikipeia",
@@ -229,7 +253,9 @@
     "id": "anyword",
     "nombre": "Anyword",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://anyword.com/",
@@ -248,7 +274,9 @@
     "id": "articlefiesta",
     "nombre": "Article Fiesta",
     "categoria": "Desarrollo",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://articlefiesta.com/?af=landlady-curriculum",
@@ -267,7 +295,9 @@
     "id": "articleforge",
     "nombre": "ArticleForge",
     "categoria": "Desarrollo",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://typeform.cello.so/v4p4VdwIfeU",
@@ -286,7 +316,9 @@
     "id": "bertha-ai",
     "nombre": "Bertha.ai",
     "categoria": "Desarrollo",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://bertha.ai/",
@@ -305,7 +337,9 @@
     "id": "botowski",
     "nombre": "Botowski",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://botowski.com/",
@@ -324,7 +358,9 @@
     "id": "copy-ai",
     "nombre": "Copy.ai",
     "categoria": "Marketing",
-    "subcategoria":["Publicidad"], 
+    "subcategoria": [
+      "Publicidad"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.copy.ai/",
@@ -344,7 +380,9 @@
     "id": "copymonkey-ai",
     "nombre": "CopyMonkey.ai",
     "categoria": "Marketing",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.copymonkey.ai/",
@@ -363,7 +401,9 @@
     "id": "copysmithai",
     "nombre": "Copysmith AI",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://copysmith.ai/",
@@ -382,7 +422,9 @@
     "id": "crawlq-ai",
     "nombre": "CrawlQ.ai",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://app.crawlq.ai/sign-up?_get=wikipeia",
@@ -399,7 +441,9 @@
     "id": "creaitorai",
     "nombre": "Creaitor AI",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.creaitor.ai/?ref=wikipeia",
@@ -418,7 +462,9 @@
     "id": "easypeasy-ai",
     "nombre": "Easy-Peasy.AI",
     "categoria": "Desarrollo",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://easy-peasy.ai/?via=wikipeia",
@@ -437,7 +483,9 @@
     "id": "hoppycopy",
     "nombre": "HoppyCopy",
     "categoria": "Marketing",
-    "subcategoria":["Emails"], 
+    "subcategoria": [
+      "Email"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.hoppycopy.co/",
@@ -456,7 +504,9 @@
     "id": "hypotenuseai",
     "nombre": "Hypotenuse ai",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.hypotenuse.ai/",
@@ -475,7 +525,9 @@
     "id": "longshot",
     "nombre": "LongShot",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.longshot.ai/",
@@ -494,7 +546,9 @@
     "id": "munch",
     "nombre": "Munch",
     "categoria": "Multimedia",
-    "subcategoria":["Video"], 
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.getmunch.com/",
@@ -510,10 +564,12 @@
     "fechaAlta": "2025-10-27"
   },
   {
-    "id": "neuroflash",   
+    "id": "neuroflash",
     "nombre": "neuroflash",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://neuroflash.com/",
@@ -532,7 +588,9 @@
     "id": "ocoya",
     "nombre": "Ocoya",
     "categoria": "Marketing",
-    "subcategoria":["Redes Sociales"], 
+    "subcategoria": [
+      "Redes Sociales"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.ocoya.com/?via=wikipeia",
@@ -551,7 +609,9 @@
     "id": "webflow",
     "nombre": "Webflow",
     "categoria": "Desarrollo",
-    "subcategoria":["Diseño"], 
+    "subcategoria": [
+      "Diseño"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.webflow.com/",
@@ -569,7 +629,9 @@
     "id": "jaqnjil",
     "nombre": "Jaqnjil",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://jaqnjil.ai/",
@@ -588,7 +650,9 @@
     "id": "jenni",
     "nombre": "Jenni",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://jenni.ai/?via=wikipeia",
@@ -607,7 +671,9 @@
     "id": "jibewith",
     "nombre": "JibeWith",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://jibewith.com/",
@@ -626,7 +692,9 @@
     "id": "jounceai",
     "nombre": "Jounce AI",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.jounce.ai/",
@@ -644,7 +712,9 @@
     "id": "ideabuddy",
     "nombre": "Ideabuddy",
     "categoria": "Asistentes",
-    "subcategoria":["Negocios"], 
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://ideabuddy.com/?via=wikipeia",
@@ -663,7 +733,9 @@
     "id": "imagineme",
     "nombre": "Imagine Me",
     "categoria": "Diseño",
-    "subcategoria":["Multimedia"], 
+    "subcategoria": [
+      "Multimedia"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://imagineme.ai/",
@@ -678,28 +750,12 @@
     "fechaAlta": "2025-09-20"
   },
   {
-    "id": "industrialdatalabs",
-    "nombre": "Industrial Data Labs",
-    "categoria": "Clientes",
-    "subcategoria":["Ventas"], 
-    "precio": "gratis",
-    "etiquetas": [],
-    "enlace": "https://www.industrialdatalabs.com/",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Industrial_Data_Labs/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Industrial_Data_Labs/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Industrial_Data_Labs/3.jpg"
-    ],
-    "descripcion": "Herramientas de IA para ventas técnicas en industria.",
-    "descripcionDetallada": "Industrial Data Labs procesa RFQs y hojas técnicas para extraer especificaciones, recomendar SKUs y preparar cotizaciones con menor fricción. Integra validación de compatibilidad y generación de respuestas para email/CRM, reduciendo tiempos en ventas complejas. Útil para distribuidores y fabricantes industriales; disponible con onboarding y demos gratuitas.",
-    "fechaAlta": "2025-09-14"
-  },
-  {
     "id": "infomail-ai",
     "nombre": "Infomail.ai",
     "categoria": "Marketing",
-    "subcategoria":["Email"], 
+    "subcategoria": [
+      "Email"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://infomail.ai/",
@@ -717,7 +773,9 @@
     "id": "fineshare",
     "nombre": "FineShare",
     "categoria": "Multimedia",
-    "subcategoria":["Audio"], 
+    "subcategoria": [
+      "Audio"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://finevoice.fineshare.com/?ref=wikipeia",
@@ -735,8 +793,10 @@
   {
     "id": "freeday-ai",
     "nombre": "Freeday.ai",
-    "categoria": "Productividad",
-    "subcategoria":["Automatización"], 
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Automatización"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://freeday.ai/",
@@ -754,7 +814,9 @@
     "id": "genieai",
     "nombre": "Genie AI",
     "categoria": "Asistentes",
-    "subcategoria":["Legal"], 
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.genieai.co/",
@@ -772,7 +834,9 @@
     "id": "gerwin",
     "nombre": "Gerwin",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://gerwin.io/",
@@ -791,7 +855,9 @@
     "id": "ghostwrite",
     "nombre": "Ghostwrite",
     "categoria": "Asistentes",
-    "subcategoria":["Email"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.ghostwrite.rip/",
@@ -809,8 +875,10 @@
   {
     "id": "harpa-ai",
     "nombre": "Harpa.ai",
-    "categoria": "Productividad",
-    "subcategoria":["Automatización"], 
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Automatización"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://harpa.ai/",
@@ -828,7 +896,9 @@
     "id": "helloscribe",
     "nombre": "HelloScribe",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.helloscribe.ai/",
@@ -844,29 +914,12 @@
     "fechaAlta": "2025-10-14"
   },
   {
-    "id": "duxsoup",
-    "nombre": "Dux-soup",
-    "categoria": "Clientes",
-    "subcategoria":["Automatización"], 
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://www.dux-soup.com/",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Dux-soup/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Dux-soup/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Dux-soup/3.jpg"
-    ],
-    "descripcion": "Automatización de prospección en LinkedIn.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Dux-soup automatiza visitas, seguimiento y envíos personalizados con secuencias configurables. Trae extracción de datos, etiquetado y sincronización con CRM para medir respuestas y optimizar. Útil para SDRs y fundadores que hacen outreach en frío; prueba gratuita y niveles por volumen/funciones",
-    "fechaAlta": "2025-10-21"
-  },
-  {
     "id": "editby",
     "nombre": "Editby",
     "categoria": "Marketing",
-    "subcategoria":["Redes Sociales"], 
+    "subcategoria": [
+      "Redes Sociales"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://editby.ai/",
@@ -885,7 +938,9 @@
     "id": "emailmagicai",
     "nombre": "EmailMagic AI",
     "categoria": "Marketing",
-    "subcategoria":["Emails"], 
+    "subcategoria": [
+      "Email"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://emailmagic.ai/",
@@ -904,7 +959,9 @@
     "id": "embolden",
     "nombre": "Embolden",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.embolden.co/",
@@ -923,7 +980,9 @@
     "id": "embra",
     "nombre": "Embra",
     "categoria": "Asistentes",
-    "subcategoria":["Reuniones"], 
+    "subcategoria": [
+      "Reuniones"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://embra.ai/",
@@ -942,7 +1001,9 @@
     "id": "escribelo-ai",
     "nombre": "Escribelo.ai",
     "categoria": "Desarrollo",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://escribelo.ai/",
@@ -960,7 +1021,9 @@
     "id": "feedhive",
     "nombre": "FeedHive",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.feedhive.io/",
@@ -978,8 +1041,10 @@
   {
     "id": "finalscout",
     "nombre": "FinalScout",
-    "categoria": "Clientes",
-    "subcategoria":["Emails"], 
+    "categoria": "Marketing",
+    "subcategoria": [
+      "Email"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://finalscout.com/?via=wikipeia",
@@ -998,7 +1063,9 @@
     "id": "copyleaks",
     "nombre": "Copyleaks",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://copyleaks.com/",
@@ -1016,7 +1083,9 @@
     "id": "coverler",
     "nombre": "Coverler",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://coverler.com/",
@@ -1034,7 +1103,9 @@
     "id": "cowriter",
     "nombre": "Cowriter",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://cowriter.org/",
@@ -1052,7 +1123,9 @@
     "id": "crowdview",
     "nombre": "CrowdView",
     "categoria": "Asistentes",
-    "subcategoria":["Especializado"], 
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://crowdview.ai/",
@@ -1068,7 +1141,9 @@
     "id": "ctrify",
     "nombre": "CTRify",
     "categoria": "Marketing",
-    "subcategoria":["SEO"], 
+    "subcategoria": [
+      "SEO"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://ctrify.com/",
@@ -1087,7 +1162,9 @@
     "id": "daydrm-ai",
     "nombre": "Daydrm.ai",
     "categoria": "Marketing",
-    "subcategoria":["Planificación"], 
+    "subcategoria": [
+      "Planificación"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.daydrm.ai/",
@@ -1105,7 +1182,9 @@
     "id": "digitalfirstai",
     "nombre": "Digital First AI",
     "categoria": "Marketing",
-    "subcategoria":["Planificación"], 
+    "subcategoria": [
+      "Planificación"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://digitalfirst.ai/",
@@ -1124,7 +1203,9 @@
     "id": "dreamhouseai",
     "nombre": "Dreamhouse AI",
     "categoria": "Diseño",
-    "subcategoria":["Realista"], 
+    "subcategoria": [
+      "Realista"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://dreamhouseai.com/",
@@ -1143,7 +1224,9 @@
     "id": "coachmarlee",
     "nombre": "Coach Marlee",
     "categoria": "Asistentes",
-    "subcategoria":["Personal"], 
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://getmarlee.com/",
@@ -1161,7 +1244,9 @@
     "id": "cody",
     "nombre": "Cody",
     "categoria": "Asistentes",
-    "subcategoria":["Empresarial"], 
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://meetcody.ai?fpr=wikipeia",
@@ -1180,7 +1265,9 @@
     "id": "brandwell",
     "nombre": "Brandwell",
     "categoria": "Marketing",
-    "subcategoria":["SEO"], 
+    "subcategoria": [
+      "SEO"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://brandwell.ai/",
@@ -1198,7 +1285,9 @@
     "id": "blognlp",
     "nombre": "BlogNLP",
     "categoria": "Marketing",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://blognlp.com/",
@@ -1216,7 +1305,9 @@
     "id": "brandbastionlite",
     "nombre": "BrandBastion Lite",
     "categoria": "Marketing",
-    "subcategoria":["Redes Sociales"],
+    "subcategoria": [
+      "Redes Sociales"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.brandbastion.com/",
@@ -1234,8 +1325,10 @@
   {
     "id": "broadn",
     "nombre": "Broadn",
-    "categoria": "Productividad",
-    "subcategoria":["Aprendizaje"],
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Aprendizaje"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://broadn.io/",
@@ -1253,7 +1346,9 @@
     "id": "candyicons",
     "nombre": "CandyIcons",
     "categoria": "Diseño",
-    "subcategoria":["Iconos"],
+    "subcategoria": [
+      "Iconos"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://candyicons.com/",
@@ -1271,7 +1366,9 @@
     "id": "capturelab",
     "nombre": "CAPTURELAB",
     "categoria": "Multimedia",
-    "subcategoria":["Video"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://capturelab.gg/",
@@ -1287,29 +1384,12 @@
     "fechaAlta": "2025-10-05"
   },
   {
-    "id": "caroot",
-    "nombre": "Caroot",
-    "categoria": "Productividad",
-    "subcategoria":["Tareas"],
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://carrotai.app/",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Caroot/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Caroot/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Caroot/3.jpg"
-    ],
-    "descripcion": "Gestión de tareas y productividad personal.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Caroot asistente de productividad que convierte notas y mensajes en tareas con fechas, subtareas y recordatorios inteligentes. Da la opción de priorizar por impacto, crear rutinas y obtener resúmenes diarios, con widgets y sincronización multi-dispositivo. Útil para profesionales que quieren foco sin fricción; ofrece prueba y planes por usuario con funciones avanzadas.",
-    "fechaAlta": "2025-10-10"
-  },
-  {
     "id": "artiro",
     "nombre": "Artiro",
     "categoria": "Asistentes",
-    "subcategoria":["Contenido"],
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://artiro.app/",
@@ -1328,7 +1408,9 @@
     "id": "arvin",
     "nombre": "Arvin",
     "categoria": "Asistentes",
-    "subcategoria":["Contenido"],
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://arvin.chat/",
@@ -1346,7 +1428,9 @@
     "id": "beautifulai",
     "nombre": "Beautiful AI",
     "categoria": "Diseño",
-    "subcategoria":["Presentaciones"],
+    "subcategoria": [
+      "Presentaciones"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.beautiful.ai/",
@@ -1364,7 +1448,9 @@
     "id": "a-v-mapping",
     "nombre": "A.V. Mapping",
     "categoria": "Marketing",
-    "subcategoria":["Multimedia"],
+    "subcategoria": [
+      "Multimedia"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://avmapping.co/",
@@ -1383,7 +1469,9 @@
     "id": "adobesensei",
     "nombre": "Adobe Sensei",
     "categoria": "Marketing",
-    "subcategoria":["Multimedia"],
+    "subcategoria": [
+      "Multimedia"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.adobe.com/sensei/",
@@ -1401,7 +1489,9 @@
     "id": "affable",
     "nombre": "Affable",
     "categoria": "Marketing",
-    "subcategoria":["Redes Sociales"],
+    "subcategoria": [
+      "Redes Sociales"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.affable.ai/",
@@ -1420,7 +1510,9 @@
     "id": "aiscreenwriter",
     "nombre": "AI Screenwriter",
     "categoria": "Asistentes",
-    "subcategoria":["Guiones"],
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://aiscreenwriter.com/",
@@ -1439,7 +1531,9 @@
     "id": "albus",
     "nombre": "Albus",
     "categoria": "Asistentes",
-    "subcategoria":["Especializado"],
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.springworks.in/albus/",
@@ -1458,7 +1552,9 @@
     "id": "pictory",
     "nombre": "Pictory",
     "categoria": "Multimedia",
-    "subcategoria":["Videos"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://pictory.ai/",
@@ -1477,7 +1573,9 @@
     "id": "repurposeio",
     "nombre": "Repurpose IO",
     "categoria": "Marketing",
-    "subcategoria":["Redes Sociales"],
+    "subcategoria": [
+      "Redes Sociales"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://repurpose.io?fpr=512182",
@@ -1495,8 +1593,10 @@
   {
     "id": "sheetai-app",
     "nombre": "SheetAI.app",
-    "categoria": "Productividad",
-    "subcategoria":["Documentos"],
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Documentos"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://sheetai.app/",
@@ -1515,7 +1615,9 @@
     "id": "vondy",
     "nombre": "Vondy",
     "categoria": "Marketing",
-    "subcategoria":["Productividad"],
+    "subcategoria": [
+      "Productividad"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://vondy.com/",
@@ -1534,7 +1636,9 @@
     "id": "writesonic",
     "nombre": "Writesonic",
     "categoria": "Marketing",
-    "subcategoria":["SEO"],
+    "subcategoria": [
+      "SEO"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://writesonic.com/",
@@ -1553,7 +1657,9 @@
     "id": "yaaraai",
     "nombre": "Yaara AI",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://yaara.ai/",
@@ -1572,7 +1678,9 @@
     "id": "smartwriter",
     "nombre": "Smartwriter",
     "categoria": "Marketing",
-    "subcategoria":["Emails"],
+    "subcategoria": [
+      "Email"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://smartlead.ai/?via=wikipeia",
@@ -1587,7 +1695,9 @@
     "id": "socialvar",
     "nombre": "Social Var",
     "categoria": "Marketing",
-    "subcategoria":["Redes Sociales"],
+    "subcategoria": [
+      "Redes Sociales"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://socialvar.net/",
@@ -1606,7 +1716,9 @@
     "id": "socialbu",
     "nombre": "SocialBu",
     "categoria": "Marketing",
-    "subcategoria":["Redes Sociales"],
+    "subcategoria": [
+      "Redes Sociales"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://socialbu.com",
@@ -1625,7 +1737,9 @@
     "id": "solidgrids",
     "nombre": "SolidGrids",
     "categoria": "Diseño",
-    "subcategoria":["Imagenes"],
+    "subcategoria": [
+      "Imagen"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://solidgrids.com",
@@ -1644,7 +1758,9 @@
     "id": "speechgen-io",
     "nombre": "SpeechGen.io",
     "categoria": "Multimedia",
-    "subcategoria":["Audio"],
+    "subcategoria": [
+      "Audio"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://speechgen.io",
@@ -1663,7 +1779,9 @@
     "id": "scalenut",
     "nombre": "Scalenut",
     "categoria": "Marketing",
-    "subcategoria":["SEO"],
+    "subcategoria": [
+      "SEO"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.scalenut.com",
@@ -1682,7 +1800,9 @@
     "id": "seoai",
     "nombre": "Seo AI",
     "categoria": "Marketing",
-    "subcategoria":["SEO"],
+    "subcategoria": [
+      "SEO"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://seo.ai",
@@ -1701,7 +1821,9 @@
     "id": "seogpt",
     "nombre": "SEO GPT",
     "categoria": "Marketing",
-    "subcategoria":["SEO"],
+    "subcategoria": [
+      "SEO"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://seovendor.co/seo-gpt/?ref=60865",
@@ -1719,7 +1841,9 @@
     "id": "seowritingai",
     "nombre": "SEOWriting AI",
     "categoria": "Marketing",
-    "subcategoria":["SEO"],
+    "subcategoria": [
+      "SEO"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://seowriting.ai?fp_ref=wikipeia",
@@ -1738,7 +1862,9 @@
     "id": "shakespeare",
     "nombre": "Shakespeare",
     "categoria": "Marketing",
-    "subcategoria":["Productividad"], 
+    "subcategoria": [
+      "Productividad"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.shakespeare.ai",
@@ -1757,7 +1883,9 @@
     "id": "simplified-com",
     "nombre": "Simplified.com",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://simplified.com",
@@ -1775,8 +1903,10 @@
   {
     "id": "skimit",
     "nombre": "Skim It",
-    "categoria": "Productividad",
-    "subcategoria":["Email"], 
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Email"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.skimit.ai/",
@@ -1793,8 +1923,10 @@
   {
     "id": "quickreply",
     "nombre": "Quick Reply",
-    "categoria": "Asistentes",
-    "subcategoria":["Chat"], 
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Automatización"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.quickreply.ai/",
@@ -1812,7 +1944,9 @@
     "id": "quicktoolsbypicsart",
     "nombre": "Picsart",
     "categoria": "Diseño",
-    "subcategoria":["Multimedia"], 
+    "subcategoria": [
+      "Multimedia"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://picsart.com/quicktools",
@@ -1831,7 +1965,9 @@
     "id": "quickvid-ai",
     "nombre": "QuickVid.AI",
     "categoria": "Multimedia",
-    "subcategoria":["Video"], 
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://quickvid.app/",
@@ -1850,7 +1986,9 @@
     "id": "rationale",
     "nombre": "Rationale",
     "categoria": "Marketing",
-    "subcategoria":["Decisiones"], 
+    "subcategoria": [
+      "Decisiones"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://rationale.jina.ai",
@@ -1869,7 +2007,9 @@
     "id": "regie",
     "nombre": "Regie",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.regie.ai",
@@ -1888,7 +2028,9 @@
     "id": "rezi",
     "nombre": "Rezi",
     "categoria": "Diseño",
-    "subcategoria":["Documentos"], 
+    "subcategoria": [
+      "Documentos"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "http://rezi.ai/?via=wikipeia",
@@ -1904,47 +2046,12 @@
     "fechaAlta": "2025-10-14"
   },
   {
-    "id": "roastdating",
-    "nombre": "Roast Dating",
-    "categoria": "Asistentes",
-    "subcategoria":["Chat"], 
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://roast.dating",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Roast_Dating/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Roast_Dating/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Roast_Dating/3.jpg"
-    ],
-    "descripcion": "Recibe feedback de tu perfil de citas con IA.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Roast Dating analiza bio y fotos y propone mejoras concretas: tono, prompts alternativos y selección/orden de imágenes con explicaciones. Ofrece ejemplos de mensajes iniciales y tests A/B de perfiles. subes tu perfil, recibes diagnóstico y aplicas cambios guiados. Útil para apps de citas donde la primera impresión cuenta; prueba gratuita y niveles por volumen/funciones",
-    "fechaAlta": "2025-10-01"
-  },
-  {
-    "id": "pixelhunter",
-    "nombre": "Pixelhunter",
-    "categoria": "Diseño",
-    "subcategoria":["Redes Sociales"], 
-    "precio": "gratis",
-    "etiquetas": [],
-    "enlace": "https://pixelhunter.io",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pixelhunter/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pixelhunter/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pixelhunter/3.jpg"
-    ],
-    "descripcion": "Redimensionador automático de imágenes para social.",
-    "descripcionDetallada": "Pixelhunter ajusta imágenes a tamaños óptimos para cada red con recorte inteligente de sujeto y exportación por lotes. Incluye previsualización en mockups y sugerencias de encuadre. subes la foto, eliges plataformas y descargas todos los formatos. Útil para community managers y creadores; uso gratuito con límites razonables.",
-    "fechaAlta": "2025-10-07"
-  },
-  {
     "id": "postaga",
     "nombre": "Postaga",
     "categoria": "Marketing",
-    "subcategoria":["SEO"], 
+    "subcategoria": [
+      "SEO"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://postaga.com",
@@ -1963,7 +2070,9 @@
     "id": "postly",
     "nombre": "Postly",
     "categoria": "Marketing",
-    "subcategoria":["Redes Sociales"], 
+    "subcategoria": [
+      "Redes Sociales"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.postly.ai",
@@ -1982,7 +2091,9 @@
     "id": "postwise",
     "nombre": "Postwise",
     "categoria": "Marketing",
-    "subcategoria":["Redes Sociales"], 
+    "subcategoria": [
+      "Redes Sociales"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://postwise.ai?_get=wikipeia",
@@ -2000,7 +2111,9 @@
     "id": "predictai",
     "nombre": "Predict AI",
     "categoria": "Marketing",
-    "subcategoria":["Publicidad"], 
+    "subcategoria": [
+      "Publicidad"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.neuronsinc.com/neurons-ai",
@@ -2018,7 +2131,9 @@
     "id": "predis",
     "nombre": "Predis",
     "categoria": "Marketing",
-    "subcategoria":["Redes Sociales"], 
+    "subcategoria": [
+      "Redes Sociales"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://predis.ai",
@@ -2036,8 +2151,10 @@
   {
     "id": "proposalgenie",
     "nombre": "Proposal Genie",
-    "categoria": "Clientes",
-    "subcategoria":["Texto"], 
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://proposalgenie.ai",
@@ -2049,14 +2166,16 @@
     ],
     "descripcion": "Genera propuestas freelance en segundos.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Proposal Genie A partir de una descripción del proyecto, crea propuestas con alcance, entregables, cronograma y tarifas sugeridas. Te deja duplicar plantillas, firmar y exportar en PDF. introduces requisitos/cliente, eliges estilo y obtienes un documento editable listo. Útil para freelancers y agencias pequeñas; hay prueba y opciones de pago según uso",
+    "descripcionDetallada": "Proposal Genie A partir de una descripción del proyecto, crea propuestas con alcance, entregables, cronograma y tarifas sugeridas. Te deja duplicar plantillas, firmar y exportar en PDF. Introduces requisitos/cliente, eliges estilo y obtienes un documento editable listo. Útil para freelancers y agencias pequeñas; hay prueba y opciones de pago según uso",
     "fechaAlta": "2025-09-21"
   },
   {
     "id": "publeraiassist",
     "nombre": "Publer AI Assist",
     "categoria": "Marketing",
-    "subcategoria":["Redes Sociales"], 
+    "subcategoria": [
+      "Redes Sociales"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://publer.io",
@@ -2075,7 +2194,9 @@
     "id": "qlip-ai",
     "nombre": "Qlip.ai",
     "categoria": "Multimedia",
-    "subcategoria":["Redes Sociales"], 
+    "subcategoria": [
+      "Redes Sociales"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://qlip.ai",
@@ -2094,7 +2215,9 @@
     "id": "pebblely",
     "nombre": "Pebblely",
     "categoria": "Diseño",
-    "subcategoria":["Imagenes"], 
+    "subcategoria": [
+      "Imagen"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://pebblely.com",
@@ -2113,7 +2236,9 @@
     "id": "peech",
     "nombre": "Peech",
     "categoria": "Marketing",
-    "subcategoria":["Video"], 
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.peech-ai.com",
@@ -2132,7 +2257,9 @@
     "id": "pencil",
     "nombre": "Pencil",
     "categoria": "Marketing",
-    "subcategoria":["Publicidad"], 
+    "subcategoria": [
+      "Publicidad"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.trypencil.com",
@@ -2169,7 +2296,9 @@
     "id": "personalai",
     "nombre": "Personal AI",
     "categoria": "Asistentes",
-    "subcategoria":["Especializado"], 
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.personal.ai",
@@ -2188,7 +2317,9 @@
     "id": "photorai",
     "nombre": "Photor AI",
     "categoria": "Diseño",
-    "subcategoria":["Multimedia"], 
+    "subcategoria": [
+      "Multimedia"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://photor.ai",
@@ -2206,7 +2337,9 @@
     "id": "pitchgrade",
     "nombre": "Pitchgrade",
     "categoria": "Diseño",
-    "subcategoria":["Presentaciones"], 
+    "subcategoria": [
+      "Presentaciones"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://pitchgrade.com",
@@ -2225,7 +2358,9 @@
     "id": "namingmagic",
     "nombre": "Naming Magic",
     "categoria": "Marketing",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.namingmagic.com",
@@ -2243,7 +2378,9 @@
     "id": "neuronwriter",
     "nombre": "Neuronwriter",
     "categoria": "Marketing",
-    "subcategoria":["SEO"], 
+    "subcategoria": [
+      "SEO"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://app.neuronwriter.com/ar/28020c99c4a06239521f36246653e5fa",
@@ -2261,7 +2398,9 @@
     "id": "newswriter-ai",
     "nombre": "Newswriter.ai",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://newswriter.ai",
@@ -2278,7 +2417,9 @@
     "id": "nichesss",
     "nombre": "Nichesss",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://nichesss.com",
@@ -2297,7 +2438,9 @@
     "id": "nolej",
     "nombre": "Nolej",
     "categoria": "Marketing",
-    "subcategoria":["Productividad"], 
+    "subcategoria": [
+      "Productividad"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://nolej.io",
@@ -2313,29 +2456,12 @@
     "fechaAlta": "2025-10-09"
   },
   {
-    "id": "octaneai",
-    "nombre": "Octane AI",
-    "categoria": "Clientes",
-    "subcategoria":["Especializado"], 
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://www.octaneai.com",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Octane_AI/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Octane_AI/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Octane_AI/3.jpg"
-    ],
-    "descripcion": "Recomendaciones personalizadas para e-commerce.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Octane AI crea cuestionarios de producto y experiencias conversacionales que capturan datos de preferencia y recomiendan SKUs en tiempo real. Integra con Shopify y ESPs para segmentar, mejorar AOV y recuperar carritos. diseñas el quiz, publicas en la tienda y automatizas follow-ups; prueba gratuita y niveles por volumen/funciones",
-    "fechaAlta": "2025-10-08"
-  },
-  {
     "id": "midjourneysplitter",
     "nombre": "Midjourney Splitter",
     "categoria": "Diseño",
-    "subcategoria":[" Imágenes"], 
+    "subcategoria": [
+      "Imagen"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.mjsplitter.com/",
@@ -2353,7 +2479,9 @@
     "id": "mokkerai",
     "nombre": "Mokker AI",
     "categoria": "Diseño",
-    "subcategoria":[" Imágenes"], 
+    "subcategoria": [
+      "Imagen"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://mokker.ai",
@@ -2372,7 +2500,9 @@
     "id": "morise-ai",
     "nombre": "Morise.ai",
     "categoria": "Marketing",
-    "subcategoria":["Redes Sociales"], 
+    "subcategoria": [
+      "Redes Sociales"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://morise.ai",
@@ -2386,7 +2516,9 @@
     "id": "motionit-ai",
     "nombre": "Motionit.ai",
     "categoria": "Diseño",
-    "subcategoria":["Presentaciones"], 
+    "subcategoria": [
+      "Presentaciones"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.motionit.ai",
@@ -2404,8 +2536,10 @@
   {
     "id": "moveworks",
     "nombre": "Moveworks",
-    "categoria": "Clientes",
-    "subcategoria":["Chatbots"], 
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Agentes"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.moveworks.com",
@@ -2423,7 +2557,9 @@
     "id": "namelix",
     "nombre": "Namelix",
     "categoria": "Marketing",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://namelix.com",
@@ -2441,7 +2577,9 @@
     "id": "namesnack",
     "nombre": "NameSnack",
     "categoria": "Marketing",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.namesnack.com",
@@ -2458,8 +2596,10 @@
   {
     "id": "magicform",
     "nombre": "MagicForm",
-    "categoria": "Clientes",
-    "subcategoria":["Chatbots"], 
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Agentes"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://magicform.ai",
@@ -2470,6 +2610,7 @@
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MagicForm/3.jpg"
     ],
     "descripcion": "Forms y chatbots con IA para captar leads.",
+    "pruebaGratis": true,
     "descripcionDetallada": "MagicForm convierte páginas y PDFs en formularios o chatbots que entienden intención, califican leads y envían respuestas a tu CRM. pegas URL o subes archivo, personalizas preguntas/branding y embebes en tu web; plan gratuito básico y upgrades con integraciones/automatizaciones.",
     "fechaAlta": "2025-09-28"
   },
@@ -2477,7 +2618,9 @@
     "id": "magickpen",
     "nombre": "MagickPen",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://magickpen.com",
@@ -2496,7 +2639,9 @@
     "id": "marketingblocksai",
     "nombre": "MarketingBlocks AI",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://marketingblocks.ai",
@@ -2515,7 +2660,9 @@
     "id": "marketmuse",
     "nombre": "MarketMuse",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.marketmuse.com",
@@ -2534,7 +2681,9 @@
     "id": "markopolo",
     "nombre": "Markopolo",
     "categoria": "Marketing",
-    "subcategoria":["Publicidad"], 
+    "subcategoria": [
+      "Publicidad"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.markopolo.ai",
@@ -2553,7 +2702,9 @@
     "id": "marmof",
     "nombre": "Marmof",
     "categoria": "Diseño",
-    "subcategoria":["Emails"], 
+    "subcategoria": [
+      "Email"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://marmof.com",
@@ -2572,7 +2723,9 @@
     "id": "maverick",
     "nombre": "Maverick",
     "categoria": "Multimedia",
-    "subcategoria":["Videos"], 
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.trymaverick.com/?via=wikipeia",
@@ -2590,7 +2743,9 @@
     "id": "letterdrop",
     "nombre": "Letterdrop",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://letterdrop.com",
@@ -2608,7 +2763,9 @@
     "id": "lexy",
     "nombre": "Lexy",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.mylexy.co/",
@@ -2627,7 +2784,9 @@
     "id": "linguix",
     "nombre": "Linguix",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"], 
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://linguix.com",
@@ -2646,7 +2805,9 @@
     "id": "logomaster",
     "nombre": "Logomaster",
     "categoria": "Diseño",
-    "subcategoria":["Logos"], 
+    "subcategoria": [
+      "Logos"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://logomaster.ai",
@@ -2664,7 +2825,9 @@
     "id": "lunchbox",
     "nombre": "LunchBox",
     "categoria": "Diseño",
-    "subcategoria":["Imagenes"], 
+    "subcategoria": [
+      "Imagen"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.lunchbox.io",
@@ -2682,7 +2845,9 @@
     "id": "machined-ai",
     "nombre": "Machined.ai",
     "categoria": "Marketing",
-    "subcategoria":["SEO"], 
+    "subcategoria": [
+      "SEO"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://machined.ai",
@@ -2701,7 +2866,9 @@
     "id": "maester-app",
     "nombre": "Maester.app",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"], 
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://maester.app",
@@ -2717,7 +2884,9 @@
     "id": "katteb",
     "nombre": "Katteb",
     "categoria": "Marketing",
-    "subcategoria":["SEO"], 
+    "subcategoria": [
+      "SEO"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://katteb.com",
@@ -2736,7 +2905,9 @@
     "id": "keywordsearch",
     "nombre": "KeywordSearch",
     "categoria": "Marketing",
-    "subcategoria":["SEO"], 
+    "subcategoria": [
+      "SEO"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://keywordsearch.com",
@@ -2755,7 +2926,9 @@
     "id": "keywrds-ai",
     "nombre": "Keywrds.ai",
     "categoria": "Marketing",
-    "subcategoria":["SEO"], 
+    "subcategoria": [
+      "SEO"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://keywrds.ai",
@@ -2773,8 +2946,10 @@
   {
     "id": "klaviyoasistentesms",
     "nombre": "Klaviyo Asistente SMS",
-    "categoria": "Clientes",
-    "subcategoria":["Soporte"], 
+    "categoria": "Marketing",
+    "subcategoria": [
+      "Email"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.klaviyo.com",
@@ -2791,8 +2966,10 @@
   {
     "id": "kore-ai",
     "nombre": "Kore.ai",
-    "categoria": "Clientes",
-    "subcategoria":["Soporte"],
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Agentes"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://kore.ai",
@@ -2811,7 +2988,9 @@
     "id": "kraftful",
     "nombre": "Kraftful",
     "categoria": "Marketing",
-    "subcategoria":["Análisis"],
+    "subcategoria": [
+      "Análisis"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.kraftful.com",
@@ -2830,7 +3009,9 @@
     "id": "languagetool",
     "nombre": "LanguageTool",
     "categoria": "Marketing",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://languagetool.org",
@@ -2849,7 +3030,9 @@
     "id": "lebesgue",
     "nombre": "Lebesgue",
     "categoria": "Marketing",
-    "subcategoria":["Análisis"],
+    "subcategoria": [
+      "Análisis"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://lebesgue.io",
@@ -2868,7 +3051,9 @@
     "id": "lek",
     "nombre": "Lek",
     "categoria": "Marketing",
-    "subcategoria":["Contenido"],
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://lek.ai",
@@ -2886,8 +3071,10 @@
   {
     "id": "chatgpt",
     "nombre": "ChatGPT",
-    "categoria": "Asistentes", 
-    "subcategoria":["Texto"],
+    "categoria": "Asistentes",
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -2907,7 +3094,9 @@
     "id": "claude",
     "nombre": "Claude",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -2928,7 +3117,9 @@
     "id": "microsoft-copilot",
     "nombre": "Microsoft Copilot",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -2948,7 +3139,9 @@
     "id": "google-gemini",
     "nombre": "Google Gemini",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -2968,7 +3161,9 @@
     "id": "perplexity",
     "nombre": "Perplexity",
     "categoria": "Asistentes",
-    "subcategoria":["Especializado"],
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "pago",
     "etiquetas": [
       "Destacada"
@@ -2989,7 +3184,9 @@
     "id": "poe",
     "nombre": "Poe",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://poe.com/",
@@ -3007,7 +3204,9 @@
     "id": "github-copilot",
     "nombre": "GitHub Copilot",
     "categoria": "Desarrollo",
-    "subcategoria":["Código"],
+    "subcategoria": [
+      "Programación"
+    ],
     "precio": "pago",
     "etiquetas": [
       "Destacada"
@@ -3027,7 +3226,9 @@
     "id": "windsurf",
     "nombre": "Windsurf",
     "categoria": "Desarrollo",
-    "subcategoria":["Programación"],
+    "subcategoria": [
+      "Programación"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://windsurf.com//",
@@ -3042,7 +3243,9 @@
     "id": "tabnine",
     "nombre": "Tabnine",
     "categoria": "Desarrollo",
-    "subcategoria":["Código"],
+    "subcategoria": [
+      "Programación"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.tabnine.com/",
@@ -3061,7 +3264,9 @@
     "id": "replit-ghostwriter",
     "nombre": "Replit Ghostwriter",
     "categoria": "Desarrollo",
-    "subcategoria":["Código"],
+    "subcategoria": [
+      "Programación"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://replit.com/ghostwriter",
@@ -3079,7 +3284,9 @@
     "id": "midjourney",
     "nombre": "Midjourney",
     "categoria": "Diseño",
-    "subcategoria":["Imagenes"],
+    "subcategoria": [
+      "Imagen"
+    ],
     "precio": "pago",
     "etiquetas": [
       "Destacada"
@@ -3099,7 +3306,9 @@
     "id": "stable-diffusion",
     "nombre": "Stable Diffusion",
     "categoria": "Diseño",
-    "subcategoria":["Imagenes"],
+    "subcategoria": [
+      "Imagen"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://stability.ai/",
@@ -3118,7 +3327,9 @@
     "id": "leonardo-ai",
     "nombre": "Leonardo AI",
     "categoria": "Diseño",
-    "subcategoria":["Imagenes"],
+    "subcategoria": [
+      "Imagen"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://leonardo.ai/",
@@ -3137,7 +3348,9 @@
     "id": "runway",
     "nombre": "Runway",
     "categoria": "Multimedia",
-    "subcategoria":["Video"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "pago",
     "etiquetas": [
       "Destacada"
@@ -3158,7 +3371,9 @@
     "id": "descript",
     "nombre": "Descript",
     "categoria": "Multimedia",
-    "subcategoria":["Video"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.descript.com/",
@@ -3177,7 +3392,9 @@
     "id": "elevenlabs",
     "nombre": "ElevenLabs",
     "categoria": "Multimedia",
-    "subcategoria":["Audio"],
+    "subcategoria": [
+      "Audio"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://elevenlabs.io/",
@@ -3196,7 +3413,9 @@
     "id": "canva",
     "nombre": "Canva",
     "categoria": "Diseño",
-    "subcategoria":["Imagenes"],
+    "subcategoria": [
+      "Imagen"
+    ],
     "precio": "pago",
     "etiquetas": [
       "Destacada"
@@ -3217,7 +3436,9 @@
     "id": "notion-ai",
     "nombre": "Notion AI",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.notion.so/product/ai",
@@ -3235,7 +3456,9 @@
     "id": "grammarly",
     "nombre": "Grammarly",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.grammarly.com/",
@@ -3254,7 +3477,9 @@
     "id": "jasper-ai",
     "nombre": "Jasper",
     "categoria": "Asistentes",
-    "subcategoria":["Contenido"],
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.jasper.ai/",
@@ -3269,7 +3494,9 @@
     "id": "notebooklm",
     "nombre": "NotebookLM",
     "categoria": "Asistentes",
-    "subcategoria":["Especializado"],
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -3289,7 +3516,9 @@
     "id": "deepl",
     "nombre": "DeepL",
     "categoria": "Asistentes",
-    "subcategoria":["Especializado"],
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "pago",
     "etiquetas": [
       "Destacada"
@@ -3310,7 +3539,9 @@
     "id": "lumen5",
     "nombre": "Lumen5",
     "categoria": "Multimedia",
-    "subcategoria":["Video"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "pago",
     "etiquetas": [
       "Destacada"
@@ -3331,7 +3562,9 @@
     "id": "tensorflow",
     "nombre": "TensorFlow",
     "categoria": "Desarrollo",
-    "subcategoria":["LLM"],
+    "subcategoria": [
+      "LLM"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -3352,7 +3585,9 @@
     "id": "hugging-face",
     "nombre": "Hugging Face",
     "categoria": "Desarrollo",
-    "subcategoria":["LLM"],
+    "subcategoria": [
+      "LLM"
+    ],
     "precio": "pago",
     "etiquetas": [
       "Destacada"
@@ -3372,8 +3607,10 @@
   {
     "id": "ibm-watson",
     "nombre": "IBM Watson",
-    "categoria": "Productividad",
-    "subcategoria":["Análisis"],
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Análisis"
+    ],
     "precio": "pago",
     "etiquetas": [
       "Destacada"
@@ -3394,7 +3631,9 @@
     "id": "quillbot",
     "nombre": "QuillBot",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "pago",
     "etiquetas": [
       "Destacada"
@@ -3415,7 +3654,9 @@
     "id": "character-ai",
     "nombre": "Character.AI",
     "categoria": "Asistentes",
-    "subcategoria":["Especializado"],
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "pago",
     "etiquetas": [
       "Destacada"
@@ -3436,7 +3677,9 @@
     "id": "capcut",
     "nombre": "CapCut",
     "categoria": "Multimedia",
-    "subcategoria":["Video"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -3457,7 +3700,9 @@
     "id": "figma",
     "nombre": "Figma",
     "categoria": "Desarrollo",
-    "subcategoria":["Diseño"],
+    "subcategoria": [
+      "Diseño"
+    ],
     "precio": "pago",
     "etiquetas": [
       "Destacada"
@@ -3478,7 +3723,9 @@
     "id": "fooocus",
     "nombre": "Fooocus",
     "categoria": "Diseño",
-    "subcategoria":["Imagenes"],
+    "subcategoria": [
+      "Imagen"
+    ],
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://fooocusai.ai/",
@@ -3495,7 +3742,9 @@
     "id": "veo3",
     "nombre": "Veo 3",
     "categoria": "Multimedia",
-    "subcategoria":["Video"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "pago",
     "etiquetas": [
       "Destacada"
@@ -3511,7 +3760,9 @@
     "id": "adobe-firefly",
     "nombre": "Adobe Firefly",
     "categoria": "Diseño",
-    "subcategoria":["Imagenes"],
+    "subcategoria": [
+      "Imagen"
+    ],
     "precio": "pago",
     "etiquetas": [
       "Destacada"
@@ -3532,7 +3783,9 @@
     "id": "murf",
     "nombre": "Murf",
     "categoria": "Multimedia",
-    "subcategoria":["Audio"],
+    "subcategoria": [
+      "Audio"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://murf.ai/",
@@ -3551,7 +3804,9 @@
     "id": "invideo",
     "nombre": "InVideo",
     "categoria": "Multimedia",
-    "subcategoria":["Video"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://invideo.io/",
@@ -3569,8 +3824,10 @@
   {
     "id": "make",
     "nombre": "Make",
-    "categoria": "Clientes",
-    "subcategoria":["Automatización"],
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Automatización"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -3590,8 +3847,10 @@
   {
     "id": "zapier",
     "nombre": "Zapier",
-    "categoria": "Clientes",
-    "subcategoria":["Automatización"],
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Automatización"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -3612,7 +3871,9 @@
     "id": "mistral",
     "nombre": "Mistral AI",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -3633,7 +3894,9 @@
     "id": "lumio-ai",
     "nombre": "Lumio AI",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -3654,7 +3917,9 @@
     "id": "deepseek",
     "nombre": "DeepSeek",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -3674,7 +3939,9 @@
     "id": "qwen",
     "nombre": "Qwen",
     "categoria": "Asistentes",
-    "subcategoria":["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -3693,7 +3960,9 @@
     "id": "div-idy",
     "nombre": "Div-idy",
     "categoria": "Desarrollo",
-    "subcategoria":["Código"],
+    "subcategoria": [
+      "Programación"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -3713,8 +3982,10 @@
   {
     "id": "fathom",
     "nombre": "Fathom",
-    "categoria": "Clientes",
-    "subcategoria":["Reuniones"],
+    "categoria": "Asistentes",
+    "subcategoria": [
+      "Reuniones"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -3735,7 +4006,9 @@
     "id": "suno",
     "nombre": "Suno",
     "categoria": "Multimedia",
-    "subcategoria":["Música"],
+    "subcategoria": [
+      "Música"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -3756,7 +4029,9 @@
     "id": "wan-ai",
     "nombre": "Wan AI",
     "categoria": "Multimedia",
-    "subcategoria":["Video"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -3777,9 +4052,13 @@
     "id": "pomelli",
     "nombre": "Pomelli",
     "categoria": "Marketing",
-    "subcategoria": ["Contenido"],
+    "subcategoria": [
+      "Contenido"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://labs.google.com/pomelli/about/",
     "imagen": "",
     "imagenes": [],
@@ -3791,10 +4070,14 @@
   {
     "id": "opal",
     "nombre": "Opal",
-    "categoria": "Desarrollo",
-    "subcategoria": ["No-Code"],
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Automatización"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://opal.google/landing/?source=labs",
     "imagen": "",
     "imagenes": [],
@@ -3806,10 +4089,14 @@
   {
     "id": "learn-your-way",
     "nombre": "Learn Your Way",
-    "categoria": "Productividad",
-    "subcategoria": ["Personalización"],
+    "categoria": "Asistentes",
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://learnyourway.withgoogle.com/",
     "imagen": "",
     "imagenes": [],
@@ -3819,27 +4106,16 @@
     "fechaAlta": "2025-11-21"
   },
   {
-    "id": "doppl",
-    "nombre": "Doppl",
-    "categoria": "Diseño",
-    "subcategoria": ["Moda"],
-    "precio": "gratis",
-    "etiquetas": ["Destacada"],
-    "enlace": "https://labs.google/doppl",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Prueba virtual de estilos y looks personales.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Una nueva app experimental que te permite probarte cualquier look virtualmente y explorar tu estilo personal con IA.",
-    "fechaAlta": "2025-11-21"
-  },
-  {
     "id": "portraits",
     "nombre": "Portraits",
     "categoria": "Asistentes",
-    "subcategoria": ["Chat"],
+    "subcategoria": [
+      "Especializado"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://labs.google/portraits/login",
     "imagen": "",
     "imagenes": [],
@@ -3852,9 +4128,13 @@
     "id": "flow",
     "nombre": "Flow",
     "categoria": "Multimedia",
-    "subcategoria": ["Video"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://labs.google/flow",
     "imagen": "",
     "imagenes": [],
@@ -3866,10 +4146,14 @@
   {
     "id": "project-mariner",
     "nombre": "Project Mariner",
-    "categoria": "Productividad",
-    "subcategoria": ["Navegación"],
+    "categoria": "Asistentes",
+    "subcategoria": [
+      "Navegador"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://labs.google.com/mariner/landing",
     "imagen": "",
     "imagenes": [],
@@ -3882,9 +4166,13 @@
     "id": "stitch",
     "nombre": "Stitch",
     "categoria": "Desarrollo",
-    "subcategoria": ["UI/UX"],
+    "subcategoria": [
+      "UI/UX"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://stitch.withgoogle.com/",
     "imagen": "",
     "imagenes": [],
@@ -3897,9 +4185,13 @@
     "id": "jules",
     "nombre": "Jules",
     "categoria": "Desarrollo",
-    "subcategoria": ["Programación"],
+    "subcategoria": [
+      "Programación"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://jules.google/",
     "imagen": "",
     "imagenes": [],
@@ -3912,9 +4204,13 @@
     "id": "sparkify",
     "nombre": "Sparkify",
     "categoria": "Multimedia",
-    "subcategoria": ["Video"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://sparkify.withgoogle.com/explore",
     "imagen": "",
     "imagenes": [],
@@ -3924,27 +4220,16 @@
     "fechaAlta": "2025-11-21"
   },
   {
-    "id": "ai-first-colab",
-    "nombre": "AI-first Colab",
-    "categoria": "Desarrollo",
-    "subcategoria": ["Asistentes"],
-    "precio": "gratis",
-    "etiquetas": ["Destacada"],
-    "enlace": "https://colab.research.google.com/",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Notebooks reimaginados con experiencia agéntica.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Colab ahora incluye acciones agénticas para arreglar errores y transformar código automáticamente, ayudándote a resolver problemas difíciles más rápido.",
-    "fechaAlta": "2025-11-21"
-  },
-  {
     "id": "little-language-lessons",
     "nombre": "Little Language Lessons",
     "categoria": "Asistentes",
-    "subcategoria": ["Idiomas"],
+    "subcategoria": [
+      "Idiomas"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://labs.google/lll/en",
     "imagen": "",
     "imagenes": [],
@@ -3954,27 +4239,16 @@
     "fechaAlta": "2025-11-21"
   },
   {
-    "id": "career-dreamer",
-    "nombre": "Career Dreamer",
-    "categoria": "Productividad",
-    "subcategoria": ["Trabajo"],
-    "precio": "gratis",
-    "etiquetas": ["Destacada"],
-    "enlace": "https://grow.google/career-dreamer/home",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Explora posibilidades profesionales personalizadas.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Herramienta experimental que usa IA para facilitar la exploración de carreras adaptadas a tus habilidades e intereses.",
-    "fechaAlta": "2025-11-21"
-  },
-  {
     "id": "whisk",
     "nombre": "Whisk",
     "categoria": "Multimedia",
-    "subcategoria": ["Historias"],
+    "subcategoria": [
+      "Historias"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://labs.google/fx/tools/whisk",
     "imagen": "",
     "imagenes": [],
@@ -3987,9 +4261,13 @@
     "id": "imagefx",
     "nombre": "ImageFX",
     "categoria": "Multimedia",
-    "subcategoria": ["Imagen"],
+    "subcategoria": [
+      "Imagen"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://labs.google/imagefx",
     "imagen": "",
     "imagenes": [],
@@ -4002,9 +4280,13 @@
     "id": "textfx",
     "nombre": "TextFX",
     "categoria": "Asistentes",
-    "subcategoria": ["Texto"],
+    "subcategoria": [
+      "Texto"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://textfx.withgoogle.com/",
     "imagen": "",
     "imagenes": [],
@@ -4017,9 +4299,13 @@
     "id": "firebase-studio",
     "nombre": "Firebase Studio",
     "categoria": "Desarrollo",
-    "subcategoria": ["Programación"],
+    "subcategoria": [
+      "Programación"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://firebase.studio/",
     "imagen": "",
     "imagenes": [],
@@ -4031,10 +4317,14 @@
   {
     "id": "illuminate",
     "nombre": "Illuminate",
-    "categoria": "Educación",
-    "subcategoria": ["Investigación"],
+    "categoria": "Multimedia",
+    "subcategoria": [
+      "Audio"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://illuminate.google.com/",
     "imagen": "",
     "imagenes": [],
@@ -4047,9 +4337,13 @@
     "id": "musicfx",
     "nombre": "MusicFX",
     "categoria": "Multimedia",
-    "subcategoria": ["Música"],
+    "subcategoria": [
+      "Música"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://labs.google/fx/tools/music-fx/unsupported-country",
     "imagen": "",
     "imagenes": [],
@@ -4061,10 +4355,14 @@
   {
     "id": "google-vids",
     "nombre": "Google Vids",
-    "categoria": "Negocios",
-    "subcategoria": ["Video"],
+    "categoria": "Multimedia",
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://workspace.google.com/business/vids/",
     "imagen": "",
     "imagenes": [],
@@ -4077,9 +4375,13 @@
     "id": "gentype",
     "nombre": "GenType",
     "categoria": "Diseño",
-    "subcategoria": ["Tipografía"],
+    "subcategoria": [
+      "Tipografía"
+    ],
     "precio": "gratis",
-    "etiquetas": ["Destacada"],
+    "etiquetas": [
+      "Destacada"
+    ],
     "enlace": "https://labs.google/gentype",
     "imagen": "",
     "imagenes": [],
@@ -4092,7 +4394,9 @@
     "id": "google-antigravity",
     "nombre": "Google Antigravity",
     "categoria": "Desarrollo",
-    "subcategoria": ["Programación"],
+    "subcategoria": [
+      "Programación"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -4109,7 +4413,9 @@
     "id": "cursor-ai",
     "nombre": "Cursor",
     "categoria": "Desarrollo",
-    "subcategoria": ["Programación"],
+    "subcategoria": [
+      "Programación"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -4126,7 +4432,9 @@
     "id": "meshy-ai",
     "nombre": "Meshy",
     "categoria": "Diseño",
-    "subcategoria": ["3D"],
+    "subcategoria": [
+      "3D"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -4142,8 +4450,10 @@
   {
     "id": "gamma-app",
     "nombre": "Gamma",
-    "categoria": "Productividad",
-    "subcategoria": ["Presentaciones"],
+    "categoria": "Diseño",
+    "subcategoria": [
+      "Presentaciones"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -4160,7 +4470,9 @@
     "id": "lupa-upscaler",
     "nombre": "Lupa Upscaler",
     "categoria": "Multimedia",
-    "subcategoria": ["Imagen"],
+    "subcategoria": [
+      "Imagen"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -4177,7 +4489,9 @@
     "id": "wan-video",
     "nombre": "Wan Video",
     "categoria": "Multimedia",
-    "subcategoria": ["Video"],
+    "subcategoria": [
+      "Video"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -4194,7 +4508,9 @@
     "id": "google-ai-studio-apps",
     "nombre": "Google AI Studio Apps",
     "categoria": "Desarrollo",
-    "subcategoria": ["Prompt Engineering"],
+    "subcategoria": [
+      "Programación"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -4211,7 +4527,9 @@
     "id": "hunyuan3d-2",
     "nombre": "Hunyuan3D 2",
     "categoria": "Diseño",
-    "subcategoria": ["3D"],
+    "subcategoria": [
+      "3D"
+    ],
     "precio": "gratis",
     "etiquetas": [
       "Destacada"
@@ -4222,6 +4540,25 @@
     "descripcion": "Modelo avanzado de generación 3D de Tencent.",
     "pruebaGratis": true,
     "descripcionDetallada": "La segunda versión del modelo Hunyuan3D de Tencent. Es capaz de generar assets 3D de alta fidelidad tanto desde texto como desde una sola imagen, mejorando significativamente la geometría y las texturas respecto a versiones anteriores.",
+    "fechaAlta": "2025-11-21"
+  },
+  {
+    "id": "n8n",
+    "nombre": "n8n",
+    "categoria": "Servicios",
+    "subcategoria": [
+      "Automatización"
+    ],
+    "precio": "gratis",
+    "etiquetas": [
+      "Destacada"
+    ],
+    "enlace": "https://n8n.io/",
+    "imagen": "",
+    "imagenes": [],
+    "descripcion": "Automatización de flujos de trabajo potente y auto-alojable.",
+    "pruebaGratis": true,
+    "descripcionDetallada": "Herramienta líder en automatización de flujos de trabajo basada en nodos. A diferencia de otras alternativas, n8n es 'fair-code', lo que permite alojarla en tu propio servidor de forma gratuita o usar su versión en la nube. Destaca por su flexibilidad, permitiendo conectar cualquier API y usar JavaScript para lógica compleja.",
     "fechaAlta": "2025-11-21"
   }
 ]

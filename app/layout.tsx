@@ -28,7 +28,7 @@ const orbitron = Orbitron({
 export const metadata: Metadata = {
   title: "WikipeIA | Herramientas IA",
   description: "Directorio de herramientas IA en español.",
-  icons: [{ url: "/favicon.ico", rel: "icon", type: "image/x-icon" ,sizes: "32x32"}],
+  icons: [{ url: "/favicon.ico", rel: "icon", type: "image/x-icon", sizes: "32x32" }],
 };
 
 export default function RootLayout({
@@ -46,44 +46,44 @@ export default function RootLayout({
       <body className={`${geistSans.variable} ${geistMono.variable} ${orbitron.variable} antialiased`} suppressHydrationWarning>
         <CookieProvider>
           <FavoritesProvider>
-          <header className="w-full border-b border-black/10 dark:border-white/15 sticky top-0 z-40 backdrop-blur supports-[backdrop-filter]:bg-black/30">
-            <div className="max-w-6xl mx-auto p-3 sm:p-4 flex items-center justify-between gap-4">
-              <Link href="/" className="inline-flex items-center gap-3">
-                <Image src="/logo.png" alt="Logo" className="h-8 w-8" width={32} height={32} priority />
-                <span className="text-base sm:text-lg font-semibold tracking-tight font-display">WikipeIA</span>
-              </Link>
-              <div className="flex items-center gap-3">
-                <Link 
-                  href="/informacion"
-                  className="inline-flex items-center justify-center rounded-lg px-4 py-2 text-sm font-medium border border-white/20 text-white/85 hover:text-white hover:bg-white/10 hover:border-white/30 transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/40 hover:ring-1 hover:ring-white/30 active:scale-95 active:transform"
-                >
-                  Información
+            <header className="w-full border-b border-black/10 dark:border-white/15 sticky top-0 z-40 backdrop-blur supports-[backdrop-filter]:bg-black/30">
+              <div className="max-w-6xl mx-auto p-3 sm:p-4 flex items-center justify-between gap-4">
+                <Link href="/" className="inline-flex items-center gap-3">
+                  <Image src="/logo.png" alt="Logo" className="h-8 w-8" width={32} height={32} priority />
+                  <span className="text-base sm:text-lg font-semibold tracking-tight font-display">WikipeIA</span>
                 </Link>
-                <ContactButton />
+                <div className="flex items-center gap-3">
+                  <Link
+                    href="/informacion"
+                    className="inline-flex items-center justify-center rounded-lg px-4 py-2 text-sm font-medium border border-white/20 text-white/85 hover:text-white hover:bg-white/10 hover:border-white/30 transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/40 hover:ring-1 hover:ring-white/30 active:scale-95 active:transform"
+                  >
+                    Información
+                  </Link>
+                  <ContactButton />
+                </div>
               </div>
+            </header>
+            <div className="max-w-6xl mx-auto px-4 sm:px-6 pt-0 pb-16">
+              {children}
             </div>
-          </header>
-          <div className="max-w-6xl mx-auto px-4 sm:px-6 pt-0 pb-16">
-            {children}
-          </div>
-          <footer className="w-full border-t border-white/10 py-10 mt-8">
-            <div className="max-w-6xl mx-auto px-4 sm:px-6 text-sm text-white/70 flex flex-col sm:flex-row items-center justify-between gap-4">
-              <div className="inline-flex items-center gap-2">
-                <Image src="/logo.png" alt="Logo" className="h-5 w-5" width={20} height={20} />
-                <span> {year} WikipeIA. Todos los derechos reservados.</span>
+            <footer className="w-full border-t border-white/10 py-10 mt-8">
+              <div className="max-w-6xl mx-auto px-4 sm:px-6 text-sm text-white/70 flex flex-col sm:flex-row items-center justify-between gap-4">
+                <div className="inline-flex items-center gap-2">
+                  <Image src="/logo.png" alt="Logo" className="h-5 w-5" width={20} height={20} />
+                  <span> {year} WikipeIA. Todos los derechos reservados.</span>
+                </div>
+                <div className="inline-flex items-center gap-4">
+                  <Link href="/privacidad" className="hover:text-white transition link-neon">Privacidad</Link>
+                  <Link href="/terminos" className="hover:text-white transition link-neon">Términos</Link>
+                </div>
               </div>
-              <div className="inline-flex items-center gap-4">
-                <Link href="/privacidad" className="hover:text-white transition link-neon">Privacidad</Link>
-                <Link href="/terminos" className="hover:text-white transition link-neon">Términos</Link>
-              </div>
-            </div>
-          </footer>
-          
-          {/* Cookie Components */}
-          <CookieBanner />
-          <CookieSettings />
-          <CookieGearButton />
-          
+            </footer>
+
+            {/* Cookie Components */}
+            <CookieBanner />
+            <CookieSettings />
+            <CookieGearButton />
+
           </FavoritesProvider>
         </CookieProvider>
       </body>

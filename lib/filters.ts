@@ -19,13 +19,13 @@ export function filterByQuery(tools: Tool[], query: string): Tool[] {
 
 export function filterByCategory(tools: Tool[], categoria: string, subcategoria?: string): Tool[] {
   if (!categoria || categoria === "Todas las categorías") return tools;
-  
+
   // Primero filtramos por categoría
   const byCategory = tools.filter((t) => t.categoria === categoria);
-  
+
   // Si no hay subcategoría seleccionada, devolvemos todas las herramientas de la categoría
   if (!subcategoria) return byCategory;
-  
+
   // Si hay una subcategoría seleccionada, filtramos por ella
   return byCategory.filter((t) => t.subcategoria?.includes(subcategoria));
 }

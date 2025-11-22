@@ -6,13 +6,12 @@ import type { Tool } from "@/lib/types";
 
 // Mapa de subcategorías por categoría
 const SUBCATEGORIES: Record<string, string[]> = {
-  "Multimedia": ["Videos", "Música", "Imágenes"],
-  "Diseño": ["Logos", "Realista", "Redes Sociales"],
+  "Multimedia": ["Video", "Música", "Imagen", "Audio", "Redes Sociales"],
+  "Diseño": ["Logos", "Realista", "3D", "Multimedia", "Documentos", "Presentaciones", "Tipografía"],
   "Marketing": ["Contenido", "Redes Sociales", "SEO", "Publicidad", "Análisis", "Decisiones"],
-  "Asistentes": ["Legal", "Texto", "Especializado"],
-  "Clientes": ["Ventas", "Automatización", "Chatbots", "Soporte", "Especializado"],
-  "Desarrollo": ["Código", "LLM", "Contenido"],
-  "Productividad": ["Tareas", "Email"],
+  "Asistentes": ["Texto", "Especializado", "Contenido", "Idiomas", "Navegador", "Reuniones"],
+  "Servicios": ["Automatización", "Email", "Agentes", "Análisis", "Documentos", "Texto"],
+  "Desarrollo": ["Programación", "LLM", "Contenido", "Diseño", "UI/UX"],
 };
 
 function CategorySelect({
@@ -32,17 +31,17 @@ function CategorySelect({
 }) {
   const [isOpen, setIsOpen] = useState(false);
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
-  
+
   // Filtrar categorías (excluir "Todas las categorías")
   const categoryOptions = categories.filter(c => c !== "Todas las categorías");
 
   // Obtener subcategorías únicas para la categoría seleccionada
   const getSubcategories = (category: string | null): string[] => {
     if (!category || category === "Todas las categorías") return [];
-    
+
     // Obtener subcategorías del mapa estático
     const staticSubcategories = SUBCATEGORIES[category] || [];
-    
+
     // Obtener subcategorías de las herramientas existentes
     const toolSubcategories = new Set<string>();
     tools
@@ -50,10 +49,10 @@ function CategorySelect({
       .forEach(tool => {
         tool.subcategoria?.forEach(sub => toolSubcategories.add(sub));
       });
-    
+
     // Combinar y eliminar duplicados
     const allSubcategories = [...new Set([...staticSubcategories, ...Array.from(toolSubcategories)])];
-    
+
     return allSubcategories.sort();
   };
 
@@ -149,11 +148,10 @@ function CategorySelect({
               <motion.button
                 key="Todas las categorías"
                 onClick={() => handleCategorySelect("Todas las categorías")}
-                className={`rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${
-                  value === "Todas las categorías"
-                    ? getCategoryColor("Todas las categorías")
-                    : "border-white/15 text-white/85 hover:bg-white/5 focus-visible:ring-white/30"
-                }`}
+                className={`rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${value === "Todas las categorías"
+                  ? getCategoryColor("Todas las categorías")
+                  : "border-white/15 text-white/85 hover:bg-white/5 focus-visible:ring-white/30"
+                  }`}
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
@@ -165,11 +163,10 @@ function CategorySelect({
                 <motion.button
                   key={category}
                   onClick={() => handleCategorySelect(category)}
-                  className={`rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${
-                    value === category
-                      ? getCategoryColor(category)
-                      : "border-white/15 text-white/85 hover:bg-white/5 focus-visible:ring-white/30"
-                  }`}
+                  className={`rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${value === category
+                    ? getCategoryColor(category)
+                    : "border-white/15 text-white/85 hover:bg-white/5 focus-visible:ring-white/30"
+                    }`}
                   initial={{ opacity: 0, y: 10 }}
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: index * 0.05, duration: 0.3 }}
@@ -197,11 +194,10 @@ function CategorySelect({
           {/* Botón para limpiar subcategoría */}
           <motion.button
             onClick={handleClearSubcategory}
-            className={`rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${
-              !selectedSubcategory
-                ? getCategoryColor(selectedCategory)
-                : `border-white/15 text-white/85 hover:bg-white/5 focus-visible:ring-white/30`
-            }`}
+            className={`rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${!selectedSubcategory
+              ? getCategoryColor(selectedCategory)
+              : `border-white/15 text-white/85 hover:bg-white/5 focus-visible:ring-white/30`
+              }`}
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
