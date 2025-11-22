@@ -8,7 +8,7 @@ import type { Tool } from "@/lib/types";
 const SUBCATEGORIES: Record<string, string[]> = {
   "Multimedia": ["Video", "Música", "Imagen", "Audio", "Redes Sociales"],
   "Diseño": ["Logos", "Realista", "3D", "Multimedia", "Documentos", "Presentaciones", "Tipografía"],
-  "Marketing": ["Contenido", "Redes Sociales", "SEO", "Publicidad", "Análisis", "Decisiones"],
+  "Marketing": ["Contenido", "Redes Sociales", "SEO", "Publicidad", "Análisis", "Email", "Multimedia", "Planificación", "Productividad", "Publicidad", "Texto"],
   "Asistentes": ["Texto", "Especializado", "Contenido", "Idiomas", "Navegador", "Reuniones"],
   "Servicios": ["Automatización", "Email", "Agentes", "Análisis", "Documentos", "Texto"],
   "Desarrollo": ["Programación", "LLM", "Contenido", "Diseño", "UI/UX"],
@@ -71,22 +71,21 @@ function CategorySelect({
   // Colores para cada categoría
   const getCategoryColor = (category: string) => {
     const colors = {
-      "Todas las categorías": "bg-blue-500/20 border-blue-400/50 text-blue-300",
+      "Todas las categorías": "border-gray-300 dark:border-white/15 bg-white dark:bg-zinc-900/70 text-gray-900 dark:text-white/85",
       "Marketing": "bg-pink-500/20 border-pink-400/50 text-pink-300",
-      "Multimedia": "bg-emerald-500/20 border-emerald-400/50 text-emerald-300",
+      "Desarrollo": "bg-emerald-500/20 border-emerald-400/50 text-emerald-300",
       "Diseño": "bg-red-500/20 border-red-400/50 text-red-300",
       "Contenido": "bg-orange-500/20 border-orange-400/50 text-orange-300",
-      "Asistentes": "bg-cyan-500/20 border-cyan-400/50 text-cyan-300",
-      "Clientes": "bg-violet-500/20 border-violet-400/50 text-violet-300",
-      "Desarrollo": "bg-indigo-500/20 border-indigo-400/50 text-indigo-300",
-      "Productividad": "bg-yellow-500/20 border-yellow-400/50 text-yellow-300",
+      "Asistentes": "bg-violet-500/20 border-violet-400/50 text-violet-300",
+      "Multimedia": "bg-indigo-500/20 border-indigo-400/50 text-indigo-300",
+      "Servicios": "bg-yellow-500/20 border-yellow-400/50 text-yellow-300",
     };
     return colors[category as keyof typeof colors] || "bg-gray-500/20 border-gray-400/50 text-gray-300";
   };
 
   const getSelectorColor = (value: string) => {
     if (value === "Todas las categorías") {
-      return "border-white/15 bg-zinc-900/70 text-white/85";
+      return "border-gray-300 dark:border-white/15 bg-white dark:bg-zinc-900/70 text-gray-900 dark:text-white/85";
     }
     return getCategoryColor(value);
   };
@@ -150,7 +149,7 @@ function CategorySelect({
                 onClick={() => handleCategorySelect("Todas las categorías")}
                 className={`rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${value === "Todas las categorías"
                   ? getCategoryColor("Todas las categorías")
-                  : "border-white/15 text-white/85 hover:bg-white/5 focus-visible:ring-white/30"
+                  : "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30"
                   }`}
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
@@ -165,7 +164,7 @@ function CategorySelect({
                   onClick={() => handleCategorySelect(category)}
                   className={`rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${value === category
                     ? getCategoryColor(category)
-                    : "border-white/15 text-white/85 hover:bg-white/5 focus-visible:ring-white/30"
+                    : "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30"
                     }`}
                   initial={{ opacity: 0, y: 10 }}
                   animate={{ opacity: 1, y: 0 }}
@@ -196,7 +195,7 @@ function CategorySelect({
             onClick={handleClearSubcategory}
             className={`rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${!selectedSubcategory
               ? getCategoryColor(selectedCategory)
-              : `border-white/15 text-white/85 hover:bg-white/5 focus-visible:ring-white/30`
+              : `border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30`
               }`}
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
@@ -209,7 +208,7 @@ function CategorySelect({
             const isSelected = selectedSubcategory === subcategory;
             const baseClass = "rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon";
             const selectedClass = getCategoryColor(selectedCategory);
-            const unselectedClass = "border-white/15 text-white/85 hover:bg-white/5 focus-visible:ring-white/30";
+            const unselectedClass = "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30";
 
             return (
               <motion.button

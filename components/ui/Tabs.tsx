@@ -20,8 +20,12 @@ function Tabs({
         return "border border-black bg-black text-white dark:border-white dark:bg-white dark:text-black focus-visible:ring-white/40";
       case "Destacadas":
         return "border border-yellow-500/30 bg-yellow-500/10 text-yellow-400 focus-visible:ring-yellow-400/40";
-      default:
+      case "Nuevas":
         return "border border-[#00d4ff] bg-[#00d4ff]/20 text-[#00d4ff] focus-visible:ring-[#00d4ff]/40";
+      case "Todas":
+        return "border-gray-300 dark:border-white/15 bg-white dark:bg-zinc-900/70 text-gray-900 dark:text-white/85";
+      default:
+        return "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30";
     }
   };
 
@@ -33,14 +37,13 @@ function Tabs({
           <button
             key={t}
             onClick={() => onChange(t)}
-            className={
-              "rounded-full px-4 py-2 text-sm transition focus-visible:outline-none focus-visible:ring-2 tab-neon " +
-              (active
-                ? getActiveStyles(t)
-                : "border border-white/15 text-white/85 hover:bg-white/5 focus-visible:ring-white/30 hover:ring-1 hover:ring-white/30")
-            }
+            className={`rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${active
+              ? getActiveStyles(t)
+              : "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30"
+              }`}
             role="tab"
             aria-selected={active}
+            aria-pressed={active}
             tabIndex={active ? 0 : -1}
           >
             {t}

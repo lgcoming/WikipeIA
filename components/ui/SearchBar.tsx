@@ -7,7 +7,7 @@ export default function SearchBar({
   value,
   onChange,
   onChangeDebounced,
-  placeholder = "Busca herramientas IA...",
+  placeholder = "Busca herramientas",
   autoFocus = true,
 }: {
   value: string;
@@ -57,7 +57,7 @@ export default function SearchBar({
         <motion.input
           id="wikipeia-search"
           ref={inputRef}
-          className="w-full rounded-xl border bg-white/95 dark:bg-zinc-900/80 pl-9 pr-3 py-2.5 text-sm sm:text-base outline-none shadow-sm focus:ring-0"
+          className="w-full rounded-xl border border-gray-300 dark:border-white/15 bg-white/95 dark:bg-zinc-900/80 pl-9 pr-3 py-2.5 text-sm sm:text-base outline-none shadow-sm focus:ring-0"
           type="text"
           value={internal}
           onChange={(e) => {
@@ -69,18 +69,10 @@ export default function SearchBar({
           placeholder={placeholder}
           autoFocus={autoFocus}
           aria-label="Buscador de herramientas"
-          animate={{ borderColor: focused ? "var(--accent)" : "rgba(255,255,255,0.15)" }}
+          animate={{ borderColor: focused ? "var(--accent)" : undefined }}
           transition={{ duration: 0.28, ease: "easeOut" }}
         />
       </div>
-      <motion.div
-        className="mt-6 text-sm text-black/50 dark:text-white/60"
-        initial={false}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.4, ease: "easeOut" }}
-      >
-        Pulsa Enter para ir al buscador
-      </motion.div>
     </div>
   );
 }

@@ -150,7 +150,7 @@
     "nombre": "BHuman",
     "categoria": "Marketing",
     "subcategoria": [
-      "Video"
+      "Multimedia"
     ],
     "precio": "pago",
     "etiquetas": [],
@@ -1451,7 +1451,7 @@
     "subcategoria": [
       "Multimedia"
     ],
-    "precio": "pago",
+    "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://avmapping.co/",
     "imagen": "",
@@ -1987,7 +1987,7 @@
     "nombre": "Rationale",
     "categoria": "Marketing",
     "subcategoria": [
-      "Decisiones"
+      "Planificación"
     ],
     "precio": "pago",
     "etiquetas": [],
@@ -2237,7 +2237,7 @@
     "nombre": "Peech",
     "categoria": "Marketing",
     "subcategoria": [
-      "Video"
+      "Multimedia"
     ],
     "precio": "pago",
     "etiquetas": [],

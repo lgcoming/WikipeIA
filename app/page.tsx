@@ -65,11 +65,11 @@ export default function Home() {
           style={{ width: "100vw", marginLeft: "calc(50% - 50vw)", marginRight: "calc(50% - 50vw)" }}
         >
           <section
-            className="relative w-full overflow-hidden pt-16 sm:pt-24 pb-1 sm:pb-2 border-b border-black/10 dark:border-white/15 bg-gradient-to-b from-[#020617] via-[#0b1220] to-[#020617]"
+            className="relative w-full overflow-hidden pt-16 sm:pt-24 pb-6 sm:pb-8 border-b border-gray-400 dark:border-white/15 bg-gradient-to-b from-blue-50 via-white to-blue-50 dark:from-[#020617] dark:via-[#0b1220] dark:to-[#020617]"
             suppressHydrationWarning
           >
-            {/* Efectos futuristas neon eléctricos AMOLED */}
-            <div className="absolute inset-0 overflow-hidden">
+            {/* Efectos futuristas neon eléctricos AMOLED - solo en dark mode */}
+            <div className="absolute inset-0 overflow-hidden hidden dark:block">
               {/* Base AMOLED profunda */}
               <div className="absolute inset-0 bg-gradient-to-b from-[#020617] via-[#0b1220] to-[#020617]" />
 
@@ -111,6 +111,26 @@ export default function Home() {
               }} />
             </div>
 
+            {/* Efectos para light mode - versión sutil */}
+            <div className="absolute inset-0 overflow-hidden block dark:hidden">
+              {/* Efectos de brillo central - versión light */}
+              <div className="absolute inset-0" style={{
+                backgroundImage: `radial-gradient(900px 400px at 50% -15%, rgba(0,140,200,0.06), transparent 60%)`
+              }} />
+              <div className="absolute inset-0" style={{
+                backgroundImage: `linear-gradient(120deg, rgba(100,150,200,0.03) 0%, rgba(150,180,220,0.02) 30%, transparent 60%)`
+              }} />
+
+              {/* Degradado fluido sutil para light mode */}
+              <div className="absolute inset-0 neon-flow-light" />
+
+              {/* Efecto de grid muy sutil */}
+              <div className="absolute inset-0" style={{
+                backgroundImage: `repeating-linear-gradient(35deg, rgba(100,120,150,0.03) 0px, rgba(100,120,150,0.03) 1px, transparent 1px, transparent 28px)`,
+                opacity: .08
+              }} />
+            </div>
+
             {/* Contenido hero: animación de entrada visible (sólo en cliente) */}
             <motion.div
               initial={false}
@@ -118,7 +138,7 @@ export default function Home() {
               transition={{ type: "spring", stiffness: 180, damping: 26, mass: 0.9, duration: 0.55 }}
               className="relative z-10 mx-auto max-w-3xl px-4 text-center -translate-y-4 sm:-translate-y-6 md:-translate-y-8"
             >
-              <p className="text-lg sm:text-xl md:text-3xl leading-relaxed text-white/95 font-display tracking-wide drop-shadow-lg">
+              <p className="text-lg sm:text-xl md:text-3xl leading-relaxed text-gray-800 dark:text-white/95 font-display tracking-wide">
                 Tu wikipedia de múltiples herramientas IA. Filtra por categorías y descubre.
               </p>
               <div className="mt-8 flex justify-center">

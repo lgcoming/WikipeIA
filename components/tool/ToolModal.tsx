@@ -38,16 +38,16 @@ export default function ToolModal({
   const next = useCallback(() => setIndex((i) => clamp(i + 1)), [clamp]);
   const prev = useCallback(() => setIndex((i) => clamp(i - 1)), [clamp]);
   const setSlide = useCallback((i: number) => setIndex(clamp(i)), [clamp]);
-  
+
   const toggleFullscreen = useCallback(() => {
     setIsFullscreen(!isFullscreen);
     if (!isFullscreen) setZoom(1);
   }, [isFullscreen]);
-  
+
   const handleZoomIn = useCallback(() => {
     setZoom(prev => Math.min(prev + 0.5, 3));
   }, []);
-  
+
   const handleZoomOut = useCallback(() => {
     setZoom(prev => Math.max(prev - 0.5, 0.5));
   }, []);
@@ -112,16 +112,16 @@ export default function ToolModal({
               className="relative max-w-full max-h-full"
               style={{ transform: `scale(${zoom})` }}
             >
-              <Image 
-                src={images[index]} 
-                alt={`${tool.nombre} ${index + 1}`} 
+              <Image
+                src={images[index]}
+                alt={`${tool.nombre} ${index + 1}`}
                 width={1200}
                 height={800}
-                unoptimized 
-                className="object-contain max-w-full max-h-full" 
+                unoptimized
+                className="object-contain max-w-full max-h-full"
               />
             </motion.div>
-            
+
             {/* Controles de pantalla completa */}
             <div className="absolute top-4 right-4 flex gap-2">
               <button
@@ -146,7 +146,7 @@ export default function ToolModal({
                 ✕
               </button>
             </div>
-            
+
             {/* Navegación en pantalla completa */}
             {images.length > 1 && (
               <>
@@ -166,7 +166,7 @@ export default function ToolModal({
                 </button>
               </>
             )}
-            
+
             {/* Indicador de imagen */}
             {images.length > 1 && (
               <div className="absolute bottom-4 left-1/2 -translate-x-1/2 bg-black/70 backdrop-blur-sm px-3 py-1 rounded-lg text-white text-sm">
@@ -192,7 +192,7 @@ export default function ToolModal({
       >
         {/* Overlay */}
         <motion.div
-          className="absolute inset-0 bg-black/75 backdrop-blur-sm"
+          className="absolute inset-0 bg-black/40 dark:bg-black/75 backdrop-blur-sm"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           exit={{ opacity: 0 }}
@@ -200,7 +200,7 @@ export default function ToolModal({
 
         {/* Panel */}
         <motion.div
-          className="relative z-10 w-full max-w-6xl max-h-[90vh] overflow-y-auto rounded-2xl border border-white/15 bg-zinc-950 text-white shadow-2xl"
+          className="relative z-10 w-full max-w-6xl max-h-[90vh] overflow-y-auto rounded-2xl border border-gray-200 dark:border-white/15 bg-white dark:bg-zinc-950 text-gray-900 dark:text-white shadow-2xl"
           onClick={(e) => e.stopPropagation()}
           initial={{ opacity: 0, y: 8, scale: 0.98 }}
           animate={{ opacity: 1, y: 0, scale: 1 }}
@@ -209,18 +209,18 @@ export default function ToolModal({
           layout
         >
           {/* Header con botón cerrar */}
-          <div className="sticky top-0 z-20 flex items-center justify-between border-b border-white/10 bg-zinc-950/95 backdrop-blur-sm px-5 py-3.5">
+          <div className="sticky top-0 z-20 flex items-center justify-between border-b border-gray-200 dark:border-white/10 bg-white/95 dark:bg-zinc-950/95 backdrop-blur-sm px-5 py-3.5">
             <div className="flex items-center gap-2.5">
-              <h2 className="text-xl font-semibold">{tool.nombre}</h2>
+              <h2 className="text-xl font-semibold text-gray-900 dark:text-white">{tool.nombre}</h2>
               {tool.etiquetas?.includes("Destacada") && (
-                <span className="rounded-full bg-yellow-500/20 px-2.5 py-0.5 text-xs font-medium text-yellow-400">
+                <span className="rounded-full bg-yellow-500/20 px-2.5 py-0.5 text-xs font-medium text-yellow-600 dark:text-yellow-400">
                   ⭐ Destacada
                 </span>
               )}
             </div>
             <button
               onClick={onClose}
-              className="shrink-0 rounded-lg border border-white/15 p-2 hover:bg-red-500/20 hover:border-red-500/50 transition"
+              className="shrink-0 rounded-lg border border-gray-300 dark:border-white/15 p-2 hover:bg-red-500/20 hover:border-red-500/50 transition text-gray-700 dark:text-white"
               aria-label="Cerrar"
             >
               <svg className="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -231,8 +231,8 @@ export default function ToolModal({
 
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-0">
             {/* Columna izquierda: Galería */}
-            <div className="relative p-3 bg-white/[0.02] flex items-center justify-center lg:col-span-2">
-              <div className="relative overflow-hidden rounded-xl aspect-[18/9] shadow-xl border border-white/10 w-full h-full">
+            <div className="relative p-3 bg-gray-50 dark:bg-white/[0.02] flex items-center justify-center lg:col-span-2">
+              <div className="relative overflow-hidden rounded-xl aspect-[18/9] shadow-xl border border-gray-200 dark:border-white/10 w-full h-full">
                 <motion.div
                   key={images[index]}
                   initial={{ opacity: 0 }}
@@ -241,12 +241,12 @@ export default function ToolModal({
                   transition={{ duration: 0.2 }}
                   className="relative h-full w-full flex items-center justify-center p-2"
                 >
-                  <Image 
-                    src={images[index]} 
-                    alt={`${tool.nombre} ${index + 1}`} 
-                    fill 
-                    unoptimized 
-                    className="object-contain" 
+                  <Image
+                    src={images[index]}
+                    alt={`${tool.nombre} ${index + 1}`}
+                    fill
+                    unoptimized
+                    className="object-contain"
                   />
                 </motion.div>
                 {images.length > 1 && (
@@ -294,16 +294,16 @@ export default function ToolModal({
             </div>
 
             {/* Columna derecha: Información */}
-            <div className="flex flex-col border-t lg:border-t-0 lg:border-l border-white/10 py-5 px-5 gap-3.5">
+            <div className="flex flex-col border-t lg:border-t-0 lg:border-l border-gray-200 dark:border-white/10 py-5 px-5 gap-3.5">
               {/* Descripción breve */}
               <div>
-                <h3 className="text-xs font-semibold text-white/50 uppercase tracking-wide mb-1.5">Descripción</h3>
-                <p className="text-sm text-white/90 leading-snug">{tool.descripcion}</p>
+                <h3 className="text-xs font-semibold text-gray-500 dark:text-white/50 uppercase tracking-wide mb-1.5">Descripción</h3>
+                <p className="text-sm text-gray-700 dark:text-white/90 leading-snug">{tool.descripcion}</p>
               </div>
 
               {/* Metadatos */}
               <div>
-                <h3 className="text-xs font-semibold text-white/50 uppercase tracking-wide mb-1.5">Información</h3>
+                <h3 className="text-xs font-semibold text-gray-500 dark:text-white/50 uppercase tracking-wide mb-1.5">Información</h3>
                 <div className="flex flex-wrap gap-1.5">
                   <span className="inline-flex items-center gap-1.5 text-xs rounded-full border border-white/20 bg-white/5 px-2.5 py-0.5 text-white/90">
                     <svg className="h-3.5 w-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -336,13 +336,13 @@ export default function ToolModal({
               {/* Descripción detallada */}
               {tool.descripcionDetallada && (
                 <div>
-                  <h3 className="text-xs font-semibold text-white/50 uppercase tracking-wide mb-1.5">Detalles</h3>
-                  <p className="text-sm text-white/75 leading-snug">{tool.descripcionDetallada}</p>
+                  <h3 className="text-xs font-semibold text-gray-500 dark:text-white/50 uppercase tracking-wide mb-1.5">Detalles</h3>
+                  <p className="text-sm text-gray-700 dark:text-white/75 leading-snug">{tool.descripcionDetallada}</p>
                 </div>
               )}
 
               {/* Footer acciones */}
-              <div className="mt-auto pt-2.5 border-t border-white/10 flex items-center gap-1.5">
+              <div className="mt-auto pt-2.5 border-t border-gray-200 dark:border-white/10 flex items-center gap-1.5">
                 <a
                   href={tool.enlace}
                   target="_blank"
