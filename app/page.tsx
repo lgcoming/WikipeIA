@@ -138,7 +138,7 @@ export default function Home() {
               transition={{ type: "spring", stiffness: 180, damping: 26, mass: 0.9, duration: 0.55 }}
               className="relative z-10 mx-auto max-w-3xl px-4 text-center -translate-y-4 sm:-translate-y-6 md:-translate-y-8"
             >
-              <p className="text-lg sm:text-xl md:text-3xl leading-relaxed text-gray-800 dark:text-white/95 font-display tracking-wide">
+              <p className="text-xl sm:text-xl md:text-3xl leading-relaxed text-gray-800 dark:text-white/95 font-display tracking-wide">
                 Tu wikipedia de múltiples herramientas IA. Filtra por categorías y descubre.
               </p>
               <div className="mt-8 flex justify-center">
