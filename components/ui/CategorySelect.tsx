@@ -140,41 +140,43 @@ function CategorySelect({
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: -10, scale: 0.95 }}
             transition={{ duration: 0.2, ease: "easeOut" }}
-            className="flex flex-col items-center gap-4 w-full max-w-4xl"
+            className="flex flex-col items-center gap-4 w-full"
           >
-            <div className="flex flex-wrap justify-center gap-2 w-full">
-              {/* Botón "Todas" */}
-              <motion.button
-                key="Todas las categorías"
-                onClick={() => handleCategorySelect("Todas las categorías")}
-                className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${value === "Todas las categorías"
-                  ? getCategoryColor("Todas las categorías")
-                  : "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30"
-                  }`}
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
-                Todas
-              </motion.button>
-
-              {/* Botones de categorías */}
-              {categoryOptions.map((category, index) => (
+            <div className="flex justify-center w-full">
+              <div className="flex flex-wrap justify-center gap-3 max-w-7xl">
+                {/* Botón "Todas" */}
                 <motion.button
-                  key={category}
-                  onClick={() => handleCategorySelect(category)}
-                  className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${value === category
-                    ? getCategoryColor(category)
+                  key="Todas las categorías"
+                  onClick={() => handleCategorySelect("Todas las categorías")}
+                  className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon min-w-[110px] ${value === "Todas las categorías"
+                    ? getCategoryColor("Todas las categorías")
                     : "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30"
                     }`}
-                  initial={{ opacity: 0, y: 10 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ delay: index * 0.05, duration: 0.3 }}
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
                 >
-                  {category}
+                  Todas
                 </motion.button>
-              ))}
+
+                {/* Botones de categorías */}
+                {categoryOptions.map((category, index) => (
+                  <motion.button
+                    key={category}
+                    onClick={() => handleCategorySelect(category)}
+                    className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon min-w-[110px] ${value === category
+                      ? getCategoryColor(category)
+                      : "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30"
+                      }`}
+                    initial={{ opacity: 0, y: 10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: index * 0.05, duration: 0.3 }}
+                    whileHover={{ scale: 1.05 }}
+                    whileTap={{ scale: 0.95 }}
+                  >
+                    {category}
+                  </motion.button>
+                ))}
+              </div>
             </div>
 
             {/* Subcategorías dentro del panel: eliminado; ahora se renderizan fuera */}
@@ -185,7 +187,7 @@ function CategorySelect({
       {/* Subcategorías: visibles aunque el panel esté cerrado */}
       {selectedCategory && subcategories.length > 0 && (
         <motion.div
-          className="flex flex-wrap justify-center gap-2 w-full"
+          className="flex flex-wrap justify-center gap-3 w-full"
           initial={{ opacity: 0, y: -10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.2 }}
@@ -193,7 +195,7 @@ function CategorySelect({
           {/* Botón para limpiar subcategoría */}
           <motion.button
             onClick={handleClearSubcategory}
-            className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${!selectedSubcategory
+            className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon min-w-[110px] ${!selectedSubcategory
               ? getCategoryColor(selectedCategory)
               : `border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30`
               }`}
@@ -206,7 +208,7 @@ function CategorySelect({
           {/* Botones de subcategorías */}
           {subcategories.map((subcategory, index) => {
             const isSelected = selectedSubcategory === subcategory;
-            const baseClass = "rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon";
+            const baseClass = "rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon min-w-[110px]";
             const selectedClass = getCategoryColor(selectedCategory);
             const unselectedClass = "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30";
 
