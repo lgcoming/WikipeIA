@@ -19,8 +19,18 @@ export default function SearchBar({
   const [internal, setInternal] = useState(value);
   const inputRef = useRef<HTMLInputElement | null>(null);
   const [focused, setFocused] = useState(false);
+  const [shouldAutoFocus, setShouldAutoFocus] = useState(false);
 
   useEffect(() => setInternal(value), [value]);
+
+  // Detectar si es un dispositivo móvil y determinar si debe hacer autofocus
+  useEffect(() => {
+    // Solo hacer autofocus en desktop (no en móviles)
+    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+      navigator.userAgent
+    );
+    setShouldAutoFocus(autoFocus && !isMobile);
+  }, [autoFocus]);
 
   // Debounce for onChangeDebounced
   useEffect(() => {
@@ -67,7 +77,7 @@ export default function SearchBar({
           onFocus={() => setFocused(true)}
           onBlur={() => setFocused(false)}
           placeholder={placeholder}
-          autoFocus={autoFocus}
+          autoFocus={shouldAutoFocus}
           aria-label="Buscador de herramientas"
           animate={{ borderColor: focused ? "var(--accent)" : undefined }}
           transition={{ duration: 0.28, ease: "easeOut" }}

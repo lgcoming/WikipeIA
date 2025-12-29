@@ -37,7 +37,7 @@ function Tabs({
           <button
             key={t}
             onClick={() => onChange(t)}
-            className={`rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${active
+            className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${active
               ? getActiveStyles(t)
               : "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30"
               }`}

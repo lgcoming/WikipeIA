@@ -58,7 +58,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen w-full flex flex-col gap-8">
-      <main className="w-full flex flex-col items-center gap-3">
+      <main className="w-full flex flex-col items-center gap-5">
         {/* Full-width hero centrado y compacto (sin desplazamientos) */}
         <div
           className="relative"
@@ -141,7 +141,7 @@ export default function Home() {
               <p className="text-xl sm:text-xl md:text-3xl leading-relaxed text-gray-800 dark:text-white/95 font-display tracking-wide">
                 Tu wikipedia de múltiples herramientas IA. Filtra por categorías y descubre.
               </p>
-              <div className="mt-8 flex justify-center">
+              <div className="mt-10 flex justify-center">
                 <SearchBar value={query} onChange={setQuery} onChangeDebounced={setQuery} />
               </div>
             </motion.div>

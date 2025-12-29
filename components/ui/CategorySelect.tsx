@@ -121,11 +121,11 @@ function CategorySelect({
   };
 
   return (
-    <div className="w-full flex flex-col items-center gap-4">
+    <div className="w-full flex flex-col items-center gap-5">
       {/* Botón trigger */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className={`rounded-xl border px-4 py-2 text-sm outline-none shadow-sm focus:ring-2 focus:ring-white/40 hover:ring-1 hover:ring-white/30 min-w-[100px] ${getSelectorColor(value)}`}
+        className={`rounded-xl border px-5 py-2.5 text-lg outline-none shadow-sm focus:ring-2 focus:ring-white/40 hover:ring-1 hover:ring-white/30 min-w-[100px] ${getSelectorColor(value)}`}
         aria-label="Selector de categoría"
       >
         {value === "Todas las categorías" ? "Categorías" : value}
@@ -147,7 +147,7 @@ function CategorySelect({
               <motion.button
                 key="Todas las categorías"
                 onClick={() => handleCategorySelect("Todas las categorías")}
-                className={`rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${value === "Todas las categorías"
+                className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${value === "Todas las categorías"
                   ? getCategoryColor("Todas las categorías")
                   : "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30"
                   }`}
@@ -162,7 +162,7 @@ function CategorySelect({
                 <motion.button
                   key={category}
                   onClick={() => handleCategorySelect(category)}
-                  className={`rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${value === category
+                  className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${value === category
                     ? getCategoryColor(category)
                     : "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30"
                     }`}
@@ -193,7 +193,7 @@ function CategorySelect({
           {/* Botón para limpiar subcategoría */}
           <motion.button
             onClick={handleClearSubcategory}
-            className={`rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${!selectedSubcategory
+            className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon ${!selectedSubcategory
               ? getCategoryColor(selectedCategory)
               : `border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30`
               }`}
@@ -206,7 +206,7 @@ function CategorySelect({
           {/* Botones de subcategorías */}
           {subcategories.map((subcategory, index) => {
             const isSelected = selectedSubcategory === subcategory;
-            const baseClass = "rounded-full px-4 py-2 text-sm border transition focus-visible:outline-none focus-visible:ring-2 tab-neon";
+            const baseClass = "rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon";
             const selectedClass = getCategoryColor(selectedCategory);
             const unselectedClass = "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30";
 

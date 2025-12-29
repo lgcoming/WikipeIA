@@ -4560,24 +4560,5 @@
     "pruebaGratis": true,
     "descripcionDetallada": "Herramienta líder en automatización de flujos de trabajo basada en nodos. A diferencia de otras alternativas, n8n es 'fair-code', lo que permite alojarla en tu propio servidor de forma gratuita o usar su versión en la nube. Destaca por su flexibilidad, permitiendo conectar cualquier API y usar JavaScript para lógica compleja.",
     "fechaAlta": "2025-11-21"
-  },
-  {
-    "id": "stitch",
-    "nombre": "Stitch",
-    "categoria": "Multimedia",
-    "subcategoria": [
-      "Video"
-    ],
-    "precio": "gratis",
-    "etiquetas": [
-      "Destacada"
-    ],
-    "enlace": "https://stitch.withgoogle.com/",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Herramienta creativa para editar y combinar clips de vídeo con IA.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Stitch es una herramienta experimental de Google Labs que permite a los usuarios editar, combinar y transformar clips de vídeo de manera creativa utilizando inteligencia artificial. Facilita la creación de narrativas visuales coherentes al permitir 'coser' diferentes fragmentos de vídeo, ajustando estilos y transiciones mediante lenguaje natural para lograr resultados cinematográficos de forma sencilla.",
-    "fechaAlta": "2025-12-23"
   }
 ]
