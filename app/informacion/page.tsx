@@ -42,9 +42,8 @@ export default function InformacionPage() {
             </h2>
             <p className="text-gray-700 dark:text-white/80 leading-relaxed">
               En WikipeIA, creemos que la inteligencia artificial debe ser accesible para todos. Nuestra misión es
-              democratizar el acceso a herramientas de IA proporcionando un directorio curado, fácil de navegar y
-              completamente en español que ayude a usuarios, empresas y desarrolladores a encontrar exactamente
-              lo que necesitan.
+              facilitar el acceso a herramientas de IA proporcionando un directorio amplio, cuidado y fácil de navegar
+              que ayude a usuarios, empresas y desarrolladores a encontrar exactamente lo que necesitan.
             </p>
           </div>
 
@@ -59,7 +58,7 @@ export default function InformacionPage() {
                 <div className="flex items-start gap-3">
                   <span className="text-lg">📚</span>
                   <div>
-                    <h3 className="text-gray-900 dark:text-white font-medium mb-1">Curación Experta</h3>
+                    <h3 className="text-gray-900 dark:text-white font-medium mb-1">Revisión Experta</h3>
                     <p className="text-gray-600 dark:text-white/70 text-sm">Seleccionamos y evaluamos cada herramienta para garantizar calidad y relevancia.</p>
                   </div>
                 </div>
