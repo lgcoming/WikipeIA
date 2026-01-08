@@ -2837,9 +2837,9 @@
     "enlace": "https://machined.ai",
     "imagen": "",
     "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/machined.ai/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/machined.ai/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/machined.ai/3.jpg"
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Machined.ai/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Machined.ai/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Machined.ai/3.png"
     ],
     "descripcion": "Clusters inteligentes de contenido SEO automatizados con IA.",
     "pruebaGratis": true,
@@ -3217,7 +3217,11 @@
     "etiquetas": [],
     "enlace": "https://windsurf.com//",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Windsurf/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Windsurf/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Windsurf/3.png"
+    ],
     "descripcion": "Asistente de código gratuito para múltiples lenguajes.",
     "fechaAlta": "2025-10-03",
     "pruebaGratis": true,
@@ -3468,7 +3472,11 @@
     "etiquetas": [],
     "enlace": "https://www.jasper.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jasper/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jasper/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jasper/3.png"
+    ],
     "descripcion": "Asistente de escritura IA para marketing y contenido.",
     "pruebaGratis": true,
     "descripcionDetallada": "Jasper pensado para redacción larga y corta (blogs, landings, guiones). Normalmente incluye plantillas, control de tonos y exportación. Adecuado para equipos y creadores que priorizan calidad y ritmo.",
@@ -3715,7 +3723,9 @@
     "enlace": "https://fooocusai.ai/",
     "imagen": "",
     "imagenes": [
-      ""
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Fooocus/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Fooocus/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Fooocus/3.png"
     ],
     "descripcion": "Generador de imágenes con IA simplificado y potente.",
     "pruebaGratis": true,
@@ -3738,7 +3748,12 @@
     "descripcion": "Generador de videos AI con audio sincronizado.",
     "pruebaGratis": true,
     "descripcionDetallada": "Veo 3 Genera videos a partir de texto o imágenes con audio realista integrado (diálogo, efectos, ambiente). Permite controlar movimiento, objetos y consistencia visual. Ideal para narrativas rápidas, promociones o contenido audiovisual creativo.",
-    "fechaAlta": "2025-09-16"
+    "fechaAlta": "2025-09-16",
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Veo%203/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Veo%203/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Veo%203/3.png"
+    ]
   },
   {
     "id": "adobe-firefly",
@@ -4045,7 +4060,10 @@
     ],
     "enlace": "https://labs.google.com/pomelli/about/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pomelli/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Pomelli/2.png"
+    ],
     "descripcion": "Herramienta de marketing experimental para contenido de marca.",
     "pruebaGratis": true,
     "descripcionDetallada": "Pomelli es una herramienta impulsada por IA diseñada para crear contenido escalable y acorde con la marca para ayudarte a conectar con tu audiencia más rápido.",
@@ -4064,7 +4082,11 @@
     ],
     "enlace": "https://opal.google/landing/?source=labs",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Opal/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Opal/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Opal/3.png"
+    ],
     "descripcion": "Crea y comparte mini-apps de IA usando lenguaje natural.",
     "pruebaGratis": true,
     "descripcionDetallada": "Opal te ayuda a construir, editar y compartir mini aplicaciones impulsadas por inteligencia artificial simplemente describiendo lo que quieres con texto.",
@@ -4083,7 +4105,11 @@
     ],
     "enlace": "https://learnyourway.withgoogle.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Learn%20Your%20Way/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Learn%20Your%20Way/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Learn%20Your%20Way/3.png"
+    ],
     "descripcion": "Transforma contenido en experiencias de aprendizaje dinámicas.",
     "pruebaGratis": true,
     "descripcionDetallada": "Convierte cualquier contenido en una experiencia educativa atractiva y adaptada específicamente a tu estilo de aprendizaje.",
@@ -4102,7 +4128,10 @@
     ],
     "enlace": "https://labs.google/portraits/login",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Portraits/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Portraits/2.png"
+    ],
     "descripcion": "Conocimiento experto entregado por entrenadores de IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Experiencia de coaching personalizada creada junto a Kim Scott (autora de Radical Candor) y el experto en storytelling Matt Dicks.",
@@ -4121,7 +4150,11 @@
     ],
     "enlace": "https://labs.google/flow",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Flow/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Flow/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Flow/3.png"
+    ],
     "descripcion": "Herramienta de cine para crear escenas consistentes.",
     "pruebaGratis": true,
     "descripcionDetallada": "Permite crear clips cinematográficos, escenas e historias con consistencia visual utilizando los modelos más avanzados como Veo 3.",
@@ -4140,7 +4173,10 @@
     ],
     "enlace": "https://labs.google.com/mariner/landing",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Project%20Mariner/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Project%20Mariner/2.png"
+    ],
     "descripcion": "Prototipo de interacción humano-agente en navegadores.",
     "pruebaGratis": true,
     "descripcionDetallada": "Investigación que explora el futuro de la interacción con agentes de IA, comenzando por la experiencia en navegadores web.",
@@ -4159,7 +4195,11 @@
     ],
     "enlace": "https://stitch.withgoogle.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Stitch/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Stitch/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Stitch/3.png"
+    ],
     "descripcion": "Convierte prompts en diseños UI y código frontend.",
     "pruebaGratis": true,
     "descripcionDetallada": "Transforma ideas o imágenes en diseños de interfaces complejos y código, permite refinarlos vía chat y exportarlos a Figma.",
@@ -4178,7 +4218,11 @@
     ],
     "enlace": "https://jules.google/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jules/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jules/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Jules/3.png"
+    ],
     "descripcion": "Agente de código asíncrono para flujos de GitHub.",
     "pruebaGratis": true,
     "descripcionDetallada": "Automatiza tareas como arreglar bugs, escribir tests y añadir características directamente dentro de los flujos de trabajo de GitHub.",
@@ -4197,7 +4241,11 @@
     ],
     "enlace": "https://sparkify.withgoogle.com/explore",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Sparkify/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Sparkify/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Sparkify/3.png"
+    ],
     "descripcion": "Explora videos cortos creados con innovación IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Descubre videos generados con las últimas innovaciones de Google AI, incluyendo Gemini y Veo.",
@@ -4216,7 +4264,11 @@
     ],
     "enlace": "https://labs.google/lll/en",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Little%20Language%20Lessons/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Little%20Language%20Lessons/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Little%20Language%20Lessons/3.png"
+    ],
     "descripcion": "Lecciones de idiomas breves construidas con Gemini.",
     "pruebaGratis": true,
     "descripcionDetallada": "Una colección de experimentos de aprendizaje en formato pequeño para mejorar idiomas utilizando el modelo Gemini.",
@@ -4235,7 +4287,11 @@
     ],
     "enlace": "https://labs.google/fx/tools/whisk",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Whisk/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Whisk/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Whisk/3.png"
+    ],
     "descripcion": "Visualiza ideas usando imágenes como prompts.",
     "pruebaGratis": true,
     "descripcionDetallada": "Herramienta que te permite usar imágenes como punto de partida para visualizar tus ideas y contar historias.",
@@ -4254,7 +4310,9 @@
     ],
     "enlace": "https://labs.google/imagefx",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ImageFX/1.png"
+    ],
     "descripcion": "Transforma texto en imágenes con imaginación infinita.",
     "pruebaGratis": true,
     "descripcionDetallada": "Herramienta para crear imágenes de alta calidad y editarlas fácilmente mediante 'chips' de palabras clave.",
@@ -4273,7 +4331,11 @@
     ],
     "enlace": "https://textfx.withgoogle.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/TextFX/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/TextFX/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/TextFX/3.png"
+    ],
     "descripcion": "Genera posibilidades creativas de lenguaje.",
     "pruebaGratis": true,
     "descripcionDetallada": "Introduce una palabra y explora rimas, símiles y conceptos. Ideal para raperos, escritores y amantes de las palabras.",
@@ -4292,7 +4354,11 @@
     ],
     "enlace": "https://firebase.studio/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Firebase%20Studio/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Firebase%20Studio/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Firebase%20Studio/3.png"
+    ],
     "descripcion": "Construye apps de IA full-stack con Firebase.",
     "pruebaGratis": true,
     "descripcionDetallada": "Herramienta para integrar capacidades de GenAI en aplicaciones utilizando la infraestructura robusta de Firebase.",
@@ -4311,7 +4377,11 @@
     ],
     "enlace": "https://illuminate.google.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Illuminate/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Illuminate/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Illuminate/3.png"
+    ],
     "descripcion": "Convierte papers académicos en discusiones de audio.",
     "pruebaGratis": true,
     "descripcionDetallada": "Transforma documentos técnicos complejos en conversaciones de audio generadas por IA con un solo clic.",
@@ -4330,7 +4400,9 @@
     ],
     "enlace": "https://labs.google/fx/tools/music-fx/unsupported-country",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/MusicFX/1.png"
+    ],
     "descripcion": "Crea nuevos ritmos y libera a tu DJ interior.",
     "pruebaGratis": true,
     "descripcionDetallada": "Genera bucles musicales y composiciones originales basadas en descripciones de texto y emociones.",
@@ -4349,7 +4421,10 @@
     ],
     "enlace": "https://labs.google/gentype",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/GenType/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/GenType/2.png"
+    ],
     "descripcion": "Crea y descarga alfabetos generados por IA únicos.",
     "pruebaGratis": true,
     "descripcionDetallada": "Diseña, refina y descarga tipografías completas donde cada letra está formada por los objetos o materiales que tú decidas.",
@@ -4368,7 +4443,11 @@
     ],
     "enlace": "https://antigravity.google/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Google%20Antigravity/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Google%20Antigravity/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Google%20Antigravity/3.png"
+    ],
     "descripcion": "Nuevo entorno de desarrollo 'agent-first' impulsado por Gemini 3 Pro.",
     "pruebaGratis": true,
     "descripcionDetallada": "Lanzado en noviembre de 2025, Antigravity redefine la programación. No es solo un editor, es una plataforma de 'Mission Control' donde gestionas agentes autónomos que pueden planificar, escribir código, usar la terminal y navegar por la web por sí mismos para completar tareas complejas. Genera 'Artefactos' verificables en lugar de logs y permite usar modelos como Gemini 3 o Claude.",
@@ -4387,7 +4466,11 @@
     ],
     "enlace": "https://cursor.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Cursor/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Cursor/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Cursor/3.png"
+    ],
     "descripcion": "El editor de código con IA más avanzado construido sobre VS Code.",
     "pruebaGratis": true,
     "descripcionDetallada": "Herramienta independiente (no de Google) que ha marcado el estándar. Permite editar código en lenguaje natural ('Ctrl+K'), tiene un chat que conoce todo tu proyecto (Codebase indexing) y una función 'Copilot++' que predice tus siguientes cambios. Es el principal competidor al que Antigravity intenta superar.",
@@ -4406,7 +4489,11 @@
     ],
     "enlace": "https://www.meshy.ai/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Meshy/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Meshy/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Meshy/3.png"
+    ],
     "descripcion": "Generador de modelos 3D y texturas ultrarrápido.",
     "pruebaGratis": true,
     "descripcionDetallada": "Herramienta líder para artistas de juegos y diseñadores. Permite convertir texto o imágenes 2D en modelos 3D detallados con texturas PBR en menos de un minuto, facilitando el flujo de trabajo en desarrollo de videojuegos y AR/VR.",
@@ -4425,7 +4512,11 @@
     ],
     "enlace": "https://gamma.app/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Gamma/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Gamma/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Gamma/3.png"
+    ],
     "descripcion": "Crea presentaciones, documentos y sitios web en segundos.",
     "pruebaGratis": true,
     "descripcionDetallada": "Gamma rompe con el formato tradicional de diapositivas. Solo escribes el tema o subes tus notas, y la IA genera una presentación visualmente pulida, interactiva y adaptable a cualquier dispositivo.",
@@ -4444,7 +4535,11 @@
     ],
     "enlace": "https://app.lupaupscaler.com/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lupa%20Upscaler/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lupa%20Upscaler/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lupa%20Upscaler/3.png"
+    ],
     "descripcion": "Mejora y escala la resolución de imágenes con IA.",
     "pruebaGratis": true,
     "descripcionDetallada": "Herramienta especializada en restaurar y aumentar la calidad de imágenes borrosas o de baja resolución. Utiliza algoritmos avanzados para añadir detalle y nitidez sin perder la esencia de la foto original.",
@@ -4463,7 +4558,11 @@
     ],
     "enlace": "https://wan.video/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Wan%20Video/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Wan%20Video/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Wan%20Video/3.png"
+    ],
     "descripcion": "Generación de video con el modelo Wan 2.1.",
     "pruebaGratis": true,
     "descripcionDetallada": "Plataforma de acceso para generar videos utilizando la arquitectura Wan (desarrollada por Alibaba). Destaca por su capacidad de generar movimiento fluido y alta coherencia visual a partir de imágenes o texto.",
@@ -4482,7 +4581,11 @@
     ],
     "enlace": "https://aistudio.google.com/apps",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Google%20AI%20Studio%20Apps/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Google%20AI%20Studio%20Apps/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Google%20AI%20Studio%20Apps/3.png"
+    ],
     "descripcion": "Galería de aplicaciones y prompts guardados de Gemini.",
     "pruebaGratis": true,
     "descripcionDetallada": "Sección dentro de AI Studio donde puedes explorar, guardar y ejecutar 'Apps' de prompts preconfigurados. Permite a los desarrolladores compartir configuraciones complejas de Gemini para tareas específicas como codificación, resumen o escritura creativa.",
@@ -4501,7 +4604,11 @@
     ],
     "enlace": "https://synexa.ai/explore/tencent/hunyuan3d-2",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Hunyuan3D%202/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Hunyuan3D%202/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Hunyuan3D%202/3.png"
+    ],
     "descripcion": "Modelo avanzado de generación 3D de Tencent.",
     "pruebaGratis": true,
     "descripcionDetallada": "La segunda versión del modelo Hunyuan3D de Tencent. Es capaz de generar assets 3D de alta fidelidad tanto desde texto como desde una sola imagen, mejorando significativamente la geometría y las texturas respecto a versiones anteriores.",
@@ -4520,7 +4627,11 @@
     ],
     "enlace": "https://n8n.io/",
     "imagen": "",
-    "imagenes": [],
+    "imagenes": [
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/n8n/1.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/n8n/2.png",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/n8n/3.png"
+    ],
     "descripcion": "Automatización de flujos de trabajo potente y auto-alojable.",
     "pruebaGratis": true,
     "descripcionDetallada": "Herramienta líder en automatización de flujos de trabajo basada en nodos. A diferencia de otras alternativas, n8n es 'fair-code', lo que permite alojarla en tu propio servidor de forma gratuita o usar su versión en la nube. Destaca por su flexibilidad, permitiendo conectar cualquier API y usar JavaScript para lógica compleja.",

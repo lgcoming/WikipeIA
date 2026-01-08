@@ -43,7 +43,7 @@ function Tabs({
               }`}
             role="tab"
             aria-selected={active}
-            aria-pressed={active}
+
             tabIndex={active ? 0 : -1}
           >
             {t}
