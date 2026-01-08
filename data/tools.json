@@ -1675,8 +1675,8 @@
     "fechaAlta": "2025-10-18"
   },
   {
-    "id": "smartwriter",
-    "nombre": "Smartwriter",
+    "id": "smartlead-ai",
+    "nombre": "SmartLead AI",
     "categoria": "Marketing",
     "subcategoria": [
       "Email"
@@ -1688,7 +1688,7 @@
     "imagenes": [],
     "descripcion": "Emails personalizados con IA para outbound.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Smartwriter genera líneas de apertura y emails 1:1 a partir de research automático del prospect (web, LinkedIn, contenido). Integra verificación, rotación de dominios y secuencias con A/B para mejorar entregabilidad. importas leads, eliges plantilla y lanzas campañas con métricas. Útil para SDRs y fundadores en prospección fría; prueba disponible y planes de suscripción",
+    "descripcionDetallada": "SmartLead AI genera líneas de apertura y emails 1:1 a partir de research automático del prospect (web, LinkedIn, contenido). Integra verificación, rotación de dominios y secuencias con A/B para mejorar entregabilidad. importas leads, eliges plantilla y lanzas campañas con métricas. Útil para SDRs y fundadores en prospección fría; prueba disponible y planes de suscripción",
     "fechaAlta": "2025-10-22"
   },
   {
@@ -2495,22 +2495,6 @@
     "pruebaGratis": true,
     "descripcionDetallada": "Mokker AI genera escenarios realistas para productos a partir de una sola foto, con sombras y reflejos coherentes y tamaños para marketplace o ads. Incluye eliminación de fondo, lotes y plantillas de marca. subes la imagen, eliges estilo/escena y descargas variaciones; demo/prueba y paquetes escalables",
     "fechaAlta": "2025-10-03"
-  },
-  {
-    "id": "morise-ai",
-    "nombre": "Morise.ai",
-    "categoria": "Marketing",
-    "subcategoria": [
-      "Redes Sociales"
-    ],
-    "precio": "gratis",
-    "etiquetas": [],
-    "enlace": "https://morise.ai",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Herramientas de crecimiento para YouTube.",
-    "descripcionDetallada": "Morise.ai sugiere ideas de vídeos, títulos y descripciones, y ofrece analítica de keywords/temas para mejorar CTR y retención. Integra generador de guiones y checklist de optimización para YouTube Studio. introduces nicho/tema, recibes recomendaciones y exportas metadatos listos; plan gratuito con funciones clave.",
-    "fechaAlta": "2025-10-16"
   },
   {
     "id": "motionit-ai",
@@ -4353,25 +4337,6 @@
     "fechaAlta": "2025-11-21"
   },
   {
-    "id": "google-vids",
-    "nombre": "Google Vids",
-    "categoria": "Multimedia",
-    "subcategoria": [
-      "Video"
-    ],
-    "precio": "gratis",
-    "etiquetas": [
-      "Destacada"
-    ],
-    "enlace": "https://workspace.google.com/business/vids/",
-    "imagen": "",
-    "imagenes": [],
-    "descripcion": "Creación de video impulsada por IA para el trabajo.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Asistente de video para entornos profesionales que ayuda a crear presentaciones, actualizaciones de equipo y vídeos de formación.",
-    "fechaAlta": "2025-11-21"
-  },
-  {
     "id": "gentype",
     "nombre": "GenType",
     "categoria": "Diseño",
@@ -4560,5 +4525,24 @@
     "pruebaGratis": true,
     "descripcionDetallada": "Herramienta líder en automatización de flujos de trabajo basada en nodos. A diferencia de otras alternativas, n8n es 'fair-code', lo que permite alojarla en tu propio servidor de forma gratuita o usar su versión en la nube. Destaca por su flexibilidad, permitiendo conectar cualquier API y usar JavaScript para lógica compleja.",
     "fechaAlta": "2025-11-21"
+  },
+  {
+    "id": "kira-art",
+    "nombre": "Kira Art",
+    "categoria": "Multimedia",
+    "subcategoria": [
+      "Imagen"
+    ],
+    "precio": "gratis",
+    "etiquetas": [
+      "Destacada"
+    ],
+    "enlace": "https://app.kira.art/",
+    "imagen": "",
+    "imagenes": [],
+    "descripcion": "Asistente de diseño con IA que crea y edita imágenes mediante lenguaje natural.",
+    "pruebaGratis": true,
+    "descripcionDetallada": "Kira Art es una plataforma de diseño visual impulsada por IA que simplifica la creación y edición de imágenes mediante una interfaz conversacional. Utiliza modelos avanzados como OpenAI y Flux para generar contenido desde texto y permite realizar ediciones precisas (como borrar objetos, ajustar colores o aplicar máscaras) hablando directamente con la herramienta. Está diseñada para eliminar la complejidad de los prompts técnicos y las capas tradicionales, ofreciendo un flujo de trabajo fluido tanto para principiantes como para profesionales. Incluye herramientas de escalado (upscaling) sin pérdida y soporte para edición vectorial y rasterizada.",
+    "fechaAlta": "2025-12-31"
   }
 ]
