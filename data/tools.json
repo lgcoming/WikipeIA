@@ -196,7 +196,7 @@
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://smodin.io/pricing?fpr=wikipeia",
-    "imagen": "",
+    "imagen": "https://logo.clearbit.com/smodin.io",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Smodin/1.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Smodin/2.jpg",
@@ -407,7 +407,7 @@
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://copysmith.ai/",
-    "imagen": "",
+    "imagen": "https://copysmith.ai/wp-content/uploads/2024/06/cropped-copysmith-logo-2-1-192x192.png",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copysmith_AI/1.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copysmith_AI/2.jpg",
@@ -3990,7 +3990,7 @@
       "Destacada"
     ],
     "enlace": "https://www.fathom.video/",
-    "imagen": "",
+    "imagen": "https://cdn.prod.website-files.com/6899da9beccbdbe92be49b5d/68b06bbf4858c62dabf3ece9_Favicon%2032%20Black%20(1).png",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Fathom/1.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Fathom/2.jpg",
@@ -4081,7 +4081,7 @@
       "Destacada"
     ],
     "enlace": "https://opal.google/landing/?source=labs",
-    "imagen": "",
+    "imagen": "https://www.gstatic.com/roma/assets/favicon.png",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Opal/1.png",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Opal/2.png",
@@ -4240,7 +4240,7 @@
       "Destacada"
     ],
     "enlace": "https://sparkify.withgoogle.com/explore",
-    "imagen": "",
+    "imagen": "https://www.gstatic.com/roma/sparks/favicon.png",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Sparkify/1.png",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Sparkify/2.png",
@@ -4376,7 +4376,7 @@
       "Destacada"
     ],
     "enlace": "https://illuminate.google.com/",
-    "imagen": "",
+    "imagen": "https://www.gstatic.com/roma/assets/favicon.png",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Illuminate/1.png",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Illuminate/2.png",
@@ -4603,7 +4603,7 @@
       "Destacada"
     ],
     "enlace": "https://synexa.ai/explore/tencent/hunyuan3d-2",
-    "imagen": "",
+    "imagen": "https://synexa.ai/icon.ico?4c87af0fc5b5acf6",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Hunyuan3D%202/1.png",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Hunyuan3D%202/2.png",
