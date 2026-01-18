@@ -89,7 +89,7 @@ function ToolCard({ tool, onSelect }: { tool: Tool; onSelect?: (tool: Tool) => v
             href={tool.enlace}
             target="_blank"
             rel="noreferrer noopener"
-            className="inline-flex items-center justify-center rounded-lg px-1.5 py-1 text-[14px] font-medium transition-all duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-white/30 dark:hover:ring-white/30 hover:bg-[#00d4ff]/30 dark:hover:bg-[#00d4ff]/30 border border-gray-400 dark:border-white/35 bg-[#00d4ff]/20 text-gray-700 dark:text-white/85 flex-1 mx-0.5 mb-0.5 active:scale-95 active:transform"
+            className="inline-flex items-center justify-center rounded-lg px-1.5 py-1 text-[14px] font-medium transition-all duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-white/30 dark:hover:ring-white/30 hover:bg-blue-200 dark:hover:bg-[#00d4ff]/30 border border-gray-400 dark:border-white/35 bg-blue-100 dark:bg-[#00d4ff]/20 text-gray-700 dark:text-white/85 flex-1 mx-0.5 mb-0.5 active:scale-95 active:transform"
             onClick={(e) => e.stopPropagation()}
           >
             Visitar

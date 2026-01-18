@@ -68,24 +68,24 @@ function CategorySelect({
     }
   }, [value, selectedCategory, onSubcategoryChange]);
 
-  // Colores para cada categoría
+  // Colores para cada categoría (oscuros en light mode, claros en dark mode)
   const getCategoryColor = (category: string) => {
     const colors = {
-      "Todas las categorías": "border-gray-300 dark:border-white/15 bg-white dark:bg-zinc-900/70 text-gray-900 dark:text-white/85",
-      "Marketing": "bg-pink-500/20 border-pink-400/50 text-pink-300",
-      "Desarrollo": "bg-emerald-500/20 border-emerald-400/50 text-emerald-300",
-      "Diseño": "bg-red-500/20 border-red-400/50 text-red-300",
-      "Contenido": "bg-orange-500/20 border-orange-400/50 text-orange-300",
-      "Asistentes": "bg-violet-500/20 border-violet-400/50 text-violet-300",
-      "Multimedia": "bg-indigo-500/20 border-indigo-400/50 text-indigo-300",
-      "Servicios": "bg-yellow-500/20 border-yellow-400/50 text-yellow-300",
+      "Todas las categorías": "border-gray-400 dark:border-white/15 bg-white dark:bg-zinc-900/70 text-gray-900 dark:text-white/85",
+      "Marketing": "bg-pink-500/20 dark:bg-pink-500/20 border-pink-600 dark:border-pink-400/50 text-pink-700 dark:text-pink-300",
+      "Desarrollo": "bg-emerald-500/20 dark:bg-emerald-500/20 border-emerald-600 dark:border-emerald-400/50 text-emerald-700 dark:text-emerald-300",
+      "Diseño": "bg-red-500/20 dark:bg-red-500/20 border-red-600 dark:border-red-400/50 text-red-700 dark:text-red-300",
+      "Contenido": "bg-orange-500/20 dark:bg-orange-500/20 border-orange-600 dark:border-orange-400/50 text-orange-700 dark:text-orange-300",
+      "Asistentes": "bg-violet-500/20 dark:bg-violet-500/20 border-violet-600 dark:border-violet-400/50 text-violet-700 dark:text-violet-300",
+      "Multimedia": "bg-indigo-500/20 dark:bg-indigo-500/20 border-indigo-600 dark:border-indigo-400/50 text-indigo-700 dark:text-indigo-300",
+      "Servicios": "bg-yellow-500/20 dark:bg-yellow-500/20 border-yellow-600 dark:border-yellow-400/50 text-yellow-700 dark:text-yellow-300",
     };
-    return colors[category as keyof typeof colors] || "bg-gray-500/20 border-gray-400/50 text-gray-300";
+    return colors[category as keyof typeof colors] || "bg-gray-500/20 border-gray-600 dark:border-gray-400/50 text-gray-700 dark:text-gray-300";
   };
 
   const getSelectorColor = (value: string) => {
     if (value === "Todas las categorías") {
-      return "border-gray-300 dark:border-white/15 bg-white dark:bg-zinc-900/70 text-gray-900 dark:text-white/85";
+      return "border-gray-400 dark:border-white/15 bg-white dark:bg-zinc-900/70 text-gray-900 dark:text-white/85";
     }
     return getCategoryColor(value);
   };
@@ -150,7 +150,7 @@ function CategorySelect({
                   onClick={() => handleCategorySelect("Todas las categorías")}
                   className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon min-w-[110px] ${value === "Todas las categorías"
                     ? getCategoryColor("Todas las categorías")
-                    : "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30"
+                    : "border-gray-400 dark:border-white/15 text-gray-800 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30"
                     }`}
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
@@ -165,7 +165,7 @@ function CategorySelect({
                     onClick={() => handleCategorySelect(category)}
                     className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon min-w-[110px] ${value === category
                       ? getCategoryColor(category)
-                      : "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30"
+                      : "border-gray-400 dark:border-white/15 text-gray-800 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30"
                       }`}
                     initial={{ opacity: 0, y: 10 }}
                     animate={{ opacity: 1, y: 0 }}
@@ -197,7 +197,7 @@ function CategorySelect({
             onClick={handleClearSubcategory}
             className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon min-w-[110px] ${!selectedSubcategory
               ? getCategoryColor(selectedCategory)
-              : `border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30`
+              : `border-gray-400 dark:border-white/15 text-gray-800 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30`
               }`}
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
@@ -210,7 +210,7 @@ function CategorySelect({
             const isSelected = selectedSubcategory === subcategory;
             const baseClass = "rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon min-w-[110px]";
             const selectedClass = getCategoryColor(selectedCategory);
-            const unselectedClass = "border-gray-300 dark:border-white/15 text-gray-700 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30";
+            const unselectedClass = "border-gray-400 dark:border-white/15 text-gray-800 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30";
 
             return (
               <motion.button

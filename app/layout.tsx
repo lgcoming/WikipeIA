@@ -43,6 +43,7 @@ export default function RootLayout({
       <head>
         <link rel="icon" href="/favicon.ico" sizes="32x32" />
         <meta name="color-scheme" content="dark" />
+        <meta name='impact-site-verification' content='a26c4215-b677-4ce9-8f25-6f7393aa64fc' />
         <script dangerouslySetInnerHTML={{
           __html: `(function(){const t=localStorage.getItem('theme')||'dark';document.documentElement.classList.toggle('dark',t==='dark');document.querySelector('meta[name="color-scheme"]')?.setAttribute('content',t);})()`
         }} />
