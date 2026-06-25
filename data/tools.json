@@ -196,7 +196,7 @@
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://smodin.io/pricing?fpr=wikipeia",
-    "imagen": "https://logo.clearbit.com/smodin.io",
+    "imagen": "https://smodin.io/smodin-logo.svg",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Smodin/1.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Smodin/2.jpg",
@@ -217,7 +217,7 @@
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://ai-writer.com?via=wikipeia",
-    "imagen": "",
+    "imagen": "https://storage.googleapis.com/aiw6-com-static-files/dist/favicon_X5b_icon.ico",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AI-Writer/1.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AI-Writer/2.jpg",
@@ -238,7 +238,7 @@
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://aiseo.ai/?fpr=wikipeia",
-    "imagen": "",
+    "imagen": "https://aiseo.ai/_next/image?url=%2Ficons%2Fnavbar%2FaiseoIconOnly.png&w=64&q=75",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AISEO/1.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AISEO/2.jpg",
@@ -290,27 +290,6 @@
     "pruebaGratis": true,
     "descripcionDetallada": "Article Fiesta crea artículos largos optimizados para SEO a partir de un tema/keyword. Propone estructura, añade imágenes libres y enlazado interno/externo, con publicación o exportación en un clic. Útil para blogs que buscan volumen consistente sin maquetar aparte; ofrece prueba y planes por número de piezas/funciones.",
     "fechaAlta": "2025-10-01"
-  },
-  {
-    "id": "articleforge",
-    "nombre": "ArticleForge",
-    "categoria": "Desarrollo",
-    "subcategoria": [
-      "Texto"
-    ],
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://typeform.cello.so/v4p4VdwIfeU",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ArticleForge/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ArticleForge/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/ArticleForge/3.jpg"
-    ],
-    "descripcion": "Crea artículos de alta calidad en minutos con IA, orientado a SEO.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Article Forge redacta artículos completos desde una keyword o título con longitud configurable. Permite generación en lote, publicación automática en WordPress y acceso por API para integraciones. Útil para equipos que necesitan volumen uniforme; ofrece prueba, garantía de reembolso y planes estándar/empresariales con más límites.",
-    "fechaAlta": "2025-09-18"
   },
   {
     "id": "bertha-ai",
@@ -407,7 +386,7 @@
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://copysmith.ai/",
-    "imagen": "https://copysmith.ai/wp-content/uploads/2024/06/cropped-copysmith-logo-2-1-192x192.png",
+    "imagen": "https://www.copysmith.ai/icon.svg",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copysmith_AI/1.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Copysmith_AI/2.jpg",
@@ -750,26 +729,6 @@
     "fechaAlta": "2025-09-20"
   },
   {
-    "id": "infomail-ai",
-    "nombre": "Infomail.ai",
-    "categoria": "Marketing",
-    "subcategoria": [
-      "Email"
-    ],
-    "precio": "gratis",
-    "etiquetas": [],
-    "enlace": "https://infomail.ai/",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Infomail.ai/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Infomail.ai/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Infomail.ai/3.jpg"
-    ],
-    "descripcion": "Genera contenido de email marketing con IA.",
-    "descripcionDetallada": "Infomail.ai crea asuntos, cuerpos y CTAs orientados a conversión a partir de un brief o URL. Da la opción de variantes por segmento, pruebas A/B y exportación a tu ESP, manteniendo voz de marca con presets. Útil para newsletters y campañas rápidas sin equipo dedicado; plan gratuito con funciones básicas.",
-    "fechaAlta": "2025-10-06"
-  },
-  {
     "id": "fineshare",
     "nombre": "FineShare",
     "categoria": "Multimedia",
@@ -935,27 +894,6 @@
     "fechaAlta": "2025-09-29"
   },
   {
-    "id": "emailmagicai",
-    "nombre": "EmailMagic AI",
-    "categoria": "Marketing",
-    "subcategoria": [
-      "Email"
-    ],
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://emailmagic.ai/",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/EmailMagic_AI/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/EmailMagic_AI/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/EmailMagic_AI/3.jpg"
-    ],
-    "descripcion": "Automatiza y personaliza correos productivos con IA.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "EmailMagic AI genera secuencias de email personalizadas con objetivos, segmentos y pruebas A/B, manteniendo tono de marca. Integra firmas, snippets y métricas para iterar con datos, además de exportar a tu ESP. Útil para equipos de growth y ventas; prueba disponible y planes de suscripción",
-    "fechaAlta": "2025-10-06"
-  },
-  {
     "id": "embolden",
     "nombre": "Embolden",
     "categoria": "Marketing",
@@ -975,27 +913,6 @@
     "pruebaGratis": true,
     "descripcionDetallada": "Embolden genera descripciones de producto, títulos y textos para categorías con enfoque en conversión y SEO. Te deja plantillas por vertical, control de tono y exportación a plataformas de tienda. Útil para catálogos grandes que requieren consistencia; hay prueba y opciones de pago según uso",
     "fechaAlta": "2025-09-19"
-  },
-  {
-    "id": "embra",
-    "nombre": "Embra",
-    "categoria": "Asistentes",
-    "subcategoria": [
-      "Reuniones"
-    ],
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://embra.ai/",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Embra/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Embra/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Embra/3.jpg"
-    ],
-    "descripcion": "Embra es un sistema de toma de notas con IA y potente memoria empresarial.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Embra lanzador con IA tipo Spotlight para buscar, resumir y accionar sin salir del flujo. Suma comandos rápidos, memoria local de snippets y plantillas para emails, notas o código. Útil para profesionales que optimizan su día a día en macOS; cuenta con plan de prueba y tiers de pago",
-    "fechaAlta": "2025-09-30"
   },
   {
     "id": "escribelo-ai",
@@ -1486,27 +1403,6 @@
     "fechaAlta": "2025-10-26"
   },
   {
-    "id": "affable",
-    "nombre": "Affable",
-    "categoria": "Marketing",
-    "subcategoria": [
-      "Redes Sociales"
-    ],
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://www.affable.ai/",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Affable/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Affable/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Affable/3.jpg"
-    ],
-    "descripcion": "Plataforma de marketing de influencers end-to-end.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Affable descubre creadores por audiencia/afinidad, gestiona campañas y mide rendimiento con tracking y reportes de conversión. Incluye detección de fraude, contratos y CRM de influencers para colaboración a escala. Útil para marcas y agencias que profesionalizan el canal; demo/prueba y paquetes escalables",
-    "fechaAlta": "2025-10-23"
-  },
-  {
     "id": "aiscreenwriter",
     "nombre": "AI Screenwriter",
     "categoria": "Asistentes",
@@ -1732,48 +1628,6 @@
     "pruebaGratis": true,
     "descripcionDetallada": "SocialBu herramienta para crear y programar posts, responder mensajes desde un inbox unificado y automatizar respuestas/reglas. Incorpora generación asistida por IA, calendario y reportes para medir impacto. conectas cuentas, creas colas y gestionas interacción desde un panel. Útil para community managers y marcas; cuenta con plan de prueba y tiers de pago",
     "fechaAlta": "2025-09-18"
-  },
-  {
-    "id": "solidgrids",
-    "nombre": "SolidGrids",
-    "categoria": "Diseño",
-    "subcategoria": [
-      "Imagen"
-    ],
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://solidgrids.com",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SolidGrids/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SolidGrids/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SolidGrids/3.jpg"
-    ],
-    "descripcion": "Imágenes comerciales a gran escala con IA.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "SolidGrids produce fotos de producto consistentes: elimina fondos, genera escenarios, aplica sombras/reflectores y adapta formatos para marketplaces. Hace posible procesamiento en lote, presets de marca y exportación masiva. subes catálogo, eliges estilo y descargas imágenes listas para e-commerce. Útil para tiendas con cientos de SKUs; prueba gratuita y niveles por volumen/funciones",
-    "fechaAlta": "2025-09-25"
-  },
-  {
-    "id": "speechgen-io",
-    "nombre": "SpeechGen.io",
-    "categoria": "Multimedia",
-    "subcategoria": [
-      "Audio"
-    ],
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://speechgen.io",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SpeechGen.io/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SpeechGen.io/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/SpeechGen.io/3.jpg"
-    ],
-    "descripcion": "Conversor avanzado de texto a voz realista multilenguaje con IA.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "SpeechGen.io genera locuciones en múltiples idiomas/acentos con control de velocidad, pausas y pronunciación vía SSML. Soporta carga en lote y descarga en MP3/WAV para vídeos, podcasts o accesibilidad. pegas guion, eliges voz/ajustes y exportas al instante. Útil para creadores y equipos de e-learning; prueba disponible y planes de suscripción",
-    "fechaAlta": "2025-10-03"
   },
   {
     "id": "scalenut",
@@ -2046,27 +1900,6 @@
     "fechaAlta": "2025-10-14"
   },
   {
-    "id": "postaga",
-    "nombre": "Postaga",
-    "categoria": "Marketing",
-    "subcategoria": [
-      "SEO"
-    ],
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://postaga.com",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Postaga/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Postaga/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Postaga/3.jpg"
-    ],
-    "descripcion": "Outreach inteligente para backlinks, PR y crecimiento SEO.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Postaga encuentra oportunidades de enlaces y relaciones públicas, construye listas y envía secuencias personalizadas con seguimiento. Aporta detección de prospectos por contenido y nicho, y reportes de respuesta. eliges campaña (guest posts, menciones, reviews), importas leads y lanzas outreach. Útil para SEO y PR que buscan escalar con orden; hay prueba y opciones de pago según uso",
-    "fechaAlta": "2025-09-29"
-  },
-  {
     "id": "postly",
     "nombre": "Postly",
     "categoria": "Marketing",
@@ -2233,27 +2066,6 @@
     "fechaAlta": "2025-10-24"
   },
   {
-    "id": "peech",
-    "nombre": "Peech",
-    "categoria": "Marketing",
-    "subcategoria": [
-      "Multimedia"
-    ],
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://www.peech-ai.com",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Peech/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Peech/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Peech/3.jpg"
-    ],
-    "descripcion": "Plataforma de video para equipos de contenido.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Peech estandariza la producción de vídeos con plantillas, subtítulos auto, transcripciones y bibliotecas de marca para mantener consistencia. Permite colaboraciones, versiones por canal y publicación directa. importas material, aplicas preset y exportas en 16:9/1:1/9:16. Útil para marketing y comunicación interna; prueba disponible y planes de suscripción",
-    "fechaAlta": "2025-09-19"
-  },
-  {
     "id": "pencil",
     "nombre": "Pencil",
     "categoria": "Marketing",
@@ -2302,7 +2114,7 @@
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.personal.ai",
-    "imagen": "",
+    "imagen": "https://cdn.prod.website-files.com/5ff65c460ce39f5ec5681c6a/69a0960e725c212dd45cfb7d_Favicon.png",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Personal_AI/1.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Personal_AI/2.jpg",
@@ -2835,7 +2647,7 @@
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://machined.ai",
-    "imagen": "",
+    "imagen": "https://machined.ai/favicon.ico?favicon.fef5fbf5.ico",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Machined.ai/1.png",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Machined.ai/2.png",
@@ -3096,28 +2908,6 @@
     "fechaAlta": "2025-10-17",
     "pruebaGratis": true,
     "descripcionDetallada": "Claude pensado para acelerar resúmenes, creación de contenido e ideación y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Útil cuando necesitas producir más en menos tiempo sin sacrificar el estándar."
-  },
-  {
-    "id": "microsoft-copilot",
-    "nombre": "Microsoft Copilot",
-    "categoria": "Asistentes",
-    "subcategoria": [
-      "Texto"
-    ],
-    "precio": "gratis",
-    "etiquetas": [
-      "Destacada"
-    ],
-    "enlace": "https://copilot.microsoft.com/",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Microsoft%20Copilot/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Microsoft%20Copilot/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Microsoft%20Copilot/3.jpg"
-    ],
-    "descripcion": "Asistente gratuito integrado en servicios de Microsoft.",
-    "fechaAlta": "2025-09-22",
-    "descripcionDetallada": "Microsoft Copilot útil para preparar resúmenes, textos y conceptos en la rutina diaria y como punto de partida para flujos más complejos. Suele ofrecer chat, plantillas y, en ocasiones, integraciones básicas. Indicado para escenarios diarios donde prima productividad y orden."
   },
   {
     "id": "google-gemini",
@@ -3733,29 +3523,6 @@
     "fechaAlta": "2025-10-16"
   },
   {
-    "id": "veo3",
-    "nombre": "Veo 3",
-    "categoria": "Multimedia",
-    "subcategoria": [
-      "Video"
-    ],
-    "precio": "pago",
-    "etiquetas": [
-      "Destacada"
-    ],
-    "enlace": "https://veo3.studio",
-    "imagen": "",
-    "descripcion": "Generador de videos AI con audio sincronizado.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Veo 3 Genera videos a partir de texto o imágenes con audio realista integrado (diálogo, efectos, ambiente). Permite controlar movimiento, objetos y consistencia visual. Ideal para narrativas rápidas, promociones o contenido audiovisual creativo.",
-    "fechaAlta": "2025-09-16",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Veo%203/1.png",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Veo%203/2.png",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Veo%203/3.png"
-    ]
-  },
-  {
     "id": "adobe-firefly",
     "nombre": "Adobe Firefly",
     "categoria": "Diseño",
@@ -3888,29 +3655,6 @@
     "pruebaGratis": true,
     "descripcionDetallada": "Mistral AI ofrece chat gratuito y planes Pro para funciones ampliadas; además de APIs y modelos con enfoque en rendimiento y privacidad, incluyendo opciones de despliegue empresarial.",
     "fechaAlta": "2025-10-01"
-  },
-  {
-    "id": "lumio-ai",
-    "nombre": "Lumio AI",
-    "categoria": "Asistentes",
-    "subcategoria": [
-      "Texto"
-    ],
-    "precio": "gratis",
-    "etiquetas": [
-      "Destacada"
-    ],
-    "enlace": "https://lumioai.tech",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumio%20AI/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumio%20AI/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lumio%20AI/3.jpg"
-    ],
-    "descripcion": "Workspace multi-modelo para comparar y usar varios LLM en un mismo panel.",
-    "pruebaGratis": false,
-    "descripcionDetallada": "Lumio AI centraliza acceso a múltiples modelos, permite cambiar de motor según la tarea, crear agentes y colaborar. Enfocado en productividad y coste por tarea; cuenta con plan gratuito y niveles pro.",
-    "fechaAlta": "2025-10-13"
   },
   {
     "id": "deepseek",
@@ -4648,12 +4392,115 @@
     "etiquetas": [
       "Destacada"
     ],
-    "enlace": "https://app.kira.art/",
+    "enlace": "https://kira.art/",
     "imagen": "",
     "imagenes": [],
     "descripcion": "Asistente de diseño con IA que crea y edita imágenes mediante lenguaje natural.",
     "pruebaGratis": true,
     "descripcionDetallada": "Kira Art es una plataforma de diseño visual impulsada por IA que simplifica la creación y edición de imágenes mediante una interfaz conversacional. Utiliza modelos avanzados como OpenAI y Flux para generar contenido desde texto y permite realizar ediciones precisas (como borrar objetos, ajustar colores o aplicar máscaras) hablando directamente con la herramienta. Está diseñada para eliminar la complejidad de los prompts técnicos y las capas tradicionales, ofreciendo un flujo de trabajo fluido tanto para principiantes como para profesionales. Incluye herramientas de escalado (upscaling) sin pérdida y soporte para edición vectorial y rasterizada.",
     "fechaAlta": "2025-12-31"
+  },
+  {
+    "id": "higgsfield-ai",
+    "nombre": "Higgsfield AI",
+    "categoria": "Multimedia",
+    "subcategoria": [
+      "Video"
+    ],
+    "precio": "pago",
+    "etiquetas": [
+      "Destacada",
+      "Nueva"
+    ],
+    "enlace": "https://higgsfield.ai/",
+    "imagen": "https://higgsfield.ai/icon.png",
+    "imagenes": [],
+    "descripcion": "Entorno completo de generación y edición de video con IA para cineastas y creadores.",
+    "pruebaGratis": true,
+    "descripcionDetallada": "Higgsfield AI es una plataforma de creación y edición de video generativo diseñada como un pipeline de producción completo. Cuenta con 'Cinema Studio' para dirección de escenas y control de cámaras (dollies, focal, pans) y 'Marketing Studio' para campañas automatizadas. Permite mantener consistencia de personajes (SOUL ID) e integra múltiples modelos frontera (como Kling, Wan, Veo, Sora) en un solo panel.",
+    "fechaAlta": "2026-06-25"
+  },
+  {
+    "id": "v0",
+    "nombre": "v0.dev",
+    "categoria": "Desarrollo",
+    "subcategoria": [
+      "UI/UX",
+      "Programación"
+    ],
+    "precio": "pago",
+    "etiquetas": [
+      "Destacada",
+      "Nueva"
+    ],
+    "enlace": "https://v0.dev/",
+    "imagen": "https://v0.app/assets/apple-icon.png",
+    "imagenes": [],
+    "descripcion": "Generador de interfaces de usuario con IA por Vercel que crea código frontend interactivo.",
+    "pruebaGratis": true,
+    "descripcionDetallada": "Desarrollado por Vercel, v0 genera código React, HTML y CSS optimizado para Tailwind y shadcn/ui a partir de descripciones textuales o capturas de pantalla. Permite iterar y refinar componentes interactivos en tiempo real directamente en el navegador, acelerando los procesos de diseño, prototipado y desarrollo frontend.",
+    "fechaAlta": "2026-06-25"
+  },
+  {
+    "id": "lovable",
+    "nombre": "Lovable",
+    "categoria": "Desarrollo",
+    "subcategoria": [
+      "Programación",
+      "UI/UX"
+    ],
+    "precio": "pago",
+    "etiquetas": [
+      "Destacada",
+      "Nueva"
+    ],
+    "enlace": "https://lovable.dev/",
+    "imagen": "https://lovable.dev/favicon.svg",
+    "imagenes": [],
+    "descripcion": "Desarrollador full-stack con IA para crear, editar y desplegar aplicaciones web completas.",
+    "pruebaGratis": true,
+    "descripcionDetallada": "Lovable (anteriormente GPT Engineer) permite construir aplicaciones web de producción en segundos a partir de lenguaje natural. Genera código limpio en React y TypeScript con bases de datos como Supabase y despliegue integrado. Es ideal para crear MVP funcionales y herramientas internas sin fricción técnica.",
+    "fechaAlta": "2026-06-25"
+  },
+  {
+    "id": "bolt-new",
+    "nombre": "Bolt",
+    "categoria": "Desarrollo",
+    "subcategoria": [
+      "Programación"
+    ],
+    "precio": "pago",
+    "etiquetas": [
+      "Destacada",
+      "Nueva"
+    ],
+    "enlace": "https://bolt.new/",
+    "imagen": "https://bolt.new/static/favicon.svg",
+    "imagenes": [],
+    "descripcion": "Entorno de desarrollo web full-stack en el navegador con un agente de IA autónomo.",
+    "pruebaGratis": true,
+    "descripcionDetallada": "Bolt.new de StackBlitz permite crear, ejecutar, depurar y desplegar aplicaciones web full-stack directamente en el navegador. Combina WebContainers con un agente de IA capaz de instalar paquetes npm, ejecutar comandos en una terminal integrada, modificar archivos de código y desplegar a Netlify en segundos.",
+    "fechaAlta": "2026-06-25"
+  },
+  {
+    "id": "udio",
+    "nombre": "Udio",
+    "categoria": "Multimedia",
+    "subcategoria": [
+      "Música",
+      "Audio"
+    ],
+    "precio": "pago",
+    "etiquetas": [
+      "Destacada",
+      "Nueva"
+    ],
+    "enlace": "https://www.udio.com/",
+    "imagen": "https://www.udio.com/favicon.ico?favicon.0wbc3vz33genq.ico",
+    "imagenes": [],
+    "descripcion": "Creación y edición musical de alta fidelidad con inpainting y separación de pistas.",
+    "pruebaGratis": true,
+    "descripcionDetallada": "Udio es un generador de música por IA que destaca por su fidelidad de audio y voces excepcionalmente realistas. Permite escribir descripciones para componer canciones de cualquier estilo, extenderlas y refinarlas mediante 'inpainting' (reescritura de partes del audio). También permite descargar las pistas vocales e instrumentales por separado.",
+    "fechaAlta": "2026-06-25"
   }
 ]
