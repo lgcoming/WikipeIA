@@ -65,7 +65,7 @@ export default function ContactButton({ label = "Contacto", showIcon = false, ic
           setOpen(true);
           setOpenedAt(Date.now());
         }}
-        className="inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2 text-sm font-medium focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00d4ff]/40 hover:ring-1 hover:ring-white/30 dark:hover:ring-white/30 hover:bg-blue-200 dark:hover:bg-[#00d4ff]/30 border border-gray-400 dark:border-white/35 bg-blue-100 dark:bg-[#00d4ff]/20 text-gray-700 dark:text-white/85 transition-all duration-150 cursor-pointer active:scale-95 active:transform"
+        className="inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2 text-sm font-medium border border-gray-300 dark:border-white/20 text-gray-700 dark:text-white/85 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-white/10 hover:border-gray-400 dark:hover:border-white/30 transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 dark:focus-visible:ring-white/40 hover:ring-1 hover:ring-gray-300 dark:hover:ring-white/30 active:scale-95 active:transform cursor-pointer"
       >
         {showIcon && (
           <svg className={iconClassName} fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">

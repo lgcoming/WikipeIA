@@ -303,6 +303,11 @@ html:not(.dark) {
 }
 
 .link-neon:hover {
+  color: var(--foreground);
+  text-shadow: none;
+}
+
+.dark .link-neon:hover {
   color: #fff;
   text-shadow: 0 0 8px var(--accent-weak);
 }

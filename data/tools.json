@@ -313,27 +313,6 @@
     "fechaAlta": "2025-09-30"
   },
   {
-    "id": "botowski",
-    "nombre": "Botowski",
-    "categoria": "Marketing",
-    "subcategoria": [
-      "Contenido"
-    ],
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://botowski.com/",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Botowski/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Botowski/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Botowski/3.jpg"
-    ],
-    "descripcion": "Copywriter personal con plantillas para blogs, social y e-commerce.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Botowski genera artículos, posts, emails y descripciones de producto a partir de un brief simple. Incluye plantillas por canal, control de longitud y exportación rápida para publicar sin fricción. Útil para emprendedores y pymes que requieren textos listos con mínima edición; versión de prueba y suscripciones por capacidad.",
-    "fechaAlta": "2025-09-17"
-  },
-  {
     "id": "copy-ai",
     "nombre": "Copy.ai",
     "categoria": "Marketing",
@@ -1199,26 +1178,6 @@
     "fechaAlta": "2025-10-21"
   },
   {
-    "id": "blognlp",
-    "nombre": "BlogNLP",
-    "categoria": "Marketing",
-    "subcategoria": [
-      "Texto"
-    ],
-    "precio": "gratis",
-    "etiquetas": [],
-    "enlace": "https://blognlp.com/",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/BlogNLP/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/BlogNLP/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/BlogNLP/3.jpg"
-    ],
-    "descripcion": "Herramienta NLP para blog SEO y contenido optimizado.",
-    "descripcionDetallada": "BlogNLP asistente que genera esquemas, sugiere keywords y produce borradores optimizados para mejorar posicionamiento orgánico. Trae análisis de densidad y exportación a CMS. Útil para creadores que quieren acelerar su pipeline SEO; gratuito.",
-    "fechaAlta": "2025-10-21"
-  },
-  {
     "id": "brandbastionlite",
     "nombre": "BrandBastion Lite",
     "categoria": "Marketing",
@@ -1529,27 +1488,6 @@
     "fechaAlta": "2025-10-14"
   },
   {
-    "id": "writesonic",
-    "nombre": "Writesonic",
-    "categoria": "Marketing",
-    "subcategoria": [
-      "SEO"
-    ],
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://writesonic.com/",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Writesonic/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Writesonic/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Writesonic/3.jpg"
-    ],
-    "descripcion": "Plataforma de escritura y chatGPT propio.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Writesonic suite de contenido con chat entrenable (brand voice), plantillas para blogs, ads y landings, y publicación directa a CMS/redes. Integra reescritura, resumen, imágenes IA y generación en lote para escalar campañas. defines objetivo/tono, seleccionas plantilla y la IA entrega varios borradores con SEO y CTAs. Útil para equipos de growth y agencias; acceso completo en planes por créditos/usuarios.",
-    "fechaAlta": "2025-10-06"
-  },
-  {
     "id": "yaaraai",
     "nombre": "Yaara AI",
     "categoria": "Asistentes",
@@ -1559,7 +1497,7 @@
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://yaara.ai/",
-    "imagen": "",
+    "imagen": "https://yaara.ai/favicon.ico",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Yaara_AI/1.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Yaara_AI/2.jpg",
@@ -2350,26 +2288,6 @@
     "fechaAlta": "2025-10-21"
   },
   {
-    "id": "namelix",
-    "nombre": "Namelix",
-    "categoria": "Marketing",
-    "subcategoria": [
-      "Texto"
-    ],
-    "precio": "gratis",
-    "etiquetas": [],
-    "enlace": "https://namelix.com",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Namelix/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Namelix/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Namelix/3.jpg"
-    ],
-    "descripcion": "Generador creativo de nombres de marca únicos con IA.",
-    "descripcionDetallada": "Namelix genera nombres cortos y memorables con filtros de estilo (abstracto, compuesto, real) y longitud, comprobando dominios sugeridos. El flujo es simple: defines palabras clave y preferencias, recibes cientos de opciones con logotipos básicos y guardas favoritos para validar; gratuito con límites y compras opcionales de identidad.",
-    "fechaAlta": "2025-09-18"
-  },
-  {
     "id": "namesnack",
     "nombre": "NameSnack",
     "categoria": "Marketing",
@@ -2627,7 +2545,7 @@
     "precio": "gratis",
     "etiquetas": [],
     "enlace": "https://www.lunchbox.io",
-    "imagen": "",
+    "imagen": "https://lunchbox.io/favicon-32x32.png",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/LunchBox/1.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/LunchBox/2.jpg",
@@ -2844,27 +2762,6 @@
     "fechaAlta": "2025-09-29"
   },
   {
-    "id": "lek",
-    "nombre": "Lek",
-    "categoria": "Marketing",
-    "subcategoria": [
-      "Contenido"
-    ],
-    "precio": "pago",
-    "etiquetas": [],
-    "enlace": "https://lek.ai",
-    "imagen": "",
-    "imagenes": [
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lek/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lek/2.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Lek/3.jpg"
-    ],
-    "descripcion": "Escritura AI completa y versátil todo-en-uno para creadores.",
-    "pruebaGratis": true,
-    "descripcionDetallada": "Lek suite de escritura para long‑form y piezas cortas con plantillas, control de tono/idioma y reescritura. Genera outlines H1–H3, metadatos y variantes listas para publicar, con proyectos por cliente y exportación a CMS. defines objetivo/keyword, eliges plantilla y obtienes un borrador pulido para iterar; hay prueba y opciones de pago según uso",
-    "fechaAlta": "2025-10-09"
-  },
-  {
     "id": "chatgpt",
     "nombre": "ChatGPT",
     "categoria": "Asistentes",
@@ -2986,7 +2883,7 @@
       "Destacada"
     ],
     "enlace": "https://github.com/features/copilot",
-    "imagen": "",
+    "imagen": "https://github.githubassets.com/favicons/favicon.svg",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/GitHub%20Copilot/1.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/GitHub%20Copilot/2.jpg",
@@ -3240,7 +3137,7 @@
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://www.grammarly.com/",
-    "imagen": "",
+    "imagen": "https://static-web.grammarly.com/cms/master/public/favicon.ico",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Grammarly/1.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Grammarly/2.jpg",
@@ -3284,7 +3181,7 @@
       "Destacada"
     ],
     "enlace": "https://notebooklm.google.com/",
-    "imagen": "",
+    "imagen": "https://notebooklm.google.com/_/static/branding/v5/light_mode/favicon/favicon.svg",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/NotebookLM/1.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/NotebookLM/2.jpg"
@@ -3848,7 +3745,7 @@
       "Destacada"
     ],
     "enlace": "https://learnyourway.withgoogle.com/",
-    "imagen": "",
+    "imagen": "https://learnyourway.withgoogle.com/static/favicon.svg",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Learn%20Your%20Way/1.png",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Learn%20Your%20Way/2.png",

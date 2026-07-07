@@ -7,7 +7,7 @@ export default function SearchBar({
   value,
   onChange,
   onChangeDebounced,
-  placeholder = "Busca herramientas",
+  placeholder = "Buscar herramientas IA ",
   autoFocus = true,
 }: {
   value: string;

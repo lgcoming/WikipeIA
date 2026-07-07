@@ -128,12 +128,12 @@ export default function InformacionPage() {
             </h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
               <div>
-                <div className="text-3xl font-bold text-gray-900 dark:text-white mb-1">250+</div>
+                <div className="text-3xl font-bold text-gray-900 dark:text-white mb-1">+200</div>
                 <div className="text-gray-600 dark:text-white/70 text-sm">Herramientas</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-gray-900 dark:text-white mb-1">10</div>
-                <div className="text-gray-600 dark:text-white/70 text-sm">Categorías</div>
+                <div className="text-3xl font-bold text-gray-900 dark:text-white mb-1">+40</div>
+                <div className="text-gray-600 dark:text-white/70 text-sm">Subcategorías</div>
               </div>
               <div>
                 <div className="text-3xl font-bold text-gray-900 dark:text-white mb-1">100%</div>
@@ -155,24 +155,6 @@ export default function InformacionPage() {
             </p>
             <div className="inline-flex">
               <ContactButton label="Contáctanos" showIcon iconClassName="h-5 w-5" />
-            </div>
-
-            {/* Social Media Icons */}
-            <div className="mt-6 pt-6 border-t border-gray-200 dark:border-white/10">
-              <p className="text-gray-600 dark:text-white/70 text-sm mb-3">Síguenos en redes sociales</p>
-              <div className="flex items-center justify-center gap-4">
-                <a
-                  href="https://www.tiktok.com/@lawikipeia"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-gray-100 dark:bg-white/5 text-gray-600 dark:text-white/70 hover:bg-gray-200 dark:hover:bg-white/10 hover:text-black dark:hover:text-white transition"
-                  aria-label="TikTok"
-                >
-                  <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
-                    <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1-.1z" />
-                  </svg>
-                </a>
-              </div>
             </div>
           </div>
         </div>
