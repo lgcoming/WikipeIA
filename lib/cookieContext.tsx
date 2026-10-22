@@ -1,6 +1,6 @@
 "use client";
 
-import { createContext, useContext, useEffect, useState, ReactNode } from "react";
+import { createContext, useContext, useEffect, useMemo, useState, useSyncExternalStore, ReactNode } from "react";
 
 type CookiePreferences = {
   essential: boolean;
@@ -26,47 +26,62 @@ const CookieContext = createContext<CookieContextType | undefined>(undefined);
 const COOKIE_CONSENT_KEY = "cookie-consent";
 const COOKIE_PREFERENCES_KEY = "cookie-preferences";
 
+const DEFAULT_PREFERENCES: CookiePreferences = {
+  essential: true, // Siempre true, no se puede desactivar
+  analytics: false,
+  personalization: false,
+};
+
+// localStorage como store externo: el SSR lee null y el cliente lee el valor guardado
+// sin setState dentro de un efecto.
+const storageListeners = new Set<() => void>();
+const subscribeStorage = (listener: () => void) => {
+  storageListeners.add(listener);
+  return () => {
+    storageListeners.delete(listener);
+  };
+};
+const writeStorage = (key: string, value: string) => {
+  localStorage.setItem(key, value);
+  storageListeners.forEach((listener) => listener());
+};
+const useStoredValue = (key: string) =>
+  useSyncExternalStore(
+    subscribeStorage,
+    () => localStorage.getItem(key),
+    () => null
+  );
+
 export function CookieProvider({ children }: { children: ReactNode }) {
-  const [preferences, setPreferences] = useState<CookiePreferences>({
-    essential: true, // Siempre true, no se puede desactivar
-    analytics: false,
-    personalization: false,
-  });
+  const savedConsent = useStoredValue(COOKIE_CONSENT_KEY);
+  const savedPreferences = useStoredValue(COOKIE_PREFERENCES_KEY);
 
-  const [hasConsented, setHasConsented] = useState(false);
-  const [showBanner, setShowBanner] = useState(false);
+  const preferences = useMemo<CookiePreferences>(() => {
+    if (!savedPreferences) return DEFAULT_PREFERENCES;
+    try {
+      return { ...JSON.parse(savedPreferences), essential: true }; // Essential siempre true
+    } catch (error) {
+      console.error("Error parsing cookie preferences:", error);
+      return DEFAULT_PREFERENCES;
+    }
+  }, [savedPreferences]);
+
+  const hasConsented = savedConsent === "true";
+  const [bannerDelayElapsed, setBannerDelayElapsed] = useState(false);
+  const [bannerClosed, setBannerClosed] = useState(false);
   const [showSettings, setShowSettings] = useState(false);
+  const showBanner = !hasConsented && bannerDelayElapsed && !bannerClosed;
 
-  // Cargar preferencias guardadas al inicializar
+  // Mostrar banner después de un pequeño delay para mejor UX
   useEffect(() => {
-    const savedConsent = localStorage.getItem(COOKIE_CONSENT_KEY);
-    const savedPreferences = localStorage.getItem(COOKIE_PREFERENCES_KEY);
-
-    if (savedConsent === "true") {
-      setHasConsented(true);
-      setShowBanner(false);
-    } else {
-      // Mostrar banner después de un pequeño delay para mejor UX
-      setTimeout(() => setShowBanner(true), 1000);
-    }
-
-    if (savedPreferences) {
-      try {
-        const parsed = JSON.parse(savedPreferences);
-        setPreferences({ ...parsed, essential: true }); // Essential siempre true
-      } catch (error) {
-        console.error("Error parsing cookie preferences:", error);
-      }
-    }
+    const id = setTimeout(() => setBannerDelayElapsed(true), 1000);
+    return () => clearTimeout(id);
   }, []);
 
   const savePreferences = (prefs: CookiePreferences) => {
     const prefsToSave = { ...prefs, essential: true };
-    setPreferences(prefsToSave);
-    localStorage.setItem(COOKIE_PREFERENCES_KEY, JSON.stringify(prefsToSave));
-    localStorage.setItem(COOKIE_CONSENT_KEY, "true");
-    setHasConsented(true);
-    setShowBanner(false);
+    writeStorage(COOKIE_PREFERENCES_KEY, JSON.stringify(prefsToSave));
+    writeStorage(COOKIE_CONSENT_KEY, "true");
     setShowSettings(false);
 
     // Aplicar preferencias de cookies
@@ -123,7 +138,7 @@ export function CookieProvider({ children }: { children: ReactNode }) {
   };
 
   const closeBanner = () => {
-    setShowBanner(false);
+    setBannerClosed(true);
   };
 
   const value: CookieContextType = {
