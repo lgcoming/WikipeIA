@@ -1,6 +1,7 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
+import { useIsClient } from "@/hooks/useIsClient";
 import SearchBar from "@/components/ui/SearchBar";
 import FilterBar from "@/components/tool/FilterBar";
 import ToolsGrid from "@/components/tool/ToolsGrid";
@@ -21,7 +22,8 @@ export default function Home() {
   const [selectedSubcategory, setSelectedSubcategory] = useState<string | null>(null);
   const [selected, setSelected] = useState<Tool | null>(null);
   const [open, setOpen] = useState(false);
-  const [mounted, setMounted] = useState(false);
+  // Evitar discrepancias de hidratación para animaciones framer-motion
+  const mounted = useIsClient();
   const { ids: favIds } = useFavorites();
 
   const tools: Tool[] = toolsData as Tool[];
@@ -51,10 +53,6 @@ export default function Home() {
     return byTab;
   }, [tools, tab, category, selectedSubcategory, query, favIds]);
 
-  // Evitar discrepancias de hidratación para animaciones framer-motion
-  useEffect(() => {
-    setMounted(true);
-  }, []);
 
   return (
     <div className="min-h-screen w-full flex flex-col gap-8">

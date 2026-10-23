@@ -1,6 +1,6 @@
 "use client";
 
-import { memo, useState, useEffect } from "react";
+import { memo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { Tool } from "@/lib/types";
 
@@ -30,7 +30,8 @@ function CategorySelect({
   selectedSubcategory: string | null;
 }) {
   const [isOpen, setIsOpen] = useState(false);
-  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  // Derivada del value: el padre ya resetea la subcategoría al cambiar de categoría
+  const selectedCategory = value && value !== "Todas las categorías" ? value : null;
 
   // Filtrar categorías (excluir "Todas las categorías")
   const categoryOptions = categories.filter(c => c !== "Todas las categorías");
@@ -58,16 +59,6 @@ function CategorySelect({
 
   const subcategories = getSubcategories(selectedCategory);
 
-  // Sincronizar selectedCategory con el value (categoría seleccionada)
-  useEffect(() => {
-    if (value === "Todas las categorías" || !value) {
-      setSelectedCategory(null);
-      onSubcategoryChange(null);
-    } else if (value !== selectedCategory) {
-      setSelectedCategory(value);
-    }
-  }, [value, selectedCategory, onSubcategoryChange]);
-
   // Colores para cada categoría (oscuros en light mode, claros en dark mode)
   const getCategoryColor = (category: string) => {
     const colors = {
@@ -93,13 +84,11 @@ function CategorySelect({
   const handleCategorySelect = (category: string) => {
     if (category === "Todas las categorías") {
       onChange(category);
-      setSelectedCategory(null);
       onSubcategoryChange(null);
       // Mantener abierto para seguir viendo categorías si el usuario quiere
       return;
     }
     // Seleccionar categoría inmediatamente y mostrar subcategorías debajo
-    setSelectedCategory(category);
     onChange(category);
     // Cerrar el panel; las subcategorías se muestran fuera del panel
     setIsOpen(false);

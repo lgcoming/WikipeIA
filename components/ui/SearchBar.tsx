@@ -2,6 +2,9 @@
 
 import { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
+import { useIsClient } from "@/hooks/useIsClient";
+
+const MOBILE_UA = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i;
 
 export default function SearchBar({
   value,
@@ -17,20 +20,19 @@ export default function SearchBar({
   autoFocus?: boolean;
 }) {
   const [internal, setInternal] = useState(value);
+  const [prevValue, setPrevValue] = useState(value);
   const inputRef = useRef<HTMLInputElement | null>(null);
   const [focused, setFocused] = useState(false);
-  const [shouldAutoFocus, setShouldAutoFocus] = useState(false);
+  const isClient = useIsClient();
 
-  useEffect(() => setInternal(value), [value]);
+  // Sincronizar con el valor externo durante el render (sin efecto)
+  if (value !== prevValue) {
+    setPrevValue(value);
+    setInternal(value);
+  }
 
-  // Detectar si es un dispositivo móvil y determinar si debe hacer autofocus
-  useEffect(() => {
-    // Solo hacer autofocus en desktop (no en móviles)
-    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
-      navigator.userAgent
-    );
-    setShouldAutoFocus(autoFocus && !isMobile);
-  }, [autoFocus]);
+  // Solo hacer autofocus en desktop (no en móviles)
+  const shouldAutoFocus = isClient && autoFocus && !MOBILE_UA.test(navigator.userAgent);
 
   // Debounce for onChangeDebounced
   useEffect(() => {

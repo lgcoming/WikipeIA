@@ -6,6 +6,16 @@ const RATE_WINDOW_MS = 10 * 60 * 1000; // 10 minutos
 const RATE_MAX = 8; // máximo 8 envíos por ventana
 const bucket = new Map<string, number[]>();
 
+// El contenido del formulario se inserta en el HTML del email: hay que escaparlo.
+function escapeHtml(value: string) {
+  return value
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
 function getIp(req: Request) {
   const xf = req.headers.get("x-forwarded-for") || "";
   return xf.split(",")[0].trim() || "0.0.0.0";
@@ -70,10 +80,10 @@ export async function POST(req: Request) {
     const html = `
       <div style="font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial; line-height: 1.5;">
         <h2 style="margin:0 0 12px 0;">Nuevo mensaje de contacto</h2>
-        <p><strong>Nombre:</strong> ${_name || "(no indicado)"}</p>
-        <p><strong>Email:</strong> ${_email}</p>
+        <p><strong>Nombre:</strong> ${escapeHtml(_name) || "(no indicado)"}</p>
+        <p><strong>Email:</strong> ${escapeHtml(_email)}</p>
         <p><strong>Mensaje:</strong></p>
-        <pre style="white-space: pre-wrap; background:#f6f8fa; padding:12px; border-radius:8px;">${_message}</pre>
+        <pre style="white-space: pre-wrap; background:#f6f8fa; padding:12px; border-radius:8px;">${escapeHtml(_message)}</pre>
       </div>
     `;
 

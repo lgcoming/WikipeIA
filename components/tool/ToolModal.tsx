@@ -73,14 +73,17 @@ export default function ToolModal({
     return () => window.removeEventListener("keydown", onKey);
   }, [open, onClose, next, prev, isFullscreen, toggleFullscreen, handleZoomIn, handleZoomOut]);
 
-  useEffect(() => {
-    // Reset galería al abrir una nueva herramienta
+  // Reset galería al abrir una nueva herramienta (durante el render, sin efecto)
+  const galleryKey = `${open}:${tool?.id ?? ""}`;
+  const [prevGalleryKey, setPrevGalleryKey] = useState(galleryKey);
+  if (galleryKey !== prevGalleryKey) {
+    setPrevGalleryKey(galleryKey);
     if (open) {
       setIndex(0);
       setZoom(1);
       setIsFullscreen(false);
     }
-  }, [open, tool?.id]);
+  }
 
   const handleToggleFavorite = () => {
     if (tool) {

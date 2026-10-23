@@ -1,83 +1,68 @@
 # WikipeIA
 
-Tu wikipedia de múltiples herramientas de IA. Directorio en español construido con Next.js 15, React 19 y Tailwind CSS.
+Directorio en español de herramientas de inteligencia artificial: más de 200 herramientas
+organizadas por categoría y subcategoría, con búsqueda, filtros y favoritos.
 
-## Ejecutar en desarrollo
+**Web en producción:** [wikipeia.es](https://wikipeia.es/)
+
+## Qué resuelve
+
+La mayoría de directorios de IA están en inglés y mezclan cientos de herramientas sin contexto.
+WikipeIA las agrupa por uso (asistentes, diseño, marketing, desarrollo, multimedia, servicios),
+explica cada una en español y permite guardar las que interesan.
+
+## Funcionalidades
+
+- Búsqueda en tiempo real con normalización de texto (tildes y mayúsculas).
+- Filtros por categoría y subcategoría, y pestañas (todas, nuevas, destacadas, gratis, guardadas).
+- Favoritos persistentes en `localStorage`.
+- Ficha de cada herramienta con galería de imágenes, zoom y pantalla completa.
+- Formulario de contacto con Resend: honeypot, tiempo mínimo de envío, límite por IP y
+  escapado del contenido.
+- Banner de cookies con preferencias, modo claro/oscuro, sitemap y `robots.txt`.
+
+## Stack
+
+- Next.js 16 (App Router) · React 19 · TypeScript
+- Tailwind CSS 4 · Framer Motion
+- Resend (email) · Vercel Blob (imágenes) · Vercel (hosting)
+
+## Estructura
+
+```
+app/            rutas: inicio, información, privacidad, términos, api/contact, sitemap
+components/     ui/ (búsqueda, categorías, tema), tool/ (tarjetas, grid, ficha), cookies/
+hooks/          useFavorites, useIsClient
+lib/            filtros, tipos, constantes, contextos (favoritos, cookies)
+data/tools.json catálogo de herramientas
+scripts/        subida de imágenes a Vercel Blob (ver IMAGENES_SETUP.md)
+```
+
+## Puesta en marcha
+
+Requiere Node.js 20 o superior.
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Scripts útiles
+Variables de entorno (en `.env.local`, solo necesarias para el formulario y la subida de imágenes):
 
-- `npm run dev`: inicia el servidor de desarrollo.
-- `npm run build`: genera el build de producción.
-- `npm run start`: arranca el servidor con el build de producción.
-- `npm run lint`: revisa el código con ESLint.
-- `npm run lint:fix`: corrige automáticamente problemas detectados por ESLint.
+| Variable                | Uso                                              |
+| ----------------------- | ------------------------------------------------ |
+| `RESEND_API_KEY`        | Envío del formulario de contacto                 |
+| `CONTACT_TO`            | Destinatario del formulario                      |
+| `CONTACT_FROM`          | Remitente verificado en Resend                   |
+| `NEXT_PUBLIC_SITE_URL`  | URL base para el sitemap (por defecto wikipeia.es) |
+| `BLOB_READ_WRITE_TOKEN` | Scripts de subida de imágenes a Vercel Blob      |
 
-## Estructura de carpetas
+## Scripts
 
-```
-app/
-  layout.tsx
-  page.tsx
-  globals.css
-  sitemap.ts
-components/
-  ui/
-    CategorySelect.tsx
-    SearchBar.tsx
-    Tabs.tsx
-    ContactButton.tsx
-  tool/
-    FilterBar.tsx
-    ToolCard.tsx
-    ToolsGrid.tsx
-    ToolModal.tsx
-lib/
-  constants.ts
-  filters.ts
-  favoritesContext.tsx
-  types.ts
-hooks/
-  useFavorites.ts
-data/
-  tools.json
-public/
-  logo.png
-  favicon.ico
-  robots.txt
-```
+- `npm run dev`: servidor de desarrollo.
+- `npm run build` / `npm run start`: build y servidor de producción.
+- `npm run lint` / `npm run lint:fix`: ESLint (configuración flat de `eslint-config-next`).
 
-## Favoritos ("Guardadas")
+## Autor
 
-- Estado global mediante `FavoritesProvider` en `lib/favoritesContext.tsx` (cliente):
-  - Inicializa SINCRÓNICAMENTE desde `localStorage` (clave: `wikipeia:favs`).
-  - Persiste en cada cambio y sincroniza en vivo entre componentes.
-- Hook `useFavorites` en `hooks/useFavorites.ts` que consume el contexto.
-- Botón "Guardar/Guardada" en `components/tool/ToolCard.tsx`.
-- Pestaña "Guardadas" disponible, con tabs centralizados en `lib/constants.ts`.
-
-## Características
-
-- 🎨 **Diseño moderno y futurista** con efectos neón y animaciones suaves
-- 🔍 **Búsqueda en tiempo real** con normalización de texto
-- 🏷️ **Filtrado por categorías** con 9 categorías únicas
-- ⭐ **Sistema de favoritos** con persistencia en localStorage
-- 📱 **Responsive** y optimizado para todos los dispositivos
-- ♿ **Accesible** con navegación por teclado y ARIA labels
-- ⚡ **Optimizado** con memoización y animaciones eficientes
-
-## Notas técnicas
-
-- Assets servidos desde `public/` (ej: `/logo.png`, `/favicon.ico`)
-- `robots.txt` y sitemap generado automáticamente
-- Animaciones con `framer-motion` para UX fluida
-- Componentes memoizados para performance óptima
-- Estilo futurista con Tailwind CSS y variables CSS personalizadas
-
-## Licencia
-
-Este proyecto es de uso interno. Ajusta la licencia según tus necesidades.
+Luis Gómez · [lgcomin.com](https://www.lgcomin.com/)

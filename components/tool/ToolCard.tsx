@@ -1,16 +1,16 @@
 "use client";
 
 import type { Tool } from "@/lib/types";
-import { memo, useEffect, useMemo, useState } from "react";
+import { memo, useMemo } from "react";
 import { useFavorites } from "@/hooks/useFavorites";
+import { useIsClient } from "@/hooks/useIsClient";
 import Image from "next/image";
 
 function ToolCard({ tool, onSelect }: { tool: Tool; onSelect?: (tool: Tool) => void }) {
   const { isFav, toggle } = useFavorites();
   // Evitar hydration mismatch: hasta que el componente monte en el cliente,
   // forzamos "no guardada" para que coincida con el SSR.
-  const [mounted, setMounted] = useState(false);
-  useEffect(() => setMounted(true), []);
+  const mounted = useIsClient();
   const saved = mounted ? isFav(tool.id) : false;
 
   const precioLabel = useMemo(() => {
