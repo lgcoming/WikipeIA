@@ -1,5 +1,22 @@
 [
   {
+    "id": "agent-qa",
+    "nombre": "agent-qa",
+    "categoria": "Desarrollo",
+    "subcategoria": [
+      "Testing"
+    ],
+    "precio": "gratis",
+    "etiquetas": [],
+    "enlace": "https://vostride.com",
+    "imagen": "",
+    "imagenes": [],
+    "descripcion": "Prueba apps web, Android e iOS con instrucciones en lenguaje natural, memoria persistente y aprendizaje validado.",
+    "pruebaGratis": false,
+    "descripcionDetallada": "agent-qa, de vostride, automatiza pruebas de interfaces web y móviles desde la terminal o mediante MCP. Su motor de memoria conserva hechos, advertencias y procedimientos verificados para mejorar las siguientes ejecuciones. El paquete se instala localmente y requiere acceso configurado a un modelo de IA; el proveedor puede cobrar por su uso.",
+    "fechaAlta": "2026-10-25"
+  },
+  {
     "id": "2short-ai",
     "nombre": "2short.ai",
     "categoria": "Multimedia",
