@@ -41,10 +41,25 @@ function Tabs({
               ? getActiveStyles(t)
               : "border-gray-400 dark:border-white/15 text-gray-800 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30"
               }`}
+            type="button"
             role="tab"
             aria-selected={active}
-
             tabIndex={active ? 0 : -1}
+            onKeyDown={(e) => {
+              // Patrón de pestañas WAI-ARIA: solo la activa recibe Tab; las flechas cambian de pestaña.
+              const i = tabs.indexOf(t);
+              const target =
+                e.key === "ArrowRight" ? tabs[(i + 1) % tabs.length]
+                : e.key === "ArrowLeft" ? tabs[(i - 1 + tabs.length) % tabs.length]
+                : e.key === "Home" ? tabs[0]
+                : e.key === "End" ? tabs[tabs.length - 1]
+                : null;
+              if (!target) return;
+              e.preventDefault();
+              onChange(target);
+              const buttons = e.currentTarget.parentElement?.querySelectorAll<HTMLButtonElement>('[role="tab"]');
+              buttons?.[tabs.indexOf(target)]?.focus();
+            }}
           >
             {t}
           </button>

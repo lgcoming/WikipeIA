@@ -1,16 +1,25 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { m, AnimatePresence } from "framer-motion";
 import { createPortal } from "react-dom";
 
 type Props = {
   label?: string;
   showIcon?: boolean;
   iconClassName?: string;
+  /** "outline" (por defecto, cabecera) o "solid" para llamadas a la acción destacadas. */
+  variant?: "outline" | "solid";
 };
 
-export default function ContactButton({ label = "Contacto", showIcon = false, iconClassName = "h-4 w-4" }: Props) {
+const VARIANT_CLASSES = {
+  outline:
+    "border border-gray-300 dark:border-white/20 text-gray-700 dark:text-white/85 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-white/10 hover:border-gray-400 dark:hover:border-white/30 focus-visible:ring-blue-500 dark:focus-visible:ring-white/40 hover:ring-1 hover:ring-gray-300 dark:hover:ring-white/30",
+  solid:
+    "border border-gray-900 bg-gray-900 text-white hover:bg-gray-800 dark:border-white dark:bg-white dark:text-gray-900 dark:hover:bg-white/90 focus-visible:ring-offset-2 focus-visible:ring-gray-900 dark:focus-visible:ring-white dark:focus-visible:ring-offset-black",
+} as const;
+
+export default function ContactButton({ label = "Contacto", showIcon = false, iconClassName = "h-4 w-4", variant = "outline" }: Props) {
   const [open, setOpen] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const [result, setResult] = useState<null | { ok: boolean; message: string }>(null);
@@ -65,7 +74,7 @@ export default function ContactButton({ label = "Contacto", showIcon = false, ic
           setOpen(true);
           setOpenedAt(Date.now());
         }}
-        className="inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2 text-sm font-medium border border-gray-300 dark:border-white/20 text-gray-700 dark:text-white/85 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-white/10 hover:border-gray-400 dark:hover:border-white/30 transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 dark:focus-visible:ring-white/40 hover:ring-1 hover:ring-gray-300 dark:hover:ring-white/30 active:scale-95 active:transform cursor-pointer"
+        className={`inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2 text-sm font-medium transition focus-visible:outline-none focus-visible:ring-2 active:scale-95 active:transform cursor-pointer ${VARIANT_CLASSES[variant]}`}
       >
         {showIcon && (
           <svg className={iconClassName} fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
@@ -78,7 +87,7 @@ export default function ContactButton({ label = "Contacto", showIcon = false, ic
       {typeof window !== "undefined" && createPortal(
         <AnimatePresence>
           {open && (
-            <motion.div
+            <m.div
               className="fixed inset-0 z-[100] flex items-center justify-center p-4"
               aria-modal="true"
               role="dialog"
@@ -88,14 +97,14 @@ export default function ContactButton({ label = "Contacto", showIcon = false, ic
               exit={{ opacity: 0 }}
             >
               {/* Overlay */}
-              <motion.div
+              <m.div
                 className="absolute inset-0 bg-black/75 backdrop-blur-sm"
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
                 exit={{ opacity: 0 }}
               />
               {/* Panel */}
-              <motion.div
+              <m.div
                 className="relative z-10 w-full max-w-md max-h-[85vh] overflow-y-auto rounded-2xl border border-white/15 bg-zinc-950 text-white shadow-2xl"
                 onClick={(e) => e.stopPropagation()}
                 initial={{ opacity: 0, y: 8, scale: 0.98 }}
@@ -140,8 +149,8 @@ export default function ContactButton({ label = "Contacto", showIcon = false, ic
                     </div>
                   </form>
                 </div>
-              </motion.div>
-            </motion.div>
+              </m.div>
+            </m.div>
           )}
         </AnimatePresence>,
         document.body

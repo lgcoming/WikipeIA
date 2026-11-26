@@ -16,3 +16,9 @@ export type Tool = {
   pruebaGratis?: boolean;   // indica si ofrece prueba gratis (sólo relevante para pago)
   fechaAlta?: string;        // ISO (YYYY-MM-DD), opcional; usado para la lógica de "Nuevas"
 };
+
+// Lo que necesita el directorio para pintar tarjetas, buscar y filtrar.
+// La galería y la descripción extendida solo se usan en la ficha y se cargan al abrirla.
+export type ToolSummary = Omit<Tool, "imagenes" | "descripcionDetallada">;
+
+export type ToolDetails = Pick<Tool, "imagenes" | "descripcionDetallada">;

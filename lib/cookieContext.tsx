@@ -83,28 +83,8 @@ export function CookieProvider({ children }: { children: ReactNode }) {
     writeStorage(COOKIE_PREFERENCES_KEY, JSON.stringify(prefsToSave));
     writeStorage(COOKIE_CONSENT_KEY, "true");
     setShowSettings(false);
-
-    // Aplicar preferencias de cookies
-    applyPreferences(prefsToSave);
-  };
-
-  const applyPreferences = (prefs: CookiePreferences) => {
-    // Aquí puedes integrar con servicios de analytics
-    if (prefs.analytics) {
-      // Habilitar Google Analytics, etc.
-      console.log("Analytics cookies enabled");
-    } else {
-      // Deshabilitar analytics
-      console.log("Analytics cookies disabled");
-    }
-
-    if (prefs.personalization) {
-      // Habilitar cookies de personalización
-      console.log("Personalization cookies enabled");
-    } else {
-      // Deshabilitar personalización
-      console.log("Personalization cookies disabled");
-    }
+    // Punto de integración: si se añade analítica, activarla aquí solo cuando
+    // prefsToSave.analytics sea true (y personalización con prefsToSave.personalization).
   };
 
   const acceptAll = () => {

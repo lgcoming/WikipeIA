@@ -1,183 +1,143 @@
-"use client";
-
-import Link from "next/link";
+import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/site";
 import Image from "next/image";
+import PageHero from "@/components/content/PageHero";
+import RelatedPages from "@/components/content/RelatedPages";
+import { Card, SectionHeading, Tile } from "@/components/content/blocks";
+import { IconBadge, type IconName } from "@/components/content/Icon";
 import ContactButton from "@/components/ui/ContactButton";
+
+export const metadata: Metadata = pageMetadata({
+  title: "Acerca de WikipeIA | Directorio de herramientas de IA",
+  absoluteTitle: true,
+  description:
+    "Qué es WikipeIA, nuestra misión y cómo seleccionamos las herramientas de inteligencia artificial del directorio.",
+  path: "/informacion",
+});
+
+const FEATURES: { icon: IconName; title: string; text: string }[] = [
+  {
+    icon: "checkCircle",
+    title: "Revisión experta",
+    text: "Seleccionamos y evaluamos cada herramienta para garantizar calidad y relevancia.",
+  },
+  {
+    icon: "document",
+    title: "Descripciones detalladas",
+    text: "Información completa sobre funciones, precios y casos de uso.",
+  },
+  {
+    icon: "search",
+    title: "Búsqueda inteligente",
+    text: "Filtra por categoría, precio y características para encontrar lo que buscas.",
+  },
+  {
+    icon: "refresh",
+    title: "Actualización constante",
+    text: "Añadimos nuevas herramientas y actualizamos información regularmente.",
+  },
+];
+
+const VALUES: { icon: IconName; title: string; text: string }[] = [
+  { icon: "star", title: "Calidad", text: "Solo incluimos herramientas que han demostrado su valor y utilidad." },
+  {
+    icon: "eye",
+    title: "Transparencia",
+    text: "Información clara y honesta sobre cada herramienta y sus características.",
+  },
+  { icon: "globe", title: "Accesibilidad", text: "Hacemos la IA accesible para la comunidad hispanohablante." },
+];
+
+const STATS = [
+  { value: "+200", label: "Herramientas" },
+  { value: "+40", label: "Subcategorías" },
+  { value: "100%", label: "Gratuito" },
+  { value: "24/7", label: "Disponible" },
+];
 
 export default function InformacionPage() {
   return (
-    <div className="min-h-screen bg-gradient-to-r from-blue-50 via-white to-blue-50 dark:from-[#00d4ff]/10 dark:via-black dark:to-[#00d4ff]/10">
-      <div className="container mx-auto px-6 py-16 max-w-4xl">
-        {/* Header */}
-        <div className="text-center mb-12">
-          <Link
-            href="/"
-            className="inline-flex items-center gap-2 text-gray-600 dark:text-white/70 hover:text-gray-900 dark:hover:text-white transition mb-8"
-          >
-            <svg className="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 19l-7-7m0 0l7-7m-7 7h18" />
-            </svg>
-            Volver a WikipeIA
-          </Link>
+    <>
+      <PageHero
+        eyebrow="Sobre nosotros"
+        title="Acerca de WikipeIA"
+        description="Tu directorio de confianza para descubrir las mejores herramientas de inteligencia artificial."
+        leading={
+          <>
+            <Image src="/logo negro.png" alt="" width={56} height={56} className="h-14 w-14 shrink-0 dark:hidden" />
+            <Image src="/logo.png" alt="" width={56} height={56} className="hidden h-14 w-14 shrink-0 dark:block" />
+          </>
+        }
+      />
 
-          <div className="flex items-center justify-center gap-4 mb-6">
-            <Image src="/logo negro.png" alt="WikipeIA Logo" width={64} height={64} className="h-16 w-16 dark:hidden" />
-            <Image src="/logo.png" alt="WikipeIA Logo" width={64} height={64} className="h-16 w-16 hidden dark:block" />
-            <h1 className="text-4xl font-bold text-gray-900 dark:text-white">Acerca de WikipeIA</h1>
-          </div>
-
-          <p className="text-gray-700 dark:text-white/70 text-lg max-w-2xl mx-auto whitespace-nowrap">
-            Tu directorio de confianza para descubrir las mejores herramientas de inteligencia artificial
+      <div className="mt-10 grid gap-6 sm:mt-12 lg:grid-cols-3">
+        <Card className="lg:col-span-2">
+          <SectionHeading icon="lightBulb">Nuestra misión</SectionHeading>
+          <p className="mt-5 max-w-3xl text-base leading-relaxed text-gray-700 sm:text-lg dark:text-white/80">
+            En WikipeIA, creemos que la inteligencia artificial debe ser accesible para todos. Nuestra misión es
+            facilitar el acceso a herramientas de IA proporcionando un directorio amplio, cuidado y fácil de navegar
+            que ayude a usuarios, empresas y desarrolladores a encontrar exactamente lo que necesitan.
           </p>
-        </div>
+        </Card>
 
-        {/* Content */}
-        <div className="space-y-8">
+        <Card>
+          <SectionHeading icon="chart">Nuestros números</SectionHeading>
+          <dl className="mt-6 grid grid-cols-2 gap-3">
+            {STATS.map((stat) => (
+              <div
+                key={stat.label}
+                className="rounded-xl border border-gray-200 bg-gray-50/70 px-4 py-3 dark:border-white/10 dark:bg-white/[0.03]"
+              >
+                <dt className="text-sm text-gray-600 dark:text-white/60">{stat.label}</dt>
+                <dd className="mt-1 font-display text-2xl font-semibold tracking-wide text-gray-900 dark:text-white">
+                  {stat.value}
+                </dd>
+              </div>
+            ))}
+          </dl>
+        </Card>
 
-          {/* Mission */}
-          <div className="bg-white dark:bg-white/5 backdrop-blur-sm rounded-2xl border border-gray-200 dark:border-white/10 p-8 shadow-sm">
-            <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-4 flex items-center gap-3">
-              <span className="text-2xl">🎯</span>
-              Nuestra Misión
+        <Card className="lg:col-span-3">
+          <SectionHeading icon="sparkles">Lo que hacemos</SectionHeading>
+          <div className="mt-6 grid gap-4 md:grid-cols-2">
+            {FEATURES.map((feature) => (
+              <Tile key={feature.title} icon={feature.icon} title={feature.title}>
+                {feature.text}
+              </Tile>
+            ))}
+          </div>
+        </Card>
+
+        <Card className="lg:col-span-3">
+          <SectionHeading icon="shieldCheck">Nuestros valores</SectionHeading>
+          <div className="mt-6 grid gap-4 md:grid-cols-3">
+            {VALUES.map((value) => (
+              <Tile key={value.title} icon={value.icon} title={value.title} layout="stack">
+                {value.text}
+              </Tile>
+            ))}
+          </div>
+        </Card>
+
+        <section data-reveal className="relative overflow-hidden rounded-2xl border border-gray-200 bg-white px-6 py-10 text-center shadow-sm sm:px-10 sm:py-12 lg:col-span-3 dark:border-white/10 dark:bg-white/[0.03] dark:shadow-none">
+          <div aria-hidden="true" className="page-hero-glow absolute inset-0 rotate-180" />
+          <div className="relative mx-auto flex max-w-2xl flex-col items-center">
+            <IconBadge name="envelope" />
+            <h2 className="mt-5 text-2xl font-semibold tracking-tight text-gray-900 sm:text-3xl dark:text-white text-balance">
+              ¿Tienes una herramienta que sugerir?
             </h2>
-            <p className="text-gray-700 dark:text-white/80 leading-relaxed">
-              En WikipeIA, creemos que la inteligencia artificial debe ser accesible para todos. Nuestra misión es
-              facilitar el acceso a herramientas de IA proporcionando un directorio amplio, cuidado y fácil de navegar
-              que ayude a usuarios, empresas y desarrolladores a encontrar exactamente lo que necesitan.
+            <p className="mt-3 leading-relaxed text-gray-600 dark:text-white/70 text-pretty">
+              Si conoces una herramienta de IA que debería estar en nuestro directorio, nos encantaría conocerla.
+              Contáctanos y la evaluaremos para su inclusión.
             </p>
-          </div>
-
-          {/* What we do */}
-          <div className="bg-white dark:bg-white/5 backdrop-blur-sm rounded-2xl border border-gray-200 dark:border-white/10 p-8 shadow-sm">
-            <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-6 flex items-center gap-3">
-              <span className="text-2xl">🚀</span>
-              Lo que Hacemos
-            </h2>
-            <div className="grid md:grid-cols-2 gap-6">
-              <div className="space-y-4">
-                <div className="flex items-start gap-3">
-                  <span className="text-lg">📚</span>
-                  <div>
-                    <h3 className="text-gray-900 dark:text-white font-medium mb-1">Revisión Experta</h3>
-                    <p className="text-gray-600 dark:text-white/70 text-sm">Seleccionamos y evaluamos cada herramienta para garantizar calidad y relevancia.</p>
-                  </div>
-                </div>
-                <div className="flex items-start gap-3">
-                  <span className="text-lg">🔍</span>
-                  <div>
-                    <h3 className="text-gray-900 dark:text-white font-medium mb-1">Búsqueda Inteligente</h3>
-                    <p className="text-gray-600 dark:text-white/70 text-sm">Filtra por categoría, precio y características para encontrar lo que buscas.</p>
-                  </div>
-                </div>
-              </div>
-              <div className="space-y-4">
-                <div className="flex items-start gap-3">
-                  <span className="text-lg">📝</span>
-                  <div>
-                    <h3 className="text-gray-900 dark:text-white font-medium mb-1">Descripciones Detalladas</h3>
-                    <p className="text-gray-600 dark:text-white/70 text-sm">Información completa sobre funciones, precios y casos de uso.</p>
-                  </div>
-                </div>
-                <div className="flex items-start gap-3">
-                  <span className="text-lg">🔄</span>
-                  <div>
-                    <h3 className="text-gray-900 dark:text-white font-medium mb-1">Actualización Constante</h3>
-                    <p className="text-gray-600 dark:text-white/70 text-sm">Añadimos nuevas herramientas y actualizamos información regularmente.</p>
-                  </div>
-                </div>
-              </div>
+            <div className="mt-7">
+              <ContactButton label="Contáctanos" showIcon iconClassName="h-5 w-5" variant="solid" />
             </div>
           </div>
-
-          {/* Values */}
-          <div className="bg-white dark:bg-white/5 backdrop-blur-sm rounded-2xl border border-gray-200 dark:border-white/10 p-8 shadow-sm">
-            <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-6 flex items-center gap-3">
-              <span className="text-2xl">💎</span>
-              Nuestros Valores
-            </h2>
-            <div className="grid md:grid-cols-3 gap-6">
-              <div className="text-center">
-                <div className="w-12 h-12 bg-blue-500/20 rounded-full flex items-center justify-center mx-auto mb-3">
-                  <span className="text-2xl">🌟</span>
-                </div>
-                <h3 className="text-gray-900 dark:text-white font-medium mb-2">Calidad</h3>
-                <p className="text-gray-600 dark:text-white/70 text-sm">Solo incluimos herramientas que han demostrado su valor y utilidad.</p>
-              </div>
-              <div className="text-center">
-                <div className="w-12 h-12 bg-green-500/20 rounded-full flex items-center justify-center mx-auto mb-3">
-                  <span className="text-2xl">🤝</span>
-                </div>
-                <h3 className="text-gray-900 dark:text-white font-medium mb-2">Transparencia</h3>
-                <p className="text-gray-600 dark:text-white/70 text-sm">Información clara y honesta sobre cada herramienta y sus características.</p>
-              </div>
-              <div className="text-center">
-                <div className="w-12 h-12 bg-purple-500/20 rounded-full flex items-center justify-center mx-auto mb-3">
-                  <span className="text-2xl">🌍</span>
-                </div>
-                <h3 className="text-gray-900 dark:text-white font-medium mb-2">Accesibilidad</h3>
-                <p className="text-gray-600 dark:text-white/70 text-sm">Hacemos la IA accesible para la comunidad hispanohablante.</p>
-              </div>
-            </div>
-          </div>
-
-          {/* Stats */}
-          <div className="bg-white dark:bg-white/5 backdrop-blur-sm rounded-2xl border border-gray-200 dark:border-white/10 p-8 shadow-sm">
-            <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-6 text-center flex items-center justify-center gap-3">
-              <span className="text-2xl">📊</span>
-              Nuestros Números
-            </h2>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
-              <div>
-                <div className="text-3xl font-bold text-gray-900 dark:text-white mb-1">+200</div>
-                <div className="text-gray-600 dark:text-white/70 text-sm">Herramientas</div>
-              </div>
-              <div>
-                <div className="text-3xl font-bold text-gray-900 dark:text-white mb-1">+40</div>
-                <div className="text-gray-600 dark:text-white/70 text-sm">Subcategorías</div>
-              </div>
-              <div>
-                <div className="text-3xl font-bold text-gray-900 dark:text-white mb-1">100%</div>
-                <div className="text-gray-600 dark:text-white/70 text-sm">Gratuito</div>
-              </div>
-              <div>
-                <div className="text-3xl font-bold text-gray-900 dark:text-white mb-1">24/7</div>
-                <div className="text-gray-600 dark:text-white/70 text-sm">Disponible</div>
-              </div>
-            </div>
-          </div>
-
-          {/* Contact CTA */}
-          <div className="bg-white dark:bg-white/5 backdrop-blur-sm rounded-2xl border border-gray-200 dark:border-white/10 p-8 text-center shadow-sm">
-            <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-4">¿Tienes una Herramienta que Sugerir?</h2>
-            <p className="text-gray-600 dark:text-white/70 mb-6">
-              Si conoces una herramienta de IA que debería estar en nuestro directorio,
-              nos encantaría conocerla. Contáctanos y la evaluaremos para su inclusión.
-            </p>
-            <div className="inline-flex">
-              <ContactButton label="Contáctanos" showIcon iconClassName="h-5 w-5" />
-            </div>
-          </div>
-        </div>
-
-        {/* Footer Navigation */}
-        <div className="text-center mt-12 space-y-4">
-          <div className="flex justify-center gap-6 text-sm">
-            <Link href="/privacidad" className="text-gray-600 dark:text-white/70 hover:text-gray-900 dark:hover:text-white transition">
-              Política de Privacidad
-            </Link>
-            <Link href="/terminos" className="text-gray-600 dark:text-white/70 hover:text-gray-900 dark:hover:text-white transition">
-              Términos y Condiciones
-            </Link>
-          </div>
-          <Link
-            href="/"
-            className="inline-block text-gray-600 dark:text-white/70 hover:text-gray-900 dark:hover:text-white transition"
-          >
-            ← Volver al Directorio
-          </Link>
-        </div>
+        </section>
       </div>
-    </div>
+
+      <RelatedPages current="informacion" />
+    </>
   );
 }
-

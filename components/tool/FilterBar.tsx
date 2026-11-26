@@ -3,7 +3,7 @@
 import Tabs from "@/components/ui/Tabs";
 import CategorySelect from "@/components/ui/CategorySelect";
 import type { TabKey } from "@/lib/types";
-import type { Tool } from "@/lib/types";
+import type { ToolSummary } from "@/lib/types";
 
 export default function FilterBar({
   tabs,
@@ -22,7 +22,7 @@ export default function FilterBar({
   categories: string[];
   categoria: string;
   onCategoriaChange: (c: string) => void;
-  tools: Tool[];
+  tools: ToolSummary[];
   onSubcategoryChange: (s: string | null) => void;
   selectedSubcategory: string | null;
 }) {
