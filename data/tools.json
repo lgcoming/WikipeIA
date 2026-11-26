@@ -38,7 +38,7 @@
     ],
     "descripcion": "Genera creatividades y copies de anuncios con IA para Google/Meta.",
     "pruebaGratis": true,
-    "descripcionDetallada": "Copymatic genera borradores largos y piezas cortas para blogs, páginas y anuncios con plantillas por objetivo. Ajusta tono/idioma, sugiere títulos y estructuras, y permite crear variantes en lote para testeo. Útil para marketers, e-commerce y freelancers que buscan velocidad y coherencia editorial; incluye prueba y planes con límites de palabras/asientos.",
+    "descripcionDetallada": "AdCreative.ai genera creatividades y textos publicitarios a partir de tu marca: añades el logotipo, los colores y el producto, y crea en lote banners y variantes en los formatos de Google, Meta y otras redes. Incluye una puntuación que estima el rendimiento de cada creatividad para decidir cuáles probar primero. Útil para equipos de marketing, comercios online y agencias que necesitan producir y testear muchos anuncios; ofrece prueba gratis y planes de pago con distintos límites de uso.",
     "fechaAlta": "2025-10-16"
   },
   {
@@ -238,7 +238,7 @@
     "precio": "pago",
     "etiquetas": [],
     "enlace": "https://aiseo.ai/?fpr=wikipeia",
-    "imagen": "https://aiseo.ai/_next/image?url=%2Ficons%2Fnavbar%2FaiseoIconOnly.png&w=64&q=75",
+    "imagen": "",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AISEO/1.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/AISEO/2.jpg",
@@ -988,7 +988,7 @@
     "imagen": "",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Coverler/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob-vercel-storage.com/Coverler/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Coverler/2.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Coverler/3.jpg"
     ],
     "descripcion": "Generador rápido de cover letters personalizadas con IA.",
@@ -1601,7 +1601,7 @@
     "imagen": "",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Seo_AI/1.jpg",
-      "https://qykyvqh1qam7ipk4.public.blob-vercel-storage.com/Seo_AI/2.jpg",
+      "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Seo_AI/2.jpg",
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Seo_AI/3.jpg"
     ],
     "descripcion": "Generación y optimización avanzada de contenido SEO con IA.",
@@ -1825,7 +1825,7 @@
     ],
     "precio": "pago",
     "etiquetas": [],
-    "enlace": "http://rezi.ai/?via=wikipeia",
+    "enlace": "https://rezi.ai/?via=wikipeia",
     "imagen": "",
     "imagenes": [
       "https://qykyvqh1qam7ipk4.public.blob.vercel-storage.com/Rezi/1.jpg",

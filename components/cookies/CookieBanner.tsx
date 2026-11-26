@@ -1,7 +1,7 @@
 "use client";
 
 import { useCookies } from "@/lib/cookieContext";
-import { motion, AnimatePresence } from "framer-motion";
+import { m, AnimatePresence } from "framer-motion";
 
 export default function CookieBanner() {
   const { showBanner, acceptAll, denyAll, closeBanner } = useCookies();
@@ -10,7 +10,7 @@ export default function CookieBanner() {
 
   return (
     <AnimatePresence>
-      <motion.div
+      <m.div
         initial={{ y: 100, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
         exit={{ y: 100, opacity: 0 }}
@@ -18,7 +18,7 @@ export default function CookieBanner() {
         className="fixed bottom-4 left-1/2 -translate-x-1/2 z-50 w-[min(88vw,560px)] sm:w-[min(92vw,820px)] lg:w-[min(92vw,960px)]"
       >
         <div className="mx-auto max-w-5xl">
-          <div className="relative overflow-hidden rounded-xl border border-white/15 bg-zinc-950 backdrop-blur-xl shadow-2xl">
+          <div className="relative overflow-hidden rounded-xl border border-white/15 bg-zinc-950 shadow-2xl">
             {/* Content */}
             <div className="relative p-4 pr-10 sm:pr-12">
               {/* Close button absolute */}
@@ -60,7 +60,7 @@ export default function CookieBanner() {
             </div>
           </div>
         </div>
-      </motion.div>
+      </m.div>
     </AnimatePresence>
   );
 }

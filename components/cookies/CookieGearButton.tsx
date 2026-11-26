@@ -1,7 +1,7 @@
 "use client";
 
 import { useCookies } from "@/lib/cookieContext";
-import { motion, AnimatePresence } from "framer-motion";
+import { m, AnimatePresence } from "framer-motion";
 
 export default function CookieGearButton() {
   const { hasConsented, openSettings } = useCookies();
@@ -11,7 +11,7 @@ export default function CookieGearButton() {
 
   return (
     <AnimatePresence>
-      <motion.div
+      <m.div
         initial={{ scale: 0, opacity: 0 }}
         animate={{ scale: 1, opacity: 1 }}
         exit={{ scale: 0, opacity: 0 }}
@@ -23,7 +23,7 @@ export default function CookieGearButton() {
         }}
         className="fixed bottom-6 left-6 z-40"
       >
-        <motion.button
+        <m.button
           onClick={openSettings}
           whileHover={{ scale: 1.1 }}
           whileTap={{ scale: 0.95 }}
@@ -32,7 +32,7 @@ export default function CookieGearButton() {
           title="Configurar cookies"
         >
           {/* Icon */}
-          <motion.svg
+          <m.svg
             className="h-5 w-5 text-white/70 group-hover:text-white transition-colors"
             fill="none"
             stroke="currentColor"
@@ -52,7 +52,7 @@ export default function CookieGearButton() {
               strokeWidth={2} 
               d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" 
             />
-          </motion.svg>
+          </m.svg>
 
           {/* Tooltip */}
           <div className="absolute left-full ml-3 hidden group-hover:block">
@@ -68,8 +68,8 @@ export default function CookieGearButton() {
 
           {/* Subtle glow effect */}
           <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500/20 to-purple-500/20 opacity-0 group-hover:opacity-100 transition-opacity blur-sm" />
-        </motion.button>
-      </motion.div>
+        </m.button>
+      </m.div>
     </AnimatePresence>
   );
 }

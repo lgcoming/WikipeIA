@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { flushSync } from "react-dom";
 import { useIsClient } from "@/hooks/useIsClient";
 
 type Theme = "dark" | "light";
@@ -15,16 +16,41 @@ export default function ThemeToggle() {
         if (mounted) document.documentElement.classList.toggle("dark", theme === "dark");
     }, [mounted, theme]);
 
-    const toggleTheme = () => {
+    const toggleTheme = (event: React.MouseEvent<HTMLButtonElement>) => {
         const newTheme = theme === "dark" ? "light" : "dark";
-        setChosenTheme(newTheme);
-        localStorage.setItem("theme", newTheme);
-        document.documentElement.classList.toggle("dark", newTheme === "dark");
 
-        const meta = document.querySelector('meta[name="color-scheme"]');
-        if (meta) {
-            meta.setAttribute("content", newTheme);
+        const apply = () => {
+            // flushSync: el icono del botón también debe estar actualizado en la captura nueva.
+            flushSync(() => setChosenTheme(newTheme));
+            try {
+                localStorage.setItem("theme", newTheme);
+            } catch {
+                // almacenamiento bloqueado: el tema se aplica igualmente en esta visita
+            }
+            document.documentElement.classList.toggle("dark", newTheme === "dark");
+            document.querySelector('meta[name="color-scheme"]')?.setAttribute("content", newTheme);
+        };
+
+        const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+        if (!("startViewTransition" in document) || reduceMotion) {
+            apply();
+            return;
         }
+
+        // View Transitions: el tema nuevo se revela en un círculo que crece desde el botón.
+        const rect = event.currentTarget.getBoundingClientRect();
+        const x = rect.left + rect.width / 2;
+        const y = rect.top + rect.height / 2;
+        const radius = Math.hypot(Math.max(x, window.innerWidth - x), Math.max(y, window.innerHeight - y));
+        const transition = document.startViewTransition(apply);
+        transition.ready
+            .then(() => {
+                document.documentElement.animate(
+                    { clipPath: [`circle(0px at ${x}px ${y}px)`, `circle(${radius}px at ${x}px ${y}px)`] },
+                    { duration: 650, easing: "cubic-bezier(0.4, 0, 0.2, 1)", pseudoElement: "::view-transition-new(root)" },
+                );
+            })
+            .catch(() => {});
     };
 
     if (!mounted) {

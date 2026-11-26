@@ -1,0 +1,460 @@
+/* ==========================================================================
+   Efectos visuales y animaciones de la interfaz.
+   Todo se anima con transform/opacity (la GPU lo compone sin repintar) y se
+   desactiva cuando el usuario pide reducir el movimiento.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Hero de la portada: retícula de puntos, auroras a la deriva, lente que
+   ilumina los puntos bajo el cursor y horizonte con un barrido de luz.
+   -------------------------------------------------------------------------- */
+.home-hero {
+  --hero-base: linear-gradient(to bottom, #eef6ff 0%, #ffffff 100%);
+  --hero-dot: rgba(15, 23, 42, 0.14);
+  --hero-dot-lit: rgba(8, 145, 178, 0.95);
+  --hero-lens-glow: rgba(8, 145, 178, 0.12);
+  --hero-aurora-a: rgba(0, 170, 220, 0.2);
+  --hero-aurora-b: rgba(56, 130, 246, 0.12);
+  --hero-line: rgba(8, 145, 178, 0.45);
+  --hero-sweep: #0891b2;
+}
+
+.dark .home-hero {
+  --hero-base: linear-gradient(to bottom, #020617 0%, #050b16 55%, #0a0a0a 100%);
+  --hero-dot: rgba(255, 255, 255, 0.11);
+  --hero-dot-lit: rgba(0, 212, 255, 0.95);
+  --hero-lens-glow: rgba(0, 212, 255, 0.16);
+  --hero-aurora-a: rgba(0, 212, 255, 0.24);
+  --hero-aurora-b: rgba(14, 116, 144, 0.34);
+  --hero-line: rgba(0, 212, 255, 0.45);
+  --hero-sweep: #a5f3fc;
+}
+
+.hero-base {
+  background-image: var(--hero-base);
+}
+
+.hero-dots,
+.hero-lens-dots {
+  background-image: radial-gradient(circle at center, var(--hero-dot) 1px, transparent 1.6px);
+  background-size: 24px 24px;
+  background-position: 0 0;
+}
+
+/* Bajo la lente los puntos crecen y brillan (misma retícula de 24 px, así que coinciden) */
+.hero-lens-dots {
+  background-image: radial-gradient(circle at center, var(--hero-dot-lit) 1.6px, transparent 2.4px);
+}
+
+.hero-dots {
+  -webkit-mask-image: radial-gradient(ellipse 70% 90% at 50% 25%, #000 25%, transparent 100%);
+  mask-image: radial-gradient(ellipse 70% 90% at 50% 25%, #000 25%, transparent 100%);
+}
+
+/* Lente: círculo que sigue al cursor y deja ver una copia de la retícula en cian.
+   La copia se desplaza en sentido contrario para que sus puntos coincidan con los de debajo. */
+.hero-lens {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 360px;
+  height: 360px;
+  border-radius: 9999px;
+  overflow: hidden;
+  opacity: 0;
+  transition: opacity 500ms ease;
+  background: radial-gradient(circle, var(--hero-lens-glow), transparent 70%);
+  -webkit-mask-image: radial-gradient(circle closest-side, #000 0%, #000 35%, rgba(0, 0, 0, 0.5) 65%, transparent 100%);
+  mask-image: radial-gradient(circle closest-side, #000 0%, #000 35%, rgba(0, 0, 0, 0.5) 65%, transparent 100%);
+  will-change: transform, opacity;
+  pointer-events: none;
+}
+
+.hero-lens.is-active {
+  opacity: 1;
+}
+
+.hero-lens-dots {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 1200px;
+  will-change: transform;
+}
+
+.hero-aurora {
+  position: absolute;
+  border-radius: 9999px;
+  pointer-events: none;
+  will-change: transform;
+}
+
+.hero-aurora-a {
+  width: 56rem;
+  height: 26rem;
+  left: 50%;
+  top: -12rem;
+  margin-left: -28rem;
+  background: radial-gradient(closest-side, var(--hero-aurora-a), transparent);
+  transform: translate3d(-14%, 0, 0);
+}
+
+.hero-aurora-b {
+  width: 40rem;
+  height: 22rem;
+  left: -8rem;
+  bottom: -12rem;
+  background: radial-gradient(closest-side, var(--hero-aurora-b), transparent);
+}
+
+@keyframes hero-aurora-a {
+  0% {
+    transform: translate3d(-14%, 0, 0) scale(1);
+  }
+
+  100% {
+    transform: translate3d(14%, 2.5rem, 0) scale(1.15);
+  }
+}
+
+@keyframes hero-aurora-b {
+  0% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+
+  100% {
+    transform: translate3d(140%, -4rem, 0) scale(1.25);
+  }
+}
+
+/* Horizonte: línea luminosa en la base del hero con un destello que la recorre */
+.hero-horizon {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 1px;
+  overflow: hidden;
+  background: linear-gradient(90deg, transparent, var(--hero-line) 50%, transparent);
+}
+
+.hero-horizon::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, var(--hero-sweep), transparent);
+  transform: translateX(-100%);
+}
+
+.hero-horizon-glow {
+  position: absolute;
+  left: 50%;
+  bottom: -5rem;
+  width: 48rem;
+  height: 8rem;
+  margin-left: -24rem;
+  border-radius: 9999px;
+  background: radial-gradient(closest-side, var(--hero-aurora-a), transparent);
+  pointer-events: none;
+}
+
+@keyframes hero-sweep {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: translateX(420%);
+  }
+}
+
+/* Entrada escalonada del contenido del hero. Solo opacidad y transform (la GPU la compone;
+   un filter: blur obligaría a repintar en cada fotograma). El título no parte de opacidad 0
+   para no retrasar el LCP: solo se desplaza. */
+@keyframes hero-enter {
+  from {
+    opacity: 0;
+    transform: translateY(16px) scale(0.985);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes hero-enter-title {
+  from {
+    transform: translateY(18px);
+  }
+
+  to {
+    transform: none;
+  }
+}
+
+/* Texto con degradado de acento */
+.text-accent-gradient {
+  background-image: linear-gradient(100deg, #0e7490 0%, #0e7490 35%, #22d3ee 50%, #0e7490 65%, #0e7490 100%);
+  background-size: 250% 100%;
+  background-position: 50% 0;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.dark .text-accent-gradient {
+  background-image: linear-gradient(100deg, #00d4ff 0%, #00d4ff 35%, #ecfeff 50%, #00d4ff 65%, #00d4ff 100%);
+}
+
+/* Punto "en vivo" con onda expansiva */
+.pulse-dot {
+  position: relative;
+  display: inline-block;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 9999px;
+  background: #0891b2;
+}
+
+.dark .pulse-dot {
+  background: #00d4ff;
+}
+
+.pulse-dot::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: inherit;
+  opacity: 0;
+}
+
+@keyframes pulse-ring {
+  from {
+    transform: scale(1);
+    opacity: 0.7;
+  }
+
+  to {
+    transform: scale(2.8);
+    opacity: 0;
+  }
+}
+
+/* Odómetro de las cifras del hero (HomeHero): cada dígito rueda hasta su valor */
+.odometer {
+  display: inline-flex;
+}
+
+.odometer-digit {
+  display: inline-block;
+  height: 1em;
+  line-height: 1;
+  overflow: hidden;
+}
+
+.odometer-strip {
+  display: flex;
+  flex-direction: column;
+  transform: translateY(calc(var(--d) * -1em));
+}
+
+.odometer-strip > span {
+  display: block;
+  height: 1em;
+  line-height: 1;
+  text-align: center;
+}
+
+@keyframes odometer-roll {
+  from {
+    transform: translateY(0);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Tarjetas: foco de luz y borde que siguen al cursor (ToolsGrid fija --mx/--my)
+   -------------------------------------------------------------------------- */
+@property --spot {
+  syntax: "<number>";
+  initial-value: 0;
+  inherits: false;
+}
+
+/* El degradado y el borde solo existen mientras el ratón está encima: así las 200 tarjetas
+   no pintan degradados ni máscaras invisibles al cargar. */
+.tool-card {
+  --mx: 50%;
+  --my: 0%;
+}
+
+.tool-card:hover {
+  --spot: 1;
+  background-image: radial-gradient(380px circle at var(--mx) var(--my), rgb(8 145 178 / calc(0.12 * var(--spot))), transparent 45%);
+}
+
+.dark .tool-card:hover {
+  background-image: radial-gradient(380px circle at var(--mx) var(--my), rgb(0 212 255 / calc(0.18 * var(--spot))), transparent 45%);
+}
+
+.tool-card:hover::after {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  padding: 1px;
+  border-radius: inherit;
+  background: radial-gradient(240px circle at var(--mx) var(--my), rgba(8, 145, 178, 0.9), transparent 65%);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask: linear-gradient(#000 0 0) content-box exclude, linear-gradient(#000 0 0);
+  opacity: 1;
+  transition: opacity 300ms ease;
+  pointer-events: none;
+}
+
+/* Fundido de entrada del borde al aparecer (@starting-style) */
+@starting-style {
+  .tool-card:hover::after {
+    opacity: 0;
+  }
+}
+
+.dark .tool-card:hover::after {
+  background: radial-gradient(240px circle at var(--mx) var(--my), rgba(0, 212, 255, 0.95), transparent 65%);
+}
+
+/* --------------------------------------------------------------------------
+   Buscador: halo de acento al enfocar
+   -------------------------------------------------------------------------- */
+.search-input:focus {
+  box-shadow: 0 0 0 4px rgba(8, 145, 178, 0.14), 0 12px 40px -12px rgba(8, 145, 178, 0.5);
+}
+
+.dark .search-input:focus {
+  box-shadow: 0 0 0 4px rgba(0, 212, 255, 0.14), 0 12px 48px -12px rgba(0, 212, 255, 0.55);
+}
+
+/* --------------------------------------------------------------------------
+   Cabecera: línea de luz que aparece al desplazarse
+   -------------------------------------------------------------------------- */
+.site-header::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(8, 145, 178, 0.6), transparent);
+  opacity: 0;
+  pointer-events: none;
+}
+
+.dark .site-header::after {
+  background: linear-gradient(90deg, transparent, rgba(0, 212, 255, 0.7), transparent);
+}
+
+@keyframes fade-in-full {
+  to {
+    opacity: 1;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Aparición al hacer scroll (RevealObserver): solo se ocultan los bloques que
+   empiezan fuera de la pantalla, así que nada visible parpadea al cargar.
+   -------------------------------------------------------------------------- */
+[data-reveal] {
+  transition:
+    opacity 700ms cubic-bezier(0.2, 0.8, 0.2, 1),
+    transform 700ms cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+/* Sin transición al ocultar: al cargar se marcan de golpe todos los bloques que están por debajo
+   de la pantalla y no deben lanzarse cientos de animaciones de ocultado. Al quitar la clase vuelve
+   a aplicarse la transición de [data-reveal] y el bloque aparece animado. */
+[data-reveal].reveal-pending {
+  opacity: 0;
+  transform: translateY(28px) scale(0.98);
+  transition: none;
+}
+
+/* --------------------------------------------------------------------------
+   Cambio de tema con View Transitions: el tema nuevo se revela en círculo
+   desde el botón (la animación la lanza ThemeToggle).
+   -------------------------------------------------------------------------- */
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+  mix-blend-mode: normal;
+}
+
+/* --------------------------------------------------------------------------
+   Animaciones: solo si el usuario no pide reducir el movimiento
+   -------------------------------------------------------------------------- */
+@media (prefers-reduced-motion: no-preference) {
+  /* Animaciones ambientales: arrancan cuando la página ya ha cargado y el navegador está libre
+     (RevealObserver añade .fx-ready), para no competir con la carga inicial. */
+  .fx-ready .hero-aurora-a {
+    animation: hero-aurora-a 18s ease-in-out infinite alternate;
+  }
+
+  .fx-ready .hero-aurora-b {
+    animation: hero-aurora-b 24s ease-in-out infinite alternate;
+  }
+
+  .fx-ready .hero-horizon::after {
+    animation: hero-sweep 7s cubic-bezier(0.6, 0, 0.4, 1) infinite;
+  }
+
+  .fx-ready .pulse-dot::after {
+    animation: pulse-ring 2.2s cubic-bezier(0.2, 0.8, 0.2, 1) infinite;
+  }
+
+  .hero-enter {
+    animation: hero-enter 0.9s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+  }
+
+  .hero-enter-title {
+    animation: hero-enter-title 1s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+  }
+
+  .hero-enter[data-delay="1"] {
+    animation-delay: 120ms;
+  }
+
+  .hero-enter[data-delay="2"] {
+    animation-delay: 240ms;
+  }
+
+  .odometer-strip {
+    animation: odometer-roll 1.4s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+    animation-delay: calc(450ms + var(--i) * 90ms);
+  }
+
+  /* Animaciones guiadas por el scroll (sin JavaScript). Navegadores sin soporte: sin efecto. */
+  @supports (animation-timeline: view()) {
+    .site-header::after {
+      animation: fade-in-full linear both;
+      animation-timeline: scroll(root);
+      animation-range: 0 160px;
+    }
+  }
+}
+
+/* Con el hero fuera de la pantalla, sus animaciones infinitas se detienen (HeroBackground) */
+.home-hero.is-offscreen .hero-aurora,
+.home-hero.is-offscreen .hero-horizon::after,
+.home-hero.is-offscreen .pulse-dot::after {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-lens {
+    display: none;
+  }
+}

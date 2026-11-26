@@ -1,8 +1,8 @@
 "use client";
 
 import { memo, useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import type { Tool } from "@/lib/types";
+import { m, AnimatePresence } from "framer-motion";
+import type { ToolSummary } from "@/lib/types";
 
 // Mapa de subcategorías por categoría
 const SUBCATEGORIES: Record<string, string[]> = {
@@ -25,7 +25,7 @@ function CategorySelect({
   categories: string[]; // include "Todas las categorías" as first option from parent
   value: string;
   onChange: (c: string) => void;
-  tools: Tool[];
+  tools: ToolSummary[];
   onSubcategoryChange: (s: string | null) => void;
   selectedSubcategory: string | null;
 }) {
@@ -113,28 +113,33 @@ function CategorySelect({
     <div className="w-full flex flex-col items-center gap-5">
       {/* Botón trigger */}
       <button
+        type="button"
         onClick={() => setIsOpen(!isOpen)}
-        className={`rounded-xl border px-5 py-2.5 text-lg outline-none shadow-sm focus:ring-2 focus:ring-white/40 hover:ring-1 hover:ring-white/30 min-w-[100px] ${getSelectorColor(value)}`}
-        aria-label="Selector de categoría"
+        className={`rounded-xl border px-5 py-2.5 text-lg outline-none shadow-sm focus-visible:ring-2 focus-visible:ring-blue-500 dark:focus-visible:ring-white/40 hover:ring-1 hover:ring-white/30 min-w-[100px] ${getSelectorColor(value)}`}
+        aria-expanded={isOpen}
+        aria-controls="panel-categorias"
       >
         {value === "Todas las categorías" ? "Categorías" : value}
-        <span className="ml-2">{isOpen ? "▲" : "▼"}</span>
+        <span className="ml-2" aria-hidden="true">{isOpen ? "▲" : "▼"}</span>
       </button>
 
       {/* Botones de categorías con animación */}
       <AnimatePresence>
         {isOpen && (
-          <motion.div
+          <m.div
             initial={{ opacity: 0, y: -10, scale: 0.95 }}
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: -10, scale: 0.95 }}
             transition={{ duration: 0.2, ease: "easeOut" }}
+            id="panel-categorias"
             className="flex flex-col items-center gap-4 w-full"
           >
             <div className="flex justify-center w-full">
               <div className="flex flex-wrap justify-center gap-3 max-w-7xl">
                 {/* Botón "Todas" */}
-                <motion.button
+                <m.button
+                  type="button"
+                  aria-pressed={value === "Todas las categorías"}
                   key="Todas las categorías"
                   onClick={() => handleCategorySelect("Todas las categorías")}
                   className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon min-w-[110px] ${value === "Todas las categorías"
@@ -145,11 +150,13 @@ function CategorySelect({
                   whileTap={{ scale: 0.95 }}
                 >
                   Todas
-                </motion.button>
+                </m.button>
 
                 {/* Botones de categorías */}
                 {categoryOptions.map((category, index) => (
-                  <motion.button
+                  <m.button
+                    type="button"
+                    aria-pressed={value === category}
                     key={category}
                     onClick={() => handleCategorySelect(category)}
                     className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon min-w-[110px] ${value === category
@@ -163,26 +170,30 @@ function CategorySelect({
                     whileTap={{ scale: 0.95 }}
                   >
                     {category}
-                  </motion.button>
+                  </m.button>
                 ))}
               </div>
             </div>
 
             {/* Subcategorías dentro del panel: eliminado; ahora se renderizan fuera */}
-          </motion.div>
+          </m.div>
         )}
       </AnimatePresence>
 
       {/* Subcategorías: visibles aunque el panel esté cerrado */}
       {selectedCategory && subcategories.length > 0 && (
-        <motion.div
+        <m.div
+          role="group"
+          aria-label={`Subcategorías de ${selectedCategory}`}
           className="flex flex-wrap justify-center gap-3 w-full"
           initial={{ opacity: 0, y: -10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.2 }}
         >
           {/* Botón para limpiar subcategoría */}
-          <motion.button
+          <m.button
+            type="button"
+            aria-pressed={!selectedSubcategory}
             onClick={handleClearSubcategory}
             className={`rounded-full px-5 py-2.5 text-base border transition focus-visible:outline-none focus-visible:ring-2 tab-neon min-w-[110px] ${!selectedSubcategory
               ? getCategoryColor(selectedCategory)
@@ -192,7 +203,7 @@ function CategorySelect({
             whileTap={{ scale: 0.95 }}
           >
             Todas
-          </motion.button>
+          </m.button>
 
           {/* Botones de subcategorías */}
           {subcategories.map((subcategory, index) => {
@@ -202,7 +213,9 @@ function CategorySelect({
             const unselectedClass = "border-gray-400 dark:border-white/15 text-gray-800 dark:text-white/85 hover:bg-gray-100 dark:hover:bg-white/5 focus-visible:ring-blue-500 dark:focus-visible:ring-white/30";
 
             return (
-              <motion.button
+              <m.button
+                type="button"
+                aria-pressed={isSelected}
                 key={subcategory}
                 onClick={() => handleSubcategorySelect(subcategory)}
                 className={`${baseClass} ${isSelected ? selectedClass : unselectedClass}`}
@@ -213,10 +226,10 @@ function CategorySelect({
                 whileTap={{ scale: 0.95 }}
               >
                 {subcategory}
-              </motion.button>
+              </m.button>
             );
           })}
-        </motion.div>
+        </m.div>
       )}
     </div>
   );

@@ -1,5 +1,4 @@
-import type { Tool } from "@/lib/types";
-import type { TabKey } from "@/lib/types";
+import type { TabKey, ToolSummary } from "@/lib/types";
 
 export function normalize(text: string): string {
   return (text || "")
@@ -8,16 +7,24 @@ export function normalize(text: string): string {
     .toLowerCase();
 }
 
-export function filterByQuery(tools: Tool[], query: string): Tool[] {
-  const q = normalize(query.trim());
-  if (!q) return tools;
-  return tools.filter((t) => {
-    const hay = normalize(`${t.nombre} ${t.descripcion}`);
-    return hay.includes(q);
-  });
+// Texto de búsqueda normalizado por herramienta: se calcula una sola vez y no en cada tecla.
+const searchIndex = new WeakMap<ToolSummary, string>();
+function searchableText(tool: ToolSummary) {
+  let text = searchIndex.get(tool);
+  if (text === undefined) {
+    text = normalize(`${tool.nombre} ${tool.descripcion}`);
+    searchIndex.set(tool, text);
+  }
+  return text;
 }
 
-export function filterByCategory(tools: Tool[], categoria: string, subcategoria?: string): Tool[] {
+export function filterByQuery<T extends ToolSummary>(tools: T[], query: string): T[] {
+  const q = normalize(query.trim());
+  if (!q) return tools;
+  return tools.filter((t) => searchableText(t).includes(q));
+}
+
+export function filterByCategory<T extends ToolSummary>(tools: T[], categoria: string, subcategoria?: string): T[] {
   if (!categoria || categoria === "Todas las categorías") return tools;
 
   // Primero filtramos por categoría
@@ -30,8 +37,8 @@ export function filterByCategory(tools: Tool[], categoria: string, subcategoria?
   return byCategory.filter((t) => t.subcategoria?.includes(subcategoria));
 }
 
-export function applyTab(tools: Tool[], tab: TabKey, favIds: string[]): Tool[] {
-  const byNombreAsc = (a: Tool, b: Tool) => a.nombre.localeCompare(b.nombre);
+export function applyTab<T extends ToolSummary>(tools: T[], tab: TabKey, favIds: string[]): T[] {
+  const byNombreAsc = (a: T, b: T) => a.nombre.localeCompare(b.nombre);
   switch (tab) {
     case "Nuevas":
       return [...tools].sort((a, b) => {
